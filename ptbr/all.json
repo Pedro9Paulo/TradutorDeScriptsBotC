@@ -775,7 +775,7 @@
     "firstNightReminder": "",
     "otherNight": 28,
     "otherNightReminder": "Um dos jogadores escolhidos pelo Shabaloth na noite anterior pode ser ressuscitado. :reminder: O Shabaloth escolhe 2 jogadores. :reminder:",
-    "reminders": ["Morto", "Morto" "Vivo"],
+    "reminders": ["Morto", "Morto", "Vivo"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha 2 jogadores: eles morrem. Um jogador morto escolhido na noite anterior pode ser regurgitado."
@@ -2163,7 +2163,7 @@
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
-    "reminders": ["Mais Nenhum Forasteiro"],
+    "reminders": ["Mais Nenhum Mau"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Não pode haver mais do que 1 jogador do mal adicional"
