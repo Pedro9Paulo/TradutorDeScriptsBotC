@@ -139,7 +139,7 @@ noites = ["Travellers",
 i = 0
 for role in noite1:
 	i += 1
-	idrole = todos.find('"id": "'+ role.lower().replace(" ", "_")+"_br")
+	idrole = todos.find('{\n    "id": "'+ role.lower().replace(" ", "_")+"_br")
 	idnoite1 = todos.find('"firstNight": ', idrole)
 	if idrole != -1:
 		novonumero = str(i)
@@ -148,7 +148,7 @@ for role in noite1:
 i = 0
 for role in noites:
 	i += 1
-	idrole = todos.find('"id": "'+ role.lower().replace(" ", "_")+"_br")
+	idrole = todos.find('{\n    "id": "'+ role.lower().replace(" ", "_")+"_br")
 	idnoites = todos.find('"otherNight": ', idrole)
 	if idrole != -1:
 		novonumero = str(i)
