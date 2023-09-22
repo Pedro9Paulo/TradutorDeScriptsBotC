@@ -301,7 +301,7 @@
     "team": "minion",
     "firstNight":  0,
     "firstNightReminder": "",
-    "otherNight": 20,
+    "otherNight": 20, 
     "otherNightReminder": "Se a Mulher Escarlate se tornou o Demônio hoje, avise-a mostrando o tolken *VOCÊ É* seguido do token do demônio.",
     "reminders": ["É o Demônio"],
     "remindersGlobal": [],
@@ -1405,7 +1405,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Toda Noite, escolha um jogador: um Lacaio, se escolhido, saberá disso. Todos os Lacaios escolhidos não têm habilidade."
+    "ability": "A cada noite, escolha um jogador: um Lacaio, se escolhido, saberá disso. Todos os Lacaios escolhidos não têm habilidade."
   },
   {
     "id": "king_br",
@@ -1479,7 +1479,7 @@
     "firstNightReminder": "Decida a habilidade do Esquecido",
     "otherNight": 48,
     "otherNightReminder": "",
-    "reminders": ["?"],
+    "reminders": ["?", "?", "?"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você não sabe qual é a sua habilidade. Todo dia, você pode visitar o Narrador para tentar adivinhar a sua habilidade: você descobre o quão perto está da resposta."
@@ -1694,7 +1694,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Toda Noite você descobre com qual jogador o Narrador acredita que você mais deveria conversar."
+    "ability": "A cada noite você descobre com qual jogador o Narrador acredita que você mais deveria conversar."
   },
   {
     "id": "snitch_br",
@@ -1829,13 +1829,13 @@
     "edition": "",
     "team": "minion",
     "firstNight": 18,
-    "firstNightReminder": "Mostre o Grimório para a Viúva pelo tempo que ele precisar. Viúva escolhe um jogador. :reminder:",
+    "firstNightReminder": "Mostre o Grimório para a Viúva pelo tempo que ela precisar. Viúva escolhe um jogador. :reminder:",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Envenenado","Sabe"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ele está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
+    "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "jinxes": [
         {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
@@ -2006,7 +2006,7 @@
     "reminders": ["Alucinado", "2º"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Toda Noite, escolha 2 jogadores: amanhã o 1º jogador deve alucinar que o 2º é do mau, ou ambos podem morrer"
+    "ability": "A cada Noite, escolha 2 jogadores: amanhã o 1º jogador deve alucinar que o 2º é do mau, ou ambos podem morrer"
   },
   {
     "id": "lil_monsta_br",
