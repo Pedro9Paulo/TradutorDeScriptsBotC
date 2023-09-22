@@ -1644,7 +1644,7 @@
     "firstNightReminder": "",
     "otherNight":  0,
     "otherNightReminder": "",
-    "reminders": ["Habilidade adquirida", "Envenenado"],
+    "reminders": ["Morreu Hoje", "Envenenado"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você está envenenado até um jogador do Bem ser executado.",
