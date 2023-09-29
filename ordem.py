@@ -2,7 +2,11 @@ import re
 f = open("ptbr/all.json", encoding="utf-8")
 todos = f.read()
 f.close()
-noite1 = ["Travellers",
+noite1 = ["Zero",
+		"Dusk",
+		"Secret",
+		"Fabled"
+		"Travellers",
 		"Philosopher",
 		"Alchemist",
 		"Poppy Grower",
@@ -50,6 +54,7 @@ noite1 = ["Travellers",
 		"Knight",
 		"Noble",
 		"Balloonist",
+		"Shugenja",
 		"Bounty Hunter",
 		"Nightwatchman",
 		"Cult Leader",
@@ -61,7 +66,11 @@ noite1 = ["Travellers",
 		"DAWN",
 		"Leviathan",
 		"Vizier"]
-noites = ["Travellers",
+noites = ["Zero",
+		"Dusk",
+		"Secret",
+		"Fabled",
+		"Travellers",
 		"Philosopher",		
 		"Poppy Grower",
 		"Sailor",
