@@ -352,10 +352,11 @@
     "firstNightReminder": "O Burocrata escolhe um jogador. :reminder:",
     "otherNight":  5,
     "otherNightReminder": "O Burocrata escolhe um jogador. :reminder",
-    "reminders": ["3 votos","3 Votes"],
+    "reminders": ["3 votos"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador, (exceto você): o voto dele vale 3 votos amanhã."
+    "ability": "A cada noite, escolha um jogador, (exceto você): o voto dele vale 3 votos amanhã.",
+    "special": [{ "name": "multiplier", "type": "vote", "value":3}]
   },
   {
     "id": "thief_br",
@@ -367,10 +368,11 @@
     "firstNightReminder": "O Ladrão escolhe um jogador. :reminder:",
     "otherNight":  1,
     "otherNightReminder": "O Ladrão escolhe um jogador. :reminder:",
-    "reminders": ["Voto negativo","Negative Vote"],
+    "reminders": ["Voto negativo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador (exceto você): o voto dele conta negativamente amanhã."
+    "ability": "A cada noite, escolha um jogador (exceto você): o voto dele conta negativamente amanhã.",
+    "special": [{ "name": "multiplier", "type": "vote", "value":-1}]
   },
   {
     "id": "gunslinger_br",
