@@ -222,7 +222,8 @@
     "reminders": [],
     "remindersGlobal": ["Bêbado"],
     "setup": true,
-    "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é."
+    "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é.",
+    "special": [{ "name": "replace-character", "type": "reveal"}]
   },
   {
     "id": "recluse_br",
@@ -672,9 +673,10 @@
     "otherNight": 26,
     "otherNightReminder": "Faça o que mais for necessário para simular o Demônio agindo. Coloque o Lunático para dormir. Acorde o Demônio. Mostre o token de Lunático & aponte para ele e seu(s) alvo(s)",
     "reminders": ["Escolhido", "Escolhido", "Escolhido", "Escolhido"],
-    "remindersGlobal": [],
+    "remindersGlobal": ["Lunático"],
     "setup": false,
     "ability": "Você pensa que é um Demônio, mas você não é. O Demônio sabe quem você é e quem você escolhe à noite.",
+    "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
         {"id": "mathematician_br", "reason": "O Matemático aprende se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."}]
   },
@@ -1023,7 +1025,8 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": ["É o filósofo"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um personagem bom: ganhe aquela habilidade. Se o personagem estiver em jogo, ele fica bêbado."
+    "ability": "Uma vez por jogo, à noite, escolha um personagem bom: ganhe aquela habilidade. Se o personagem estiver em jogo, ele fica bêbado.",
+    "special": [{ "name": "replace-character", "type": "reveal"}]
   },
   {
     "id": "artist_br",
@@ -1558,7 +1561,8 @@
     "reminders": [],
     "remindersGlobal": ["É o Alquimista"],
     "setup": false,
-    "ability": "Você possui a habilidade de um Lacaio de fora do jogo."
+    "ability": "Você possui a habilidade de um Lacaio de fora do jogo.",
+    "special": [{ "name": "replace-character", "type": "reveal"}]
   },
   {
     "id": "farmer_br",
@@ -1655,7 +1659,7 @@
   },
   {
     "id": "steward_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/townsfolk/Steward_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/steward.png.png",
     "name": "Regente",
     "edition": "",
     "team": "townsfolk",
@@ -1670,7 +1674,7 @@
   },
   {
     "id": "knight_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/townsfolk/Knight_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/knight.png",
     "name": "Cavaleiro",
     "edition": "",
     "team": "townsfolk",
@@ -1685,7 +1689,7 @@
   },
   {
     "id": "high_priestess_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/townsfolk/High%20Priestess_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/highpriestess.png",
     "name": "Suma Sacerdotisa",
     "edition": "",
     "team": "townsfolk",
@@ -1700,7 +1704,7 @@
   },
   {
     "id": "shugenja_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/townsfolk/Shugenja_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/shugenja.png",
     "name": "Shugenja",
     "edition": "",
     "team": "townsfolk",
@@ -1820,7 +1824,7 @@
   },
   {
     "id": "plague_doctor_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/outsider/Plague%20Doctor_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/plaguedoctor.png",
     "name": "Médico da Peste",
     "edition": "",
     "team": "outsider",
@@ -1937,6 +1941,7 @@
     "remindersGlobal": ["É a marionete"],
     "setup": true,
     "ability": "Você acredita ser um personagem bom. O Demônio sabe quem você é. [Você é vizinho do Demônio]",
+    "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
         {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro foi adicionado."},
         {"id": "huntsman_br", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."},
@@ -1966,7 +1971,7 @@
   },
   {
     "id": "organ_grinder_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/minion/Organ%20Grinder_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/organgrinder.png",
     "name": "Realejo",
     "edition": "",
     "team": "minion",
@@ -1978,6 +1983,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Todos os jogadores devem manter os olhos fechados durante as votações e o resultado é secreto. Votos em você só contam se você votar também.",
+    "special": [{ "name": "hidden", "type": "vote"}],
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."},
         {"id": "flowergirl_br", "reason": "Se os jogadores estavam de olhos fechados durante as nomeações, a Florista é informada quantas vezes o Demônio votou."},
@@ -1988,7 +1994,7 @@
   },
   {
     "id": "vizier_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/minion/Vizier_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/vizier.png",
     "name": "Vizir",
     "edition": "",
     "team": "minion",
@@ -2012,7 +2018,7 @@
   },
   {
     "id": "harpy_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/minion/Harpy_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/harpy.png",
     "name": "Harpia",
     "edition": "",
     "team": "minion",
@@ -2171,7 +2177,7 @@
   },
   {
     "id": "ojo_br",
-    "image":"https://script.bloodontheclocktower.com/images/icon/4%20-%20Experimental/demon/Ojo_icon.png",
+    "image":"https://github.com/nicholas-eden/townsquare/blob/develop/src/assets/icons/ojo.png",
     "name": "Ojo",
     "edition": "",
     "team": "demon",
@@ -2348,6 +2354,6 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
-  },
+  }
 
 ]
