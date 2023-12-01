@@ -1835,13 +1835,7 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando você morrer, o narrador ganha a habilidade de um lacaio fora de jogo.",
-    "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
-        {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, os tokens do Dêmonio e o Mágico são removidos."},
-        {"id": "poppy_grower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
-        {"id": "damsel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
+    "ability": "Quando você morrer, o narrador ganha a habilidade de um lacaio fora de jogo."
   },
   {
     "id": "hatter_br",
@@ -1856,13 +1850,7 @@
     "reminders": ["Troca"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se o Chapeleiro morreu imediatamente acorde o time do mau. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* & o token de personagem do Chapeleiro. um por um podem selecionar um personagem, se sim troque os seus tokens com o escolhido :reminder: ",
-    "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
-        {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, os tokens do Dêmonio e o Mágico são removidos."},
-        {"id": "poppy_grower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
-        {"id": "damsel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
+    "ability": "Se o Chapeleiro morreu imediatamente acorde o time do mau. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* & o token de personagem do Chapeleiro. um por um podem selecionar um personagem, se sim troque os seus tokens com o escolhido :reminder: "
   },
   {
     "id": "widow_br",
