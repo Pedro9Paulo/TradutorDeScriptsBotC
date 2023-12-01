@@ -1,7 +1,9 @@
 [
   {
     "id": "washerwoman_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/washerwoman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwoman.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwomanReversed.png"],
     "name": "Lavadeira",
     "edition": "tb",
     "team": "townsfolk",
@@ -16,7 +18,9 @@
   },
   {
     "id": "librarian_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/librarian.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarianReversed.png"],
     "name": "Bibliotecária",
     "edition": "tb",
     "team": "townsfolk",
@@ -31,7 +35,9 @@
   },
   {
     "id": "investigator_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/investigator.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigator.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigatorReversed.png"],
     "name": "Investigador",
     "edition": "tb",
     "team": "townsfolk",
@@ -46,7 +52,9 @@
   },
   {
     "id": "chef_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/chef.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chef.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chefReversed.png"],
     "name": "Chef",
     "edition": "tb",
     "team": "townsfolk",
@@ -61,7 +69,9 @@
   },
   {
     "id": "empath_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/empath.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empath.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empathReversed.png"],
     "name": "Empático",
     "edition": "tb",
     "team": "townsfolk",
@@ -76,7 +86,9 @@
   },
   {
     "id": "fortune_teller_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fortuneteller.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortuneteller.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortunetellerReversed.png"],
     "name": "Vidente",
     "edition": "tb",
     "team": "townsfolk",
@@ -91,7 +103,9 @@
   },
   {
     "id": "undertaker_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/undertaker.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertaker.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertakerReversed.png"],
     "name": "Coveiro",
     "edition": "tb",
     "team": "townsfolk",
@@ -106,7 +120,9 @@
   },
   {
     "id": "monk_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/monk.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monk.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monkReversed.png"],
     "name": "Monge",
     "edition": "tb",
     "team": "townsfolk",
@@ -121,7 +137,9 @@
   },
   {
     "id": "ravenkeeper_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/ravenkeeper.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeper.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeperReversed.png"],
     "name": "Mestre dos Corvos",
     "edition": "tb",
     "team": "townsfolk",
@@ -136,7 +154,9 @@
   },
   {
     "id": "virgin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/virgin.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virgin.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virginReversed.png"],
     "name": "Virgem",
     "edition": "tb",
     "team": "townsfolk",
@@ -151,7 +171,9 @@
   },
   {
     "id": "slayer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/slayer.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayer.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayerReversed.png"],
     "name": "Atirador",
     "edition": "tb",
     "team": "townsfolk",
@@ -166,7 +188,9 @@
   },
   {
     "id": "soldier_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/soldier.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldier.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldierReversed.png"],
     "name": "Soldado",
     "edition": "tb",
     "team": "townsfolk",
@@ -181,7 +205,9 @@
   },
   {
     "id": "mayor_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/mayor.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayor.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayorReversed.png"],
     "name": "Prefeito",
     "edition": "tb",
     "team": "townsfolk",
@@ -196,7 +222,9 @@
   },
   {
     "id": "butler_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/butler.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butler.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butlerReversed.png"],
     "name": "Mordomo",
     "edition": "tb",
     "team": "outsider",
@@ -211,7 +239,9 @@
   },
   {
     "id": "drunk_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/drunk.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunk.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunkReversed.png"],
     "name": "Bêbado",
     "edition": "tb",
     "team": "outsider",
@@ -227,7 +257,9 @@
   },
   {
     "id": "recluse_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/recluse.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluse.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluseReversed.png"],
     "name": "Recluso",
     "edition": "tb",
     "team": "outsider",
@@ -242,7 +274,9 @@
   },
   {
     "id": "saint_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/saint.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saint.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saintReversed.png"],
     "name": "Santo",
     "edition": "tb",
     "team": "outsider",
@@ -257,7 +291,9 @@
   },
   {
     "id": "poisoner_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/poisoner.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisoner.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisonerReversed.png"],
     "name": "Envenenador",
     "edition": "tb",
     "team": "minion",
@@ -272,7 +308,9 @@
   },
   {
     "id": "spy_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/spy.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spy.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spyReversed.png"],
     "name": "Espião",
     "edition": "tb",
     "team": "minion",
@@ -296,7 +334,9 @@
   },
   {
     "id": "scarlet_woman_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/scarletwoman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwoman.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwomanReversed.png"],
     "name": "Mulher Escarlate",
     "edition": "tb",
     "team": "minion",
@@ -311,7 +351,9 @@
   },
   {
     "id": "baron_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/baron.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baron.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baronReversed.png"],
     "name": "Barão",
     "edition": "tb",
     "team": "minion",
@@ -330,7 +372,9 @@
   },
   {
     "id": "imp_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/imp.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/imp.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/impReversed.png"],
     "name": "Capeta",
     "edition": "tb",
     "team": "demon",
@@ -345,7 +389,10 @@
   },
   {
     "id": "bureaucrat_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/bureaucrat.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucrat.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratEvil.png"],
     "name": "Burocrata",
     "edition": "tb",
     "team": "traveler",
@@ -361,7 +408,10 @@
   },
   {
     "id": "thief_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/thief.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thief.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefEvil.png"],
     "name": "Ladrão",
     "edition": "tb",
     "team": "traveler",
@@ -377,7 +427,10 @@
   },
   {
     "id": "gunslinger_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/gunslinger.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslinger.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerEvil.png"],
     "name": "Pistoleiro",
     "edition": "tb",
     "team": "traveler",
@@ -392,7 +445,10 @@
   },
   {
     "id": "scapegoat_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/scapegoat.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoat.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatEvil.png"],
     "name": "Bode Expiatório",
     "edition": "tb",
     "team": "traveler",
@@ -407,7 +463,10 @@
   },
   {
     "id": "beggar_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/beggar.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggar.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarEvil.png"],
     "name": "Mendigo",
     "edition": "tb",
     "team": "traveler",
@@ -422,7 +481,9 @@
   },
   {
     "id": "grandmother_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/grandmother.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmother.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmotherReversed.png"],
     "name": "Vovó",
     "edition": "bmr",
     "team": "townsfolk",
@@ -437,7 +498,9 @@
   },
   {
     "id": "sailor_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sailor.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailor.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailorReversed.png"],
     "name": "Marinheiro",
     "edition": "bmr",
     "team": "townsfolk",
@@ -452,7 +515,9 @@
   },
   {
     "id": "chambermaid_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/chambermaid.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaid.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaidReversed.png"],
     "name": "Camareira",
     "edition": "bmr",
     "team": "townsfolk",
@@ -469,7 +534,9 @@
   },
   {
     "id": "exorcist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/exorcist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcistReversed.png"],
     "name": "Exorcista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -484,7 +551,9 @@
   },
   {
     "id": "innkeeper_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/innkeeper.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeper.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeperReversed.png"],
     "name": "Estalajadeiro",
     "edition": "bmr",
     "team": "townsfolk",
@@ -499,7 +568,9 @@
   },
   {
     "id": "gambler_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/gambler.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gambler.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gamblerReversed.png"],
     "name": "Apostador",
     "edition": "bmr",
     "team": "townsfolk",
@@ -514,7 +585,9 @@
   },
   {
     "id": "gossip_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/gossip.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossip.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossipReversed.png"],
     "name": "Fofoqueira",
     "edition": "bmr",
     "team": "townsfolk",
@@ -529,7 +602,9 @@
   },
   {
     "id": "courtier_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/courtier.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtier.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtierReversed.png"],
     "name": "Cortesã",
     "edition": "bmr",
     "team": "townsfolk",
@@ -544,7 +619,9 @@
   },
   {
     "id": "professor_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/professor.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professor.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professorReversed.png"],
     "name": "Cientista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -559,7 +636,9 @@
   },
   {
     "id": "minstrel_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/minstrel.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrel.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrelReversed.png"],
     "name": "Bardo",
     "edition": "bmr",
     "team": "townsfolk",
@@ -574,7 +653,9 @@
   },
   {
     "id": "tea_lady_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/tealady.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealady.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealadyReversed.png"],
     "name": "Moça do Chá",
     "edition": "bmr",
     "team": "townsfolk",
@@ -589,7 +670,9 @@
   },
   {
     "id": "pacifist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/pacifist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifistReversed.png"],
     "name": "Pacifista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -604,7 +687,9 @@
   },
   {
     "id": "fool_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fool.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fool.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/foolReversed.png"],
     "name": "Bobo",
     "edition": "bmr",
     "team": "townsfolk",
@@ -619,7 +704,9 @@
   },
   {
     "id": "tinker_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/tinker.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinker.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinkerReversed.png"],
     "name": "Imprudente",
     "edition": "bmr",
     "team": "outsider",
@@ -634,7 +721,9 @@
   },
   {
     "id": "moonchild_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/moonchild.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchild.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchildReversed.png"],
     "name": "Filha da Noite",
     "edition": "bmr",
     "team": "outsider",
@@ -649,7 +738,9 @@
   },
   {
     "id": "goon_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/goon.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goon.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goonReversed.png"],
     "name": "Capanga",
     "edition": "bmr",
     "team": "outsider",
@@ -664,7 +755,9 @@
   },
   {
     "id": "lunatic_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/lunatic.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunatic.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunaticReversed.png"],
     "name": "Lunático",
     "edition": "bmr",
     "team": "outsider",
@@ -682,7 +775,9 @@
   },
   {
     "id": "godfather_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/godfather.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfather.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfatherReversed.png"],
     "name": "Mafioso",
     "edition": "bmr",
     "team": "minion",
@@ -699,7 +794,9 @@
   },
   {
     "id": "devils_advocate_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/devilsadvocate.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocate.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocateReversed.png"],
     "name": "Advogado do Diabo",
     "edition": "bmr",
     "team": "minion",
@@ -714,7 +811,9 @@
   },
   {
     "id": "assassin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/assassin.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassin.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassinReversed.png"],
     "name": "Assassino",
     "edition": "bmr",
     "team": "minion",
@@ -729,7 +828,9 @@
   },
   {
     "id": "mastermind_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/mastermind.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermind.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermindReversed.png"],
     "name": "Mentor",
     "edition": "bmr",
     "team": "minion",
@@ -744,7 +845,9 @@
   },
   {
     "id": "zombuul_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/zombuul.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuul.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuulReversed.png"],
     "name": "Zumbuul",
     "edition": "bmr",
     "team": "demon",
@@ -759,7 +862,9 @@
   },
   {
     "id": "pukka_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/pukka.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukka.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukkaReversed.png"],
     "name": "Pukka",
     "edition": "bmr",
     "team": "demon",
@@ -774,7 +879,9 @@
   },
   {
     "id": "shabaloth_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/shabaloth.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabaloth.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabalothReversed.png"],
     "name": "Shabaloth",
     "edition": "bmr",
     "team": "demon",
@@ -789,7 +896,9 @@
   },
   {
     "id": "po_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/po.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/po.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poReversed.png"],
     "name": "Po",
     "edition": "bmr",
     "team": "demon",
@@ -804,7 +913,10 @@
   },
   {
     "id": "apprentice_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/apprentice.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprentice.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeEvil.png"],
     "name": "Aprendiz",
     "edition": "bmr",
     "team": "traveler",
@@ -819,7 +931,10 @@
   },
   {
     "id": "matron_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/matron.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matron.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronEvil.png"],
     "name": "Matrona",
     "edition": "bmr",
     "team": "traveler",
@@ -834,7 +949,10 @@
   },
   {
     "id": "judge_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/judge.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judge.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeEvil.png"],
     "name": "Juiz",
     "edition": "bmr",
     "team": "traveler",
@@ -849,7 +967,10 @@
   },
   {
     "id": "bishop_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/bishop.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishop.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopEvil.png"],
     "name": "Bispo",
     "edition": "bmr",
     "team": "traveler",
@@ -864,7 +985,10 @@
   },
   {
     "id": "voudon_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/voudon.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudon.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonEvil.png"],
     "name": "Voudon",
     "edition": "bmr",
     "team": "traveler",
@@ -879,7 +1003,9 @@
   },
   {
     "id": "clockmaker_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/clockmaker.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmaker.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmakerReversed.png"],
     "name": "Relojoeiro",
     "edition": "snv",
     "team": "townsfolk",
@@ -894,7 +1020,9 @@
   },
   {
     "id": "dreamer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/dreamer.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamer.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamerReversed.png"],
     "name": "Sonhador",
     "edition": "snv",
     "team": "townsfolk",
@@ -909,7 +1037,9 @@
   },
   {
     "id": "snake_charmer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/snakecharmer.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmer.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmerReversed.png"],
     "name": "Encantador de Serpentes",
     "edition": "snv",
     "team": "townsfolk",
@@ -924,7 +1054,9 @@
   },
   {
     "id": "mathematician_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/mathematician.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematician.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematicianReversed.png"],
     "name": "Matemático",
     "edition": "snv",
     "team": "townsfolk",
@@ -939,7 +1071,9 @@
   },
   {
     "id": "flowergirl_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/flowergirl.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirl.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirlReversed.png"],
     "name": "Florista",
     "edition": "snv",
     "team": "townsfolk",
@@ -954,7 +1088,9 @@
   },
   {
     "id": "town_crier_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/towncrier.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrier.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrierReversed.png"],
     "name": "Arauto da Cidade",
     "edition": "snv",
     "team": "townsfolk",
@@ -969,7 +1105,9 @@
   },
   {
     "id": "oracle_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/oracle.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracle.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracleReversed.png"],
     "name": "Oráculo",
     "edition": "snv",
     "team": "townsfolk",
@@ -984,7 +1122,9 @@
   },
   {
     "id": "savant_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/savant.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savant.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savantReversed.png"],
     "name": "Prodígio",
     "edition": "snv",
     "team": "townsfolk",
@@ -999,7 +1139,9 @@
   },
   {
     "id": "seamstress_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/seamstress.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstress.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstressReversed.png"],
     "name": "Costureira",
     "edition": "snv",
     "team": "townsfolk",
@@ -1014,7 +1156,9 @@
   },
   {
     "id": "philosopher_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/philosopher.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopher.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopherReversed.png"],
     "name": "Filósofo",
     "edition": "snv",
     "team": "townsfolk",
@@ -1030,7 +1174,9 @@
   },
   {
     "id": "artist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/artist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artistReversed.png"],
     "name": "Artista",
     "edition": "snv",
     "team": "townsfolk",
@@ -1045,7 +1191,9 @@
   },
   {
     "id": "juggler_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/juggler.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/juggler.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/jugglerReversed.png"],
     "name": "Malabarista",
     "edition": "snv",
     "team": "townsfolk",
@@ -1060,7 +1208,9 @@
   },
   {
     "id": "sage_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sage.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sage.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sageReversed.png"],
     "name": "Sábio",
     "team": "townsfolk",
     "edition": "snv",
@@ -1075,7 +1225,9 @@
   },
   {
     "id": "mutant_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/mutant.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutant.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutantReversed.png"],
     "name": "Mutante",
     "edition": "snv",
     "team": "outsider",
@@ -1090,7 +1242,9 @@
   },
   {
     "id": "sweetheart_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sweetheart.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheart.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheartReversed.png"],
     "name": "Queridinha",
     "edition": "snv",
     "team": "outsider",
@@ -1105,7 +1259,9 @@
   },
   {
     "id": "barber_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/barber.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barber.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barberReversed.png"],
     "name": "Barbeiro",
     "edition": "snv",
     "team": "outsider",
@@ -1120,7 +1276,9 @@
   },
   {
     "id": "klutz_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/klutz.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutz.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutzReversed.png"],
     "name": "Desastrado",
     "edition": "snv",
     "team": "outsider",
@@ -1135,7 +1293,9 @@
   },
   {
     "id": "evil_twin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/eviltwin.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwin.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwinReversed.png"],
     "name": "Gêmea Má",
     "edition": "snv",
     "team": "minion",
@@ -1151,7 +1311,9 @@
   },
   {
     "id": "witch_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/witch.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witch.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witchReversed.png"],
     "name": "Feiticeira",
     "edition": "snv",
     "team": "minion",
@@ -1166,7 +1328,9 @@
   },
   {
     "id": "cerenovus_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/cerenovus.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovus.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovusReversed.png"],
     "name": "Cerenovus",
     "edition": "snv",
     "team": "minion",
@@ -1183,7 +1347,9 @@
   },
   {
     "id": "pit-hag_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/pithag.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithag.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithagReversed.png"],
     "name": "Bruxa do Fosso",
     "edition": "snv",
     "team": "minion",
@@ -1204,7 +1370,9 @@
   },
   {
     "id": "fang_gu_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fanggu.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fanggu.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fangguReversed.png"],
     "name": "Fang Gu",
     "edition": "snv",
     "team": "demon",
@@ -1219,7 +1387,9 @@
   },
   {
     "id": "vigormortis_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/vigormortis.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortis.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortisReversed.png"],
     "name": "Vigormortis",
     "edition": "snv",
     "team": "demon",
@@ -1234,7 +1404,9 @@
   },
   {
     "id": "no_dashii_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/nodashii.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashii.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashiiReversed.png"],
     "name": "No Dashii",
     "edition": "snv",
     "team": "demon",
@@ -1249,7 +1421,9 @@
   },
   {
     "id": "vortox_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/vortox.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortox.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortoxReversed.png"],
     "name": "Vortox",
     "edition": "snv",
     "team": "demon",
@@ -1264,7 +1438,10 @@
   },
   {
     "id": "barista_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/barista.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barista.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaEvil.png"],
     "name": "Barista",
     "edition": "snv",
     "team": "traveler",
@@ -1279,7 +1456,10 @@
   },
   {
     "id": "harlot_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/harlot.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlot.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotEvil.png"],
     "name": "Meretriz",
     "edition": "snv",
     "team": "traveler",
@@ -1294,7 +1474,10 @@
   },
   {
     "id": "butcher_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/butcher.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcher.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherEvil.png"],
     "name": "Açougueiro",
     "edition": "snv",
     "team": "traveler",
@@ -1309,7 +1492,10 @@
   },
   {
     "id": "bone_collector_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/bonecollector.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollector.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorEvil.png"],
     "name": "Colecionador de Ossos",
     "edition": "snv",
     "team": "traveler",
@@ -1324,7 +1510,10 @@
   },
   {
     "id": "deviant_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/deviant.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviant.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantEvil.png"],
     "name": "Divergente",
     "edition": "snv",
     "team": "traveler",
@@ -1339,7 +1528,9 @@
   },
   {
     "id": "noble_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/noble.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/noble.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nobleReversed.png"],
     "name": "Nobre",
     "edition": "",
     "team": "townsfolk",
@@ -1354,7 +1545,9 @@
   },
   {
     "id": "bounty_hunter_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/bountyhunter.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunter.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunterReversed.png"],
     "name": "Mercenário",
     "edition": "",
     "team": "townsfolk",
@@ -1369,7 +1562,9 @@
   },
   {
     "id": "pixie_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/pixie.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixie.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixieReversed.png"],
     "name": "Pixie",
     "edition": "",
     "team": "townsfolk",
@@ -1384,7 +1579,9 @@
   },
   {
     "id": "general_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/general.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/general.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/generalReversed.png"],
     "name": "General",
     "edition": "",
     "team": "townsfolk",
@@ -1399,7 +1596,9 @@
   },
   {
     "id": "preacher_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/preacher.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacher.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacherReversed.png"],
     "name": "Missionário",
     "edition": "",
     "team": "townsfolk",
@@ -1414,7 +1613,9 @@
   },
   {
     "id": "king_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/king.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/king.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kingReversed.png"],
     "name": "Rei",
     "edition": "",
     "team": "townsfolk",
@@ -1429,7 +1630,9 @@
   },
   {
     "id": "balloonist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/balloonist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonistReversed.png"],
     "name": "Balonista",
     "edition": "",
     "team": "townsfolk",
@@ -1444,7 +1647,9 @@
   },
   {
     "id": "cult_leader_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/cultleader.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleader.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleaderReversed.png"],
     "name": "Líder da Seita",
     "edition": "",
     "team": "townsfolk",
@@ -1459,7 +1664,9 @@
   },
   {
     "id": "lycanthrope_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/lycanthrope.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthrope.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthropeReversed.png"],
     "name": "Licantropo",
     "edition": "",
     "team": "townsfolk",
@@ -1476,7 +1683,9 @@
   },
   {
     "id": "amnesiac_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/amnesiac.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiac.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiacReversed.png"],
     "name": "Esquecido",
     "edition": "",
     "team": "townsfolk",
@@ -1491,7 +1700,9 @@
   },
   {
     "id": "nightwatchman_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/nightwatchman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchman.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchmanReversed.png"],
     "name": "Vigia Noturno",
     "edition": "",
     "team": "townsfolk",
@@ -1505,7 +1716,9 @@
   },
   {
     "id": "engineer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/engineer.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineer.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineerReversed.png"],
     "name": "Engenheiro",
     "edition": "",
     "team": "townsfolk",
@@ -1520,7 +1733,9 @@
   },
   {
     "id": "fisherman_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fisherman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fisherman.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fishermanReversed.png"],
     "name": "Pescador",
     "edition": "",
     "team": "townsfolk",
@@ -1535,7 +1750,9 @@
   },
   {
     "id": "huntsman_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/huntsman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsman.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsmanReversed.png"],
     "name": "Caçador",
     "edition": "",
     "team": "townsfolk",
@@ -1550,7 +1767,9 @@
   },
   {
     "id": "alchemist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/alchemist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemistReversed.png"],
     "name": "Alquimista",
     "edition": "",
     "team": "townsfolk",
@@ -1566,7 +1785,9 @@
   },
   {
     "id": "farmer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/farmer.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmer.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmerReversed.png"],
     "name": "Fazendeiro",
     "edition": "",
     "team": "townsfolk",
@@ -1581,7 +1802,9 @@
   },
   {
     "id": "magician_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/magician.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magician.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magicianReversed.png"],
     "name": "Mágico",
     "edition": "",
     "team": "townsfolk",
@@ -1596,7 +1819,9 @@
   },
   {
     "id": "choirboy_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/choirboy.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboy.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboyReversed.png"],
     "name": "Coroinha",
     "edition": "",
     "team": "townsfolk",
@@ -1611,7 +1836,9 @@
   },
   {
     "id": "poppy_grower_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/poppygrower.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrower.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrowerReversed.png"],
     "name": "Cultivadora",
     "edition": "",
     "team": "townsfolk",
@@ -1626,7 +1853,9 @@
   },
   {
     "id": "atheist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/atheist.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheist.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheistReversed.png"],
     "name": "Ateu",
     "edition": "",
     "team": "townsfolk",
@@ -1642,7 +1871,9 @@
   },
   {
     "id": "cannibal_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/cannibal.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibal.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibalReversed.png"],
     "name": "Canibal",
     "edition": "",
     "team": "townsfolk",
@@ -1659,7 +1890,9 @@
   },
   {
     "id": "steward_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/steward.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/steward.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/stewardReversed.png"],
     "name": "Regente",
     "edition": "",
     "team": "townsfolk",
@@ -1674,7 +1907,9 @@
   },
   {
     "id": "knight_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/knight.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knight.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knightReversed.png"],
     "name": "Cavaleiro",
     "edition": "",
     "team": "townsfolk",
@@ -1689,7 +1924,9 @@
   },
   {
     "id": "high_priestess_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/highpriestess.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestess.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestessReversed.png"],
     "name": "Suma Sacerdotisa",
     "edition": "",
     "team": "townsfolk",
@@ -1704,7 +1941,9 @@
   },
   {
     "id": "shugenja_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/shugenja.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenja.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenjaReversed.png"],
     "name": "Shugenja",
     "edition": "",
     "team": "townsfolk",
@@ -1719,7 +1958,9 @@
   },
   {
     "id": "snitch_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/snitch.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitch.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitchReversed.png"],
     "name": "Dedo-duro",
     "edition": "",
     "team": "outsider",
@@ -1734,7 +1975,9 @@
   },
   {
     "id": "acrobat_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/acrobat.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobat.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobatReversed.png"],
     "name": "Acrobata",
     "edition": "",
     "team": "outsider",
@@ -1749,7 +1992,9 @@
   },
   {
     "id": "puzzlemaster_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/puzzlemaster.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemaster.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemasterReversed.png"],
     "name": "Enigmático",
     "edition": "",
     "team": "outsider",
@@ -1764,7 +2009,9 @@
   },
   {
     "id": "heretic_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/heretic.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/heretic.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hereticReversed.png"],
     "name": "Herege",
     "edition": "",
     "team": "outsider",
@@ -1779,7 +2026,9 @@
   },
   {
     "id": "damsel_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/damsel.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damsel.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damselReversed.png"],
     "name": "Donzela",
     "edition": "",
     "team": "outsider",
@@ -1794,7 +2043,9 @@
   },
   {
     "id": "golem_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/golem.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golem.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golemReversed.png"],
     "name": "Golem",
     "edition": "",
     "team": "outsider",
@@ -1809,7 +2060,9 @@
   },
   {
     "id": "politician_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/politician.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politician.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politicianReversed.png"],
     "name": "Político",
     "edition": "",
     "team": "outsider",
@@ -1824,7 +2077,9 @@
   },
   {
     "id": "plague_doctor_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/plaguedoctor.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctor.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctorReversed.png"],
     "name": "Médico da Peste",
     "edition": "",
     "team": "outsider",
@@ -1840,8 +2095,8 @@
   {
     "id": "hatter_br",
     "image":[
-          "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatter.png",
-          "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatterReversed.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatter.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatterReversed.png"],
     "name": "Chapeleiro",
     "edition": "",
     "team": "outsider",
@@ -1856,7 +2111,9 @@
   },
   {
     "id": "widow_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/widow.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widow.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widowReversed.png"],
     "name": "Viúva",
     "edition": "",
     "team": "minion",
@@ -1878,7 +2135,9 @@
   },
   {
     "id": "fearmonger_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fearmonger.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmonger.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmongerReversed.png"],
     "name": "Intimidador",
     "edition": "",
     "team": "minion",
@@ -1894,7 +2153,9 @@
   },
   {
     "id": "psychopath_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/psychopath.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopath.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopathReversed.png"],
     "name": "Psicopata",
     "edition": "",
     "team": "minion",
@@ -1909,7 +2170,9 @@
   },
   {
     "id": "goblin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/goblin.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblin.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblinReversed.png"],
     "name": "Goblin",
     "edition": "",
     "team": "minion",
@@ -1925,7 +2188,9 @@
   },
   {
     "id": "mezepheles_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/mezepheles.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezepheles.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezephelesReversed.png"],
     "name": "Mezéfeles",
     "edition": "",
     "team": "minion",
@@ -1940,7 +2205,9 @@
   },
   {
     "id": "marionette_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/marionette.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionette.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionetteReversed.png"],
     "name": "Marionete",
     "edition": "",
     "team": "minion",
@@ -1964,7 +2231,9 @@
   },
   {
     "id": "boomdandy_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/boomdandy.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandy.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandyReversed.png"],
     "name": "Homem-Bomba",
     "edition": "",
     "team": "minion",
@@ -1982,7 +2251,9 @@
   },
   {
     "id": "organ_grinder_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/organgrinder.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinder.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinderReversed.png"],
     "name": "Realejo",
     "edition": "",
     "team": "minion",
@@ -2005,7 +2276,9 @@
   },
   {
     "id": "vizier_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/vizier.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizier.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizierReversed.png"],
     "name": "Vizir",
     "edition": "",
     "team": "minion",
@@ -2029,7 +2302,9 @@
   },
   {
     "id": "harpy_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/harpy.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpy.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpyReversed.png"],
     "name": "Harpia",
     "edition": "",
     "team": "minion",
@@ -2044,7 +2319,9 @@
   },
   {
     "id": "lil_monsta_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/lilmonsta.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonsta.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonstaReversed.png"],
     "name": "Bebê Monstro",
     "edition": "",
     "team": "demon",
@@ -2065,7 +2342,9 @@
   },
   {
     "id": "lleech_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/lleech.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleech.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleechReversed.png"],
     "name": "Sanguesuga",
     "edition": "",
     "team": "demon",
@@ -2084,7 +2363,9 @@
   },
   {
     "id": "al-hadikhia_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/alhadikhia.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhia.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhiaReversed.png"],
     "name": "Al-Hadikhia",
     "edition": "",
     "team": "demon",
@@ -2102,7 +2383,9 @@
   },
   {
     "id": "legion_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/legion.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legion.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legionReversed.png"],
     "name": "Legião",
     "edition": "",
     "team": "demon",
@@ -2122,7 +2405,9 @@
   },
   {
     "id": "leviathan_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/leviathan.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathan.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathanReversed.png"],
     "name": "Leviatã",
     "edition": "",
     "team": "demon",
@@ -2146,7 +2431,9 @@
   },
   {
     "id": "riot_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/riot.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riot.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riotReversed.png"],
     "name": "Pandemônio",
     "edition": "",
     "team": "demon",
@@ -2192,7 +2479,9 @@
   },
   {
     "id": "ojo_br",
-    "image":"https://raw.githubusercontent.com/nicholas-eden/townsquare/develop/src/assets/icons/ojo.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojo.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojoReversed.png"],
     "name": "Ojo",
     "edition": "",
     "team": "demon",
@@ -2207,7 +2496,10 @@
   },
   {
     "id": "gangster_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/gangster.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangster.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterEvil.png"],
     "name": "Gangster",
     "edition": "",
     "team": "traveler",
