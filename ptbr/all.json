@@ -1846,11 +1846,11 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 47,
-    "otherNightReminder": "",
+    "otherNightReminder": "Se o Chapeleiro morreu imediatamente acorde o time do mau. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* & o token de personagem do Chapeleiro. um por um podem selecionar um personagem, se sim troque os seus tokens com o escolhido :reminder:",
     "reminders": ["Troca"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se o Chapeleiro morreu imediatamente acorde o time do mau. Mostre o token *ESSE PERSONAGEM TE ESCOLHEU* & o token de personagem do Chapeleiro. um por um podem selecionar um personagem, se sim troque os seus tokens com o escolhido :reminder: "
+    "ability": "Se você morreu hoje, o Demônio pode escolher jogadores dos Lacaios & Demônio podem escolher viram novos Lacaios & Demônios."
   },
   {
     "id": "widow_br",
@@ -2115,7 +2115,7 @@
     "special": [{ "name": "bag-duplicate", "type": "selection"}],
     "jinxes": [
         {"id": "engineer_br", "reason": "O Engenheiro e Legião não podem começar os dois em jogo. Se o Engenheiro criar Legião a maioria dos jogadores (incluindo todos os mals) vira Legião."},
-        {"id": "preacher_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}
+        {"id": "preacher_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."}]
   },
   {
