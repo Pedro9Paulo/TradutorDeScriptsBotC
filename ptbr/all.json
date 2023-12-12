@@ -1040,7 +1040,7 @@
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmer.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmerReversed.png"],
-    "name": "Encantador de Serpentes",
+    "name": "Ofidioglota",
     "edition": "snv",
     "team": "townsfolk",
     "firstNight": 24,
@@ -1496,7 +1496,7 @@
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollector.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorEvil.png"],
-    "name": "Colecionador de Ossos",
+    "name": "Coletor de Ossos",
     "edition": "snv",
     "team": "traveler",
     "firstNight":  0,
@@ -2649,7 +2649,7 @@
   },
   {
     "id": "fibbin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/doomsayer.png",
+    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fibbin.png",
     "name": "Falso",
     "edition": "",
     "team": "fabled",
