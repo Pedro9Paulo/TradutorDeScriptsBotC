@@ -1,0 +1,7 @@
+ingles/**
+ptbr/**
+oldingles/**
+!ingles/Bad_Moon_Rising.json
+!ingles/Sects_and_Violets.json
+!ingles/Trouble_Brewing.json
+!ptbr/all.json
