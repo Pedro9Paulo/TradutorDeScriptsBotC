@@ -16,13 +16,13 @@ for name in os.listdir("ingles"):
 		f.close()
 		cenario = "[\n"
 		for p in script:
-			if p["id"] == "_meta":
+			if type(p) == type({}):
 				cenario += "{"
 				for item in p:
 					cenario += '"' + item + '": "' + p[item] + '", ' 
 				cenario = cenario[:-2] + "},\n"
 			else:
-				cenario += todos[p["id"]] +",\n"
+				cenario += todos[p] +",\n"
 	except Exception as erro:
 		print("O script " + name + " tem o defeito: " + str(erro))
 
