@@ -22,7 +22,7 @@ for name in os.listdir("ingles"):
 					cenario += '"' + item + '": "' + p[item] + '", ' 
 				cenario = cenario[:-2] + "},\n"
 			else:
-				cenario += todos[p] +",\n"
+				cenario += todos[p.replace("_", "")] +",\n"
 	except Exception as erro:
 		print("O script " + name + " tem o defeito: " + str(erro))
 
