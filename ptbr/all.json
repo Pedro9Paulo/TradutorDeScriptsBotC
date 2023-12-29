@@ -2505,17 +2505,17 @@
     "firstNight":  6,
     "firstNightReminder": "Kazali escolhe um jogador e um Lacaio da ficha. :reminder: Troque o personagem do jogador pelo Lacaio escolhido no grimório. Repita esse processo até a quantidade esperada de Lacaios estar em jogo.",
     "otherNight": 43,
-    "otherNightReminder": "Kazali escolhe um jogador. :reminder:",
+    "otherNightReminder": "Kazali escolhe um jogador.",
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite* escolha um personagem: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? to +? Forasteiros]",
+    "ability": "A cada noite* escolha um personagem: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? a +? Forasteiros]",
     "jinxes": [
         {"id": "bountyhunter_br", "reason": "Um Cidadão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"},
         {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."},
         {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
         {"id": "goon_br", "reason": "Se o Kazali escolhe o Capanga para ser um Lacaio, os Lacaios restantes são escolhidos pelo Narrador."},
-        {"id": "Marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."}]
+        {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."}]
   },
   {
     "id": "gangster_br",
