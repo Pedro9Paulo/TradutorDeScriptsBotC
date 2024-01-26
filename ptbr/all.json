@@ -1968,12 +1968,12 @@
     "firstNight": 54,
     "firstNightReminder": "O Idiota da Cidade escolhe um jogador. Sinalize com um joinha seu alinhamento.",
     "otherNight": 73,
-    "otherNightReminder": "",
+    "otherNightReminder": "O Idiota da Cidade escolhe um jogador. Sinalize com um joinha seu alinhamento.",
     "reminders": ["Drunk"],
     "remindersGlobal": [],
     "setup": true,
     "ability": "A cada noite, escolha um jogador: você descobre seu alinhamento. [+0 a +2 Idiotas da Cidade. 1 dos extras está bêbado]",
-    "special": [{ "name": "bag-duplicate", "type": "selection"}],
+    "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
     "id": "snitch_br",
