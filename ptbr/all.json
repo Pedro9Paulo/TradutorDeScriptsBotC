@@ -1697,7 +1697,8 @@
     "reminders": ["?", "?", "?"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você não sabe qual é a sua habilidade. Todo dia, você pode visitar o Narrador para tentar adivinhar a sua habilidade: você descobre o quão perto está da resposta."
+    "ability": "Você não sabe qual é a sua habilidade. Todo dia, você pode visitar o Narrador para tentar adivinhar a sua habilidade: você descobre o quão perto está da resposta.",
+    "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
     "id": "nightwatchman_br",
@@ -2109,7 +2110,7 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando você morrer, o narrador ganha a habilidade de um lacaio fora de jogo."
+    "ability": "Quando você morrer, o narrador ganha a habilidade de lacaio fora de jogo."
   },
   {
     "id": "hatter_br",
