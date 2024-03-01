@@ -36,7 +36,7 @@ noite1 = ["Dusk",
 		"Fearmonger",
 		"Harpy",
 		"Mezepheles",
-		"Yaggababble"
+		"Yaggababble",
 		"Pukka",
 		"Pixie",		
 		"Huntsman",
