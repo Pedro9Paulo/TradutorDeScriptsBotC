@@ -2552,7 +2552,9 @@
     "reminders": ["Morto", "Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje, alguém pode morrer."
+    "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje, alguém pode morrer.",
+    "jinxes": [
+        {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yadarela, a habilidade da Yadarela não mata esta noite."}]
   },
   {
     "id": "gangster_br",
