@@ -2542,11 +2542,11 @@
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababble.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababbleReversed.png"],
-    "name": "Babel-Yada",
+    "name": "Yadarela",
     "edition": "",
     "team": "demon",
     "firstNight":  6,
-    "firstNightReminder": "Mostre ao Babel-Yada a frase secreta.",
+    "firstNightReminder": "Mostre ao Yadarela a frase secreta.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Morto", "Morto"],
