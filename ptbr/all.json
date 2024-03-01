@@ -2551,7 +2551,7 @@
     "otherNightReminder": "",
     "reminders": ["Morto", "Morto"],
     "remindersGlobal": [],
-    "setup": true,
+    "setup": false,
     "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje, alguém pode morrer."
   },
   {
