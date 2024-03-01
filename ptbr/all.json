@@ -2110,7 +2110,7 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando você morrer, o narrador ganha a habilidade de lacaio fora de jogo."
+    "ability": "Quando você morrer, o narrador ganha uma habilidade de lacaio fora de jogo."
   },
   {
     "id": "hatter_br",
@@ -2536,6 +2536,23 @@
         {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
         {"id": "goon_br", "reason": "Se o Kazali escolhe o Capanga para ser um Lacaio, os Lacaios restantes são escolhidos pelo Narrador."},
         {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."}]
+  },
+  {
+    "id": "yaggababble_br",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababble.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababbleReversed.png"],
+    "name": "Babel-Yada",
+    "edition": "",
+    "team": "demon",
+    "firstNight":  6,
+    "firstNightReminder": "Mostre ao Babel-Yada a frase secreta.",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Morto", "Morto"],
+    "remindersGlobal": [],
+    "setup": true,
+    "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje, alguém pode morrer."
   },
   {
     "id": "gangster_br",
