@@ -8,7 +8,7 @@
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 40,
-    "firstNightReminder": "Mostre um token de personagem Cidadão. Aponte para os jogadores *CIDADÃO* e *ERRADO*.",
+    "firstNightReminder": "Mostre o token de personagem Cidadão. Aponte para os jogadores *CIDADÃO* e *ERRADO*.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Cidadão", "Errado"],
@@ -25,7 +25,7 @@
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 41,
-    "firstNightReminder": "Mostre um token de personagem Forasteiro. Aponte para os jogadores *OUTSIDER* e *ERRADO*.",
+    "firstNightReminder": "Mostre o token de personagem Forasteiro. Aponte para os jogadores *OUTSIDER* e *ERRADO*.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Forasteiro", "Errado"],
@@ -82,7 +82,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, você descobre quantos de seus 2 vizinhos vivos são maus."
+    "ability": "A cada noite, saiba quantos de seus 2 vizinhos vivos são do mal."
   },
   {
     "id": "fortuneteller_br",
@@ -93,13 +93,13 @@
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 45,
-    "firstNightReminder": "A vidente escolhe dois jogadores. Sinalize com a cabeça (sim ou não) para indicar se algum destes jogadores é o Demônio (ou o *RED HERRING*). ",
+    "firstNightReminder": "A Vidente escolhe dois jogadores. Sinalize com a cabeça (sim ou não) para indicar se algum destes jogadores é um Demônio (ou a *PISTA FALSA*). ",
     "otherNight": 65,
-    "otherNightReminder": "A vidente escolhe dois jogadores. Sinalize com a cabeça (sim ou não) para indicar se algum destes jogadores é o Demônio (ou o *RED HERRING*). ",
-    "reminders": ["Red herring"],
+    "otherNightReminder": "A Vidente escolhe dois jogadores. Sinalize com a cabeça (sim ou não) para indicar se algum destes jogadores é um Demônio (ou a *PISTA FALSA*).",
+    "reminders": ["Pista Falsa"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha 2 jogadores: você descobre se algum deles é um Demônio. Há um jogador bom que registra como Demônio para você."
+    "ability": "A cada noite, escolha 2 jogadores: saiba se algum deles é um Demônio. Há um jogador do bem que é registrado como Demônio para você."
   },
   {
     "id": "undertaker_br",
@@ -112,11 +112,11 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 66,
-    "otherNightReminder": "Se um jogador foi executado hoje, mostre o token de personagem jogador dele.",
-    "reminders": ["Executado"],
+    "otherNightReminder": "Se um jogador foi executado hoje, mostre o token do personagem dele.",
+    "reminders": ["Morreu hoje"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, você descobre qual personagem morreu por execução durante o dia."
+    "ability": "A cada noite*, saiba qual personagem morreu por execução hoje."
   },
   {
     "id": "monk_br",
@@ -146,11 +146,11 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 63,
-    "otherNightReminder": "Se o Mestre dos Corvos morreu esse noite, O Mestre dos Corvos escolhe um jogador. Mostre o token de personagem dele.",
+    "otherNightReminder": "Se o Mestre dos Corvos morreu esse noite, o Mestre dos Corvos escolhe um jogador. Mostre o token de personagem dele.",
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer à Noite, será acordado para escolher um jogador: você descobre o personagem dele."
+    "ability": "Se você morrer à noite, será acordado para escolher um jogador: saiba o personagem dele."
   },
   {
     "id": "virgin_br",
@@ -167,7 +167,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na 1ª vez que você é nomeado, se o nomeador é um Cidadão, este é executado imediatamente."
+    "ability": "Na 1ª vez que você é nomeado, se o nomeador for um Cidadão, ele é executado imediatamente."
   },
   {
     "id": "slayer_br",
@@ -184,7 +184,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por partida, durante o dia, você pode escolher um jogador publicamente: se este for o Demônio, morre."
+    "ability": "Uma vez por jogo, durante o dia, escolha um jogador publicamente: se ele for o Demônio, morre."
   },
   {
     "id": "soldier_br",
@@ -218,7 +218,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se apenas 3 jogadores  estão vivos e não houver execução, seu time vence. Se você morreria à noite, outro jogador pode morrer em vez disso."
+    "ability": "Se apenas 3 jogadores estão vivos e não houver execução, o seu time vence. Se você for morrer à noite, outro jogador pode morrer em vez disso."
   },
   {
     "id": "butler_br",
@@ -235,7 +235,7 @@
     "reminders": ["Mestre"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar se ele estiver votando também."
+    "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também."
   },
   {
     "id": "drunk_br",
@@ -287,7 +287,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer por execução, seu time perde."
+    "ability": "Se você morrer por execução, o seu time perde."
   },
   {
     "id": "poisoner_br",
@@ -298,13 +298,13 @@
     "edition": "tb",
     "team": "minion",
     "firstNight": 23,
-    "firstNightReminder": "O Envenenador escolhe para um jogador. :reminder",
+    "firstNightReminder": "O Envenenador escolhe um jogador. :reminder:",
     "otherNight": 12,
-    "otherNightReminder": "O Envenenador escolhe para um jogador. :reminder",
+    "otherNightReminder": "O Envenenador escolhe um jogador. :reminder:",
     "reminders": ["Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador: ele está envenenado esta noite e no dia de amanhã."
+    "ability": "A cada noite, escolha um jogador: ele fica envenenado até o anoitecer."
   },
   {
     "id": "spy_br",
@@ -321,15 +321,15 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, você vê o Grimório. Você pode registrar como bom, Cidadão, ou Forasteiro, mesmo quando morto.",
+    "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse Cidadão ou Forasteiro do bem, mesmo morto.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade do Espião."},
-        {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, os tokens do Dêmonio e o Mágico são removidos."},
-        {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo o Espião não ve o Grimório até ela morrer."},
+        {"id": "alchemist_br", "reason": "O alquimista não pode ter a habilidade do Espião."},
+        {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, os tokens do Dêmonio e do Mágico são removidos."},
+        {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo o Espião não ve o Grimório até ela morrer."},
         {"id": "damsel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, e o Narrador ganharia a habilidade do Espião, um Lacaio ganha em adição a sua própria habilidade e descobre isso"}
+        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo isso"}
       ]
   },
   {
@@ -343,7 +343,7 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 25, 
-    "otherNightReminder": "Se a Mulher Escarlate se tornou o Demônio hoje, avise-a mostrando o tolken *VOCÊ É* seguido do token do demônio.",
+    "otherNightReminder": "Se a Mulher Escarlate se tornou o Demônio hoje, avise-a mostrando o token *VOCÊ É* seguido do token do Demônio.",
     "reminders": ["É o Demônio"],
     "remindersGlobal": [],
     "setup": false,
@@ -366,8 +366,8 @@
     "setup": true,
     "ability": "Há Forasteiros adicionais em jogo. [+2 Forasteiros]",
     "jinxes": [
-        {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro invés de 2."},
-        {"id": "plaguedoctor_br", "reason": "Se o Narrador tem a habilidade do Barão, até 2 jogadores podem virar Forasteiros."}
+        {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
+        {"id": "plaguedoctor_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
       ]
   },
   {
@@ -381,11 +381,11 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 31,
-    "otherNightReminder": ". O Capeta escolhe um jogador. :reminder: Se o Capeta escolher a si mesmo: Substitua o token de personagem de um Lacaio vivo por um token de Capeta sobrando. Coloque o velho Capeta para dormir. Acorde o novo Capeta mostrando o tolken *VOCÊ É* seguido do token do Capeta",
+    "otherNightReminder": ". O Capeta escolhe um jogador. :reminder: Se o Capeta escolher a si mesmo: Substitua o token de personagem de um Lacaio vivo por um token de Capeta sobrando. Coloque o antigo Capeta para dormir. Acorde o novo Capeta mostrando o token *VOCÊ É* seguido do token do Capeta.",
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: Ele morre. Se você se matar com sua habilidade, um Lacaio se torna o Capeta."
+    "ability": "A cada noite*, escolha um jogador: ele morre. Se você se matar desta forma, um Lacaio se torna Capeta."
   },
   {
     "id": "bureaucrat_br",
@@ -403,7 +403,7 @@
     "reminders": ["3 votos"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador, (exceto você): o voto dele vale 3 votos amanhã.",
+    "ability": "A cada noite, escolha um jogador (exceto você): o voto dele vale por 3 amanhã.",
     "special": [{ "name": "multiplier", "type": "vote", "value":3}]
   },
   {
@@ -467,7 +467,7 @@
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggar.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarEvil.png"],
-    "name": "Mendigo",
+    "name": "Pedinte",
     "edition": "tb",
     "team": "traveler",
     "firstNight":  0,
@@ -477,7 +477,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você deve usar um marcador de voto para votar. Se um jogador morto doar o marcador de voto a você, você descobre o alinhamento dele. Você está sempre sóbrio e sadio."
+    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles."
   },
   {
     "id": "grandmother_br",
