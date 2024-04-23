@@ -324,7 +324,7 @@
     "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse Cidadão ou Forasteiro do bem, mesmo morto.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquimista não pode ter a habilidade do Espião."},
+        {"id": "alchemist_br", "reason": "O Alquimista não pode ter a habilidade do Espião."},
         {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, os tokens do Dêmonio e do Mágico são removidos."},
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo o Espião não ve o Grimório até ela morrer."},
         {"id": "damsel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
@@ -477,7 +477,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles."
+    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & sadio."
   },
   {
     "id": "grandmother_br",
