@@ -889,7 +889,7 @@
     "firstNightReminder": "",
     "otherNight": 34,
     "otherNightReminder": "Um dos jogadores escolhidos pelo Shabaloth na noite anterior pode ser ressuscitado. :reminder: O Shabaloth escolhe 2 jogadores. :reminder:",
-    "reminders": ["Morto 1", "Morto 2", "Vivo"],
+    "reminders": ["Morto", "Morto", "Vivo"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha 2 jogadores: eles morrem. Um jogador morto escolhido na noite anterior pode ser regurgitado."
@@ -906,7 +906,7 @@
     "firstNightReminder": "",
     "otherNight": 35,
     "otherNightReminder": "A Po pode escolher um jogador OU 3 jogadores se escolheu 'ninguém' na última noite. :reminder: ou :reminder: :reminder: reminder:",
-    "reminders": ["Morto 1", "Morto 2", "Morto 3", "3 Ataques"],
+    "reminders": ["Morto", "Morto", "Morto", "3 Ataques"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, você pode escolher um jogador: ele morre. Se a sua última escolha foi 'ninguém', escolha 3 jogadores esta noite."
