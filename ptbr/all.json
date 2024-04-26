@@ -477,7 +477,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & sadio."
+    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & são."
   },
   {
     "id": "grandmother_br",
@@ -1449,13 +1449,13 @@
     "edition": "snv",
     "team": "traveler",
     "firstNight":  1,
-    "firstNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, sadio e informação verdadeira ou ative a habilidade duas vezes).",
+    "firstNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, são e informação verdadeira ou ative a habilidade duas vezes).",
     "otherNight":  3,
-    "otherNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, sadio e informação verdadeira ou ative a habilidade duas vezes).",
+    "otherNightReminder": "Escolha um jogador, acorde-o e informe-o qual dos poderes da Barista está o afetando. Trate-o da forma correspondente (sóbrio, são e informação verdadeira ou ative a habilidade duas vezes).",
     "reminders": ["Age duas vezes", "Sóbrio e Saudável", "?"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, até o anoitecer: 1- Um jogador fica sóbrio, sadio e obtém informações verdadeiras, ou 2- Uma habilidade funciona duas vezes. O jogador afetado sabe qual é o efeito."
+    "ability": "A cada noite, até o anoitecer: 1- Um jogador fica sóbrio, são e obtém informações verdadeiras, ou 2- Uma habilidade funciona duas vezes. O jogador afetado sabe qual é o efeito."
   },
   {
     "id": "harlot_br",
@@ -1989,7 +1989,7 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 54,
-    "otherNightReminder": "Se a Banshee foi morta por uma Demônio: anuncie para todos os jogadores que a Banshee morreu. :reminder",
+    "otherNightReminder": "Se a Banshee foi morta por uma Demônio: anuncie para todos os jogadores que a Banshee morreu. :reminder:",
     "reminders": ["Habilidade Ativa"],
     "remindersGlobal": [],
     "setup": false,
