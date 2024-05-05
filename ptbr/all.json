@@ -1542,7 +1542,7 @@
     "reminders": ["Visto", "Visto", "Visto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo 3 jogadores, 1 e apenas 1 deles é mau."
+    "ability": "Você começa sabendo 3 jogadores, 1 e apenas 1 deles é do mal."
   },
   {
     "id": "bountyhunter_br",
@@ -1559,7 +1559,7 @@
     "reminders": ["Alvo"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa o jogo sabendo quem é 1 jogador do mal. Se esse jogador do mal morrer, você descobre outro nesta noite. [1 Cidadão é Mal]"
+    "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, saiba outro jogador do mal esta noite. [1 Cidadão é do mal]"
   },
   {
     "id": "pixie_br",
@@ -1570,10 +1570,10 @@
     "edition": "",
     "team": "townsfolk",
     "firstNight": 36,
-    "firstNightReminder": "Mostre-a o token de personagem do Cidadão marcado com ALUCINADO.",
+    "firstNightReminder": "Mostre-a o token de personagem do Cidadão marcado com *ALUCINANDO*.",
     "otherNight":  0,
     "otherNightReminder": "",
-    "reminders": ["Alucinado", "Habilidade adquirida"],
+    "reminders": ["Alucinando", "Habilidade adquirida"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa o sabendo 1 Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
@@ -1593,20 +1593,20 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, você descobre qual time o Narrador acredita que está vencendo: Bem, Mal ou Nenhum."
+    "ability": "A cada noite, saiba qual time o Narrador acredita que está vencendo: Bem, Mal ou nenhum."
   },
   {
     "id": "preacher_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacher.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacherReversed.png"],
-    "name": "Missionário",
+    "name": "Pregador",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 20,
-    "firstNightReminder": "O Missionário escolhe um jogador :reminder:, coloque o Missionário para dormir. Se esse jogador for um Lacaio acorde-o. Lacaio. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Missionário.",
+    "firstNightReminder": "O Pregador escolhe um jogador :reminder:, coloque o Pregador para dormir. Se o jogador escolhido for um Lacaio acorde-o. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Pregador.",
     "otherNight": 11,
-    "otherNightReminder": "O Missionário escolhe um jogador :reminder:, coloque o Missionário para dormir. Se esse jogador for um Lacaio acorde-o. Lacaio. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Missionário.",
+    "otherNightReminder": "O Pregador escolhe um jogador :reminder:, coloque o Pregador para dormir. Se o jogador escolhido for um Lacaio acorde-o. Mostre-o os tokens *ESSE PERSONAGEM TE ESCOLHEU* e do Pregador.",
     "reminders": ["Sem Habilidade", "Sem Habilidade", "Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
@@ -1623,11 +1623,11 @@
     "firstNight": 16,
     "firstNightReminder": "Acorde o Demônio, mostre os tokens *ESSE JOGADOR É* e do Rei e aponte para o Rei.",
     "otherNight": 75,
-    "otherNightReminder": "Se os vivos não são maioria, mostre ao Rei o token de personagem de um jogador vivo.",
+    "otherNightReminder": "Se os mortos são maioria, mostre ao Rei o token de personagem de um jogador vivo.",
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, se os vivos não são maioria, você descobre um personagem vivo. O Demônio sabe quem você é."
+    "ability": "A cada noite, se os mortos são maioria, saiba um personagem vivo. O Demônio sabe quem você é."
   },
   {
     "id": "balloonist_br",
@@ -1638,13 +1638,13 @@
     "edition": "",
     "team": "townsfolk",
     "firstNight": 54,
-    "firstNightReminder": "Mostre qualquer jogador. :reminder:",
+    "firstNightReminder": "Aponte para qualquer jogador. :reminder:",
     "otherNight": 74,
-    "otherNightReminder": "Mostre um jogador com personagem diferente dos mostrados anteri",
+    "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente dos mostrados anteriormente. :reminder:",
     "reminders": ["Cidadão", "Forasteiro", "Lacaio", "Demônio"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, você descobre um jogador de cada tipo de personagem, até ter passado por todos os tipos. [+1 Forasteiro]"
+    "ability": "A cada noite, saiba um jogador de cada tipo de personagem, até não sobrar mais tipos de personagem. [+1 Forasteiro]"
   },
   {
     "id": "cultleader_br",
@@ -2523,7 +2523,7 @@
         {"id": "minstrel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "monk_br", "reason": "Se o Leviatã nomeia e executa o jogador escolhido pelo Monge, esse jogador não morre."},
         {"id": "pacifist_br", "reason": "Jogadores que morreram por uma nomeação registram como terem sido executados pelo Pacifista."},
-        {"id": "preacher_br", "reason": "Pandemônio registra como Lacaio para o Missionário."},
+        {"id": "preacher_br", "reason": "Pandemônio registra como Lacaio para o Pregador."},
         {"id": "ravenkeeper_br", "reason": "Se um Pandemônio nomeia e mata o Mestre dos Corvos, ele acorda a noite para usar sua habilidade."},
         {"id": "sage_br", "reason": "Se um Pandemônio nomeia e mata o Sábio, ele acorda a noite para usar sua habilidade."},
         {"id": "soldier_br", "reason": "Se um Pandemônio nomeia e mata o Soldado, o Soldado não morre."},
