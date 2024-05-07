@@ -5,10 +5,10 @@ f.close()
 noite1 = ["Dusk",
 		"Fabled",
 		"Apprentice",
-		"Barista"
+		"Barista",
 		"Bureaucrat",
 		"Thief",
-		"Kazali"
+		"Kazali",
 		"Philosopher",
 		"Alchemist",
 		"Poppy Grower",
@@ -77,7 +77,7 @@ noites = ["Dusk",
 		"Bone Collector",
 		"Bureaucrat",
 		"Harlot",
-		"Thief"
+		"Thief",
 		"Philosopher",		
 		"Poppy Grower",
 		"Sailor",
@@ -161,22 +161,22 @@ noites = ["Dusk",
 		"Leviathan"]
 i = 0
 for role in noite1:
-	i += 1
 	idrole = todos.find('{\n    "id": "'+ role.lower().replace(" ", "")+"_br")
 	idnoite1 = todos.find('"firstNight": ', idrole)
 	if idrole != -1:
 		novonumero = str(i)
 		if i < 10: novonumero = " "+novonumero
 		todos = todos[:idnoite1+14] + novonumero + todos[idnoite1+16:]
+	i += 1
 i = 0
 for role in noites:
-	i += 1
 	idrole = todos.find('{\n    "id": "'+ role.lower().replace(" ", "")+"_br")
 	idnoites = todos.find('"otherNight": ', idrole)
 	if idrole != -1:
 		novonumero = str(i)
 		if i < 10: novonumero = " "+novonumero
 		todos = todos[:idnoites+14] + novonumero + todos[idnoites+16:]
+	i += 1
 f = open("ptbr/all.json", "w", encoding="utf-8")
 f.write(todos)
 f.close()
