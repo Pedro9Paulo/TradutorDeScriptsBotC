@@ -2340,7 +2340,7 @@
         {"id": "lilmonsta_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Bebê Monstro."},
         {"id": "magician_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
-        {"id": "politician_br", "reason": "O Político pode registrar como do bem para o Vizir."},
+        {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
 ]
 
   },
@@ -2385,7 +2385,7 @@
         {"id": "engineer_br", "reason": "Se o Engenheiro remove um Invocador do jogo antes dele usar sua habilidade o Invocador usa sua habilidade imediatamente."},
         {"id": "zombuul_br", "reason": "Se o Invocador escolhe um jogador morto para virar o Zumbuul, o Narrador deve tratá-lo, como um Zumbuul que morreu uma vez."},
         {"id": "pukka_br", "reason": "O Invocador pode escolher um jogador para se tornar a Pukka na 2ª noite."},
-        {"id": "riot_br", "reason": "Se o Invocador cria um Pandemônio, todos os Lacaios se tornam Pandemônios"},
+        {"id": "riot_br", "reason": "Se o Invocador criar um Pandemônio, todos os Lacaios se tornam Pandemônios."},
         {"id": "hatter_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
         {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."}]
   },
