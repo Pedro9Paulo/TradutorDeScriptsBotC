@@ -2167,7 +2167,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Em sua primiera noite, escolha um jogador (exceto você): Você se torna do alinhamento dele (você não sabe qual), mesmo se bêbado ou envenenado.",
+    "ability": "Na sua primiera noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado.",
     "jinxes": [
         {"id": "recluse_br", "reason": "Se o Recluso registrar como do mau para o Ogro, o Ogro sabe que virou do mau."}]
   },
