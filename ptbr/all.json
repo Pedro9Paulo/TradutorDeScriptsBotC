@@ -329,8 +329,8 @@
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo o Espião não ve o Grimório até ela morrer."},
         {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
         {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo isso"}
-      ]
+        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo isso"},
+        {"id": "ogre_br", "reason": "O Espião registra como do mau para o Ogro."}]
   },
   {
     "id": "scarletwoman_br",
@@ -521,7 +521,7 @@
     "name": "Camareira",
     "edition": "bmr",
     "team": "townsfolk",
-    "firstNight": 64,
+    "firstNight": 65,
     "firstNightReminder": "A Camareira escolhe outros dois jogadores vivos. Faça um número com os dedos.",
     "otherNight": 84,
     "otherNightReminder": "A Camareira escolhe outros dois jogadores vivos. Faça um número com os dedos.",
@@ -1060,7 +1060,7 @@
     "name": "Matemático",
     "edition": "snv",
     "team": "townsfolk",
-    "firstNight": 65,
+    "firstNight": 66,
     "firstNightReminder": "Faça um número com os dedos",
     "otherNight": 85,
     "otherNightReminder": "Faça um número com os dedos",
@@ -1365,7 +1365,8 @@
         {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, é o Narrador que escolhe que jogador será."},
         {"id": "heretic_br", "reason": "A Bruxa do Fosso não pode criar um Herege."},
         {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
-        {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},
+        {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mau, ele não pode se tornar do bem devido a própria habilidade."},
+        {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mau, ele não pode se tornar do bem devido a própria habilidade."},
         {"id": "cultleader_br", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},
         {"id": "villageidiot", "reason": "Se houver tokens de Idiota da Cidade, A Bruxa do Fosso pode criar um Idiota da Cidade. Neste caso, o Narrador pode mudar qual Idiota da Cidade está bêbado."},
         {"id": "summoner_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},]
@@ -1589,7 +1590,7 @@
     "name": "General",
     "edition": "",
     "team": "townsfolk",
-    "firstNight": 63,
+    "firstNight": 64,
     "firstNightReminder": "Faça um joinha em alguma direção.",
     "otherNight": 83,
     "otherNightReminder": "Faça um joinha em alguma direção.",
@@ -1891,7 +1892,8 @@
     "setup": false,
     "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você está envenenado até um jogador do Bem ser executado.",
     "jinxes": [
-        {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."}]
+        {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
+        {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."}]
   },
   {
     "id": "steward_br",
@@ -1935,7 +1937,7 @@
     "name": "Suma Sacerdotisa",
     "edition": "",
     "team": "townsfolk",
-    "firstNight": 62,
+    "firstNight": 63,
     "firstNightReminder": "Aponte para o jogador que você acredita que a Suma Sacerdotisa mais deveria conversas.",
     "otherNight": 82,
     "otherNightReminder": "Aponte para o jogador que você acredita que a Suma Sacerdotisa mais deveria conversas.",
@@ -2151,6 +2153,25 @@
     "ability": "Se você morreu hoje, o Demônio pode escolher jogadores dos Lacaios & Demônio podem escolher viram novos Lacaios & Demônios."
   },
   {
+    "id": "ogre_br",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogre.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogreReversed.png"],
+    "name": "Ogro",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 62,
+    "firstNightReminder": "O Ogro escolhe um jogador.",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Em sua primiera noite, escolha um jogador (exceto você): Você se torna do alinhamento dele (você não sabe qual), mesmo se bêbado ou envenenado.",
+    "jinxes": [
+        {"id": "recluse_br", "reason": "Se o Recluso registrar como do mau para o Ogro, o Ogro sabe que virou do mau."}]
+  },
+  {
     "id": "widow_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widow.png",
@@ -2171,7 +2192,7 @@
         {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
         {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, os tokens do Dêmonio e o Mágico são removidos."},
         {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
-        {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
+        {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
         {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
   },
   {
@@ -2324,7 +2345,7 @@
     "name": "Vizir",
     "edition": "",
     "team": "minion",
-    "firstNight": 68,
+    "firstNight": 69,
     "firstNightReminder": "Anuncie a todos que jogador é o Vizir",
     "otherNight":  0,
     "otherNightReminder": "",
@@ -2341,7 +2362,7 @@
         {"id": "magician_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
         {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
-]
+        {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."}]
 
   },
   {
@@ -2484,7 +2505,7 @@
     "name": "Leviatã",
     "edition": "",
     "team": "demon",
-    "firstNight": 67,
+    "firstNight": 68,
     "firstNightReminder": "Anuncie 'O Leviatã está em jogo' e coloque o marcador *DIA 1*. :reminder:",
     "otherNight": 87,
     "otherNightReminder": "Opcionamelte, declare 'O Leviatã está em jogo'. Substitua o marcador. :reminder:",
