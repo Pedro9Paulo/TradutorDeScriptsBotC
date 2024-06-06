@@ -1170,7 +1170,8 @@
     "remindersGlobal": ["É o filósofo"],
     "setup": false,
     "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
-    "special": [{ "name": "replace-character", "type": "reveal"}]
+    "special": [{ "name": "replace-character", "type": "reveal"}],
+    "jinxes": [{"id": "bountyhunter_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"}]
   },
   {
     "id": "artist_br",
@@ -2331,7 +2332,7 @@
     "special": [{ "name": "hidden", "type": "vote"}],
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."},
-        {"id": "flowergirl_br", "reason": "Se os jogadores estavam de olhos fechados durante as nomeações, a Florista é informada quantas vezes o Demônio votou."},
+        {"id": "flowergirl_br", "reason": "Se os olhos dos jogadores estiverem fechados durante as nomeações devido ao Organista, a Florista acorda a noite para escolher um jogador: ela sabe se esse jogador votou hoje. (invés da sua habilidade normal)"},
         {"id": "lilmonsta_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Bebê Monstro."},
         {"id": "minstrel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "preacher_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
