@@ -2662,7 +2662,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Pode haver 1 Forasteiro a menos ou a mais em jogo."
+    "ability": "Use a regra especial do Gênio. Todos sabem qual é."
   },
   {
     "id": "stormcatcher_br",
@@ -2677,7 +2677,7 @@
     "reminders": ["Protegido"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Escolha um jogador do bem. Se em jogo ele só pode morrer por execução, senão o time do mal descobre quem ele é."
+    "ability": "Anuncie o nome de um personagem do bem. Se estiver em jogo ele só pode morrer por execução, mas o time do mal sabe quem ele é."
   },
   {
     "id": "doomsayer_br",
@@ -2692,7 +2692,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se há 4 ou mais jogadores vivos, pode publicamente escolher que (uma vez por jogo) um jogador do seu alinhamento morra."
+    "ability": "Se há 4 ou mais jogadores vivos, cada jogador vivo pode pedir publicamente (uma vez por jogo)que um jogador do alinhamento dele morra."
   },
   {
     "id": "angel_br",
@@ -2737,7 +2737,7 @@
     "reminders": ["Noite Final: Sem Ataque"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "O demônio pode escolher não atacar e deve fazer isso ao menos uma vez por jogo. Jogadores do mau recebem informação inicial padrão."
+    "ability": "O demônio pode escolher não atacar e deve fazer isso ao menos uma vez por jogo. Jogadores do mal recebem informação inicial padrão."
   },
   {
     "id": "duchess_br",
@@ -2752,7 +2752,7 @@
     "reminders": ["Visitante", "Visitante", "Visitante", "Informação Falsa"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia 3 jogadores podem escolher te visitar. A noite* cada visitante descobre quantos visitantes são maus, mas 1 recebe informação falsa."
+    "ability": "A cada dia 3 jogadores podem escolher te visitar. A noite* cada visitante descobre quantos visitantes são do mal, mas 1 deles recebe informação falsa."
   },
   {
     "id": "fibbin_br",
