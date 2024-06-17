@@ -2433,7 +2433,7 @@
         {"id": "magician_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
         {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Bebê Monstro morre, a Mulher Escarlete recebe o Bebê Mosntro essa noite."},
         {"id": "organgrinder_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Bebê Monstro."},
-        {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Bebê Monstro."}
+        {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Bebê Monstro."},
         {"id": "hatter_br", "reason": "Se o Demônio escolher o Bebê Monstro, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}]
   },
   {
