@@ -2398,7 +2398,7 @@
     "jinxes": [
         {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Relojoeiro não recebe sua informação até o Demônio ser criado."},
         {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
-        {"id": "poppygrower_br", "reason": "Se está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
+        {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
         {"id": "marionette_br", "reason": "A Marionete é vizinha do Invocador. O Invocador sabe quem a Marionete é."},
         {"id": "pit-hag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
         {"id": "hatter_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
@@ -2408,7 +2408,8 @@
         {"id": "pukka_br", "reason": "O Invocador pode escolher um jogador para se tornar a Pukka na 2ª noite."},
         {"id": "riot_br", "reason": "Se o Invocador criar um Pandemônio, todos os Lacaios se tornam Pandemônios."},
         {"id": "legion_br", "reason": "Se o Invocador cria um Legião, a maioria dos jogadores (incluindo todos os do mau) viram Legião."},
-        {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."}]
+        {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
+        {"id": "preacher_br", "reason": "Se o Pregador escolhe o Invocador antes ou durante a 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},]
   },
   {
     "id": "lilmonsta_br",
@@ -2613,7 +2614,8 @@
         {"id": "goon_br", "reason": "Se o Kazali escolhe o Capanga para ser um Lacaio, os Lacaios restantes são escolhidos pelo Narrador."},
         {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."},
         {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
-        {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."}]
+        {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."},
+        {"id": "soldier_br", "reason": "Se o Kazali torna o Soldado num Lacaio, o Soldado escolhe que Lacaio fora de jogo virar."},]
   },
   {
     "id": "yaggababble_br",
