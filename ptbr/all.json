@@ -2002,6 +2002,23 @@
     "special": [{ "name": "multiplier", "type": "vote", "value":2}]
   },
   {
+    "id": "alsaahir_br",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahir.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahirReversed.png"],
+    "name": "Alsaahir",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Uma vez por dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o bem vence."
+  },
+  {
     "id": "snitch_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitch.png",
