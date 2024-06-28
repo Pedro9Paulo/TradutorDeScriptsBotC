@@ -1646,11 +1646,11 @@
     "firstNight": 55,
     "firstNightReminder": "Aponte para qualquer jogador. :reminder:",
     "otherNight": 74,
-    "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente dos mostrados anteriormente. :reminder:",
-    "reminders": ["Cidadão", "Forasteiro", "Lacaio", "Demônio"],
+    "otherNightReminder": "Aponte para um jogador que tenha um tipo personagem diferente do anterior. :reminder:",
+    "reminders": ["Visto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, saiba um jogador de cada tipo de personagem, até não sobrar mais tipos de personagem. [+1 Forasteiro]"
+    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente da última noite. [+0 ou +1 Forasteiro]"
   },
   {
     "id": "cultleader_br",
@@ -2135,7 +2135,7 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando você morrer, o narrador ganha uma habilidade de lacaio fora de jogo."
+    "ability": "Se você morrer, o narrador ganha a habilidade de um lacaio."
   },
   {
     "id": "hatter_br",
@@ -2166,7 +2166,7 @@
     "firstNightReminder": "O Ogro escolhe um jogador.",
     "otherNight":  0,
     "otherNightReminder": "",
-    "reminders": [],
+    "reminders": ["Amigo"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Na sua primiera noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado.",
@@ -2332,9 +2332,8 @@
     "special": [{ "name": "hidden", "type": "vote"}],
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."},
-        {"id": "flowergirl_br", "reason": "Se os olhos dos jogadores estiverem fechados durante as nomeações devido ao Organista, a Florista acorda a noite para escolher um jogador: ela sabe se esse jogador votou hoje. (invés da sua habilidade normal)"},
-        {"id": "minstrel_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "preacher_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
+        {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, o Realejo mantém sua habilidade, mas o Bardo pode abrir os olhos durante a votação."},
+        {"id": "preacher_br", "reason": "Se o Pregador remove a habilidade o Realejo, o Realejo mantém sua habilidade, mas o Pregador pode abrir os olhos durante a votação."}]
 
   },
   {
@@ -2378,7 +2377,7 @@
     "reminders": ["Alucinado", "2º"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada Noite, escolha 2 jogadores: amanhã o 1º jogador deve alucinar que o 2º é do mau, ou ambos podem morrer"
+    "ability": "A cada Noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer."
   },
   {
     "id": "summoner_br",
@@ -2426,11 +2425,11 @@
     "reminders": "",
     "remindersGlobal": ["Morto", "É o Demônio"],
     "setup": true,
-    "ability": "A cada noite os Lacaios escolhem quem ficará com o token do Bebê Monstro e será 'o Demônio'. Um jogador morre a cada noite. [+1 Lacaio]",
+    "ability": "A cada noite os Lacaios escolhem quem cuidará do Bebê Monstro e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
     "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}],
     "jinxes": [
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Bebê Monstro."},
-        {"id": "magician_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
+        {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Bebê Monstro estão vivos, esse Lacaio cuidará do Bebê Monstro."},
         {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Bebê Monstro morre, a Mulher Escarlete recebe o Bebê Mosntro essa noite."},
         {"id": "organgrinder_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Bebê Monstro."},
         {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Bebê Monstro."},
@@ -2475,7 +2474,7 @@
     "ability": "A cada noite*, escolha 3 jogadores (todos sabem quais): cada um escolhe silenciosamente se vive ou morre, mas se todos viverem, todos morrem.",
     "jinxes": [
         {"id": "scarletwoman_br", "reason": "Se há duas Al-Hadikhias vivas, a Al-Hadikhia Mulher Escarlate volta a ser a Mulher Escarlate."},
-        {"id": "mastermind_br", "reason": "Apenas 1 desses personagem podem estar em jogo. Jogadores do mal começam sabendo quem e que personagem é."}]
+        {"id": "mastermind_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}]
   },
   {
     "id": "legion_br",
@@ -2496,7 +2495,8 @@
     "special": [{ "name": "bag-duplicate", "type": "selection"}],
     "jinxes": [
         {"id": "engineer_br", "reason": "O Engenheiro e Legião não podem começar os dois em jogo. Se o Engenheiro criar Legião a maioria dos jogadores (incluindo todos os mals) vira Legião."},
-        {"id": "preacher_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
+        {"id": "preacher_br", "reason": "Se o Pregador escolhe um Legião, ele mantém sua habilidade, mas o Pregador pode saber que ele é um Legião."},
+        {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
         {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."}]
   },
   {
