@@ -2376,7 +2376,8 @@
         {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade o Vizir, ele só pode executar imediatamente se 3 ou mais jogadores votaram."},
         {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},        
         {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
-        {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."}]
+        {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."},
+        {"id": "alsaahir_br", "reason": "Se o Vizir está em jogo, O Alsaahir deve também adivinhar quais Demônio(s) estão em jogo."}]
 
   },
   {
