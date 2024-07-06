@@ -1633,11 +1633,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-<<<<<<< HEAD
-    "ability": "A cada noite, se a quantidade de mortos é maior ou igual a quantidade vivos, saiba um personagem vivo. O Demônio sabe quem você é."
-=======
     "ability": "A cada noite, se os vivos não são maioria, saiba um personagem vivo. O Demônio sabe quem você é."
->>>>>>> upstream/main
   },
   {
     "id": "balloonist_br",
@@ -1654,11 +1650,7 @@
     "reminders": ["Visto"],
     "remindersGlobal": [],
     "setup": true,
-<<<<<<< HEAD
     "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente dos que você soube nas noites anteriores. [+0 ou +1 Forasteiro]"
-=======
-    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente da última noite. [+0 ou +1 Forasteiro]"
->>>>>>> upstream/main
   },
   {
     "id": "cultleader_br",
