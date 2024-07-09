@@ -1650,7 +1650,7 @@
     "reminders": ["Visto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente dos que você soube nas noites anteriores. [+0 ou +1 Forasteiro]"
+    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente dos que você soube na noite anterior. [+0 ou +1 Forasteiro]"
   },
   {
     "id": "cultleader_br",
