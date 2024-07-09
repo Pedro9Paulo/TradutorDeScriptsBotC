@@ -496,7 +496,7 @@
     "reminders": ["Neto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo o personagem de um jogador do bem específico. Se o Demônio matá-lo, você também morre."
+    "ability": "Você começa sabendo um jogador do bem e o personagem dele. Se o Demônio matá-lo, você também morre."
   },
   {
     "id": "sailor_br",
@@ -1582,7 +1582,7 @@
     "reminders": ["Alucinando", "Habilidade adquirida"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa o sabendo 1 Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
+    "ability": "Você começa o sabendo 1 personagem Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
   },
   {
     "id": "general_br",
@@ -1650,7 +1650,7 @@
     "reminders": ["Visto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente da última noite. [+0 ou +1 Forasteiro]"
+    "ability": "A cada noite, saiba um jogador de um tipo de personagem diferente dos que você soube nas noites anteriores. [+0 ou +1 Forasteiro]"
   },
   {
     "id": "cultleader_br",
@@ -1667,7 +1667,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite o seu alinhamento será igual a um de seus vizinhos vivos. Se todos os jogadores do bem aderirem a sua seita, seu time vence."
+    "ability": "A cada noite o seu alinhamento será igual ao de um de seus vizinhos vivos. Se todos os jogadores do bem aderirem a sua seita, seu time vence."
   },
   {
     "id": "lycanthrope_br",
@@ -1684,7 +1684,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Cada Noite*, escolha um jogador vivo: Se ele for do Bem, ele morre, mas só ele poderá morrer essa noite.",
+    "ability": "A cada Noite*, escolha um jogador vivo: Se ele for do bem, ele morre, mas somente ele poderá morrer esta noite.",
     "jinxes": [
         {"id": "gambler_br", "reason": "Se o Licantropo está vivo e o Apostador se matou esse noite, ninguém mais pode morrer essa noite."}]
   },
@@ -1703,7 +1703,7 @@
     "reminders": ["?", "?", "?"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você não sabe qual é a sua habilidade. Todo dia, você pode visitar o Narrador para tentar adivinhar a sua habilidade: você descobre o quão perto está da resposta.",
+    "ability": "Você não sabe qual é a sua habilidade. A cada dia, visite o Narrador para tentar adivinhar a sua habilidade: saiba o quão perto está da resposta.",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
