@@ -270,7 +270,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você pode registrar como mau, Demônio ou Lacaio, mesmo quando morto."
+    "ability": "Você pode ser registrado como se fosse Demônio ou Lacaio do mal, mesmo quando morto."
   },
   {
     "id": "saint_br",
@@ -1154,7 +1154,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): você descobre se eles têm o mesmo alinhamento."
+    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba de eles têm o mesmo alinhamento."
   },
   {
     "id": "philosopher_br",
@@ -1207,7 +1207,7 @@
     "reminders": ["Correto", "Correto", "Correto", "Correto", "Correto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, você descobre quantos você acertou."
+    "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, saiba quantos você acertou."
   },
   {
     "id": "sage_br",
@@ -1224,7 +1224,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você for morto pelo Demônio, você descobre que ele é 1 dentre 2 jogadores."
+    "ability": "Se você for morto pelo Demônio, saiba que ele é 1 dentre 2 jogadores."
   },
   {
     "id": "mutant_br",
@@ -1684,7 +1684,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada Noite*, escolha um jogador vivo: Se ele for do bem, ele morre, mas somente ele poderá morrer esta noite.",
+    "ability": "A cada noite*, escolha um jogador vivo: se ele for do bem, ele morre, mas somente ele poderá morrer esta noite.",
     "jinxes": [
         {"id": "gambler_br", "reason": "Se o Licantropo está vivo e o Apostador se matou esse noite, ninguém mais pode morrer essa noite."}]
   },
@@ -1720,7 +1720,7 @@
     "otherNightReminder": "O Vigia Noturno pode escolher um jogador :reminder: coloque o Vigia Noturno para dormir. Acorde o jogador escolhido, mostre os tokens *ESSE JOGADOR É* e do Vigia Noturno e aponte para o Vigia Noturno.",
     "reminders": ["Sem Habilidade"],
     "setup": false,
-    "ability": "Uma vez por jogo, a noite, escolha um jogador: ele aprende quem você é."
+    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe quem você é."
   },
   {
     "id": "engineer_br",
@@ -1737,7 +1737,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha quais lacaios ou demônios estão em jogo."
+    "ability": "Uma vez por jogo, à noite, você pode decidir qual Demônio ou quais Lacaios estão em jogo."
   },
   {
     "id": "fisherman_br",
@@ -1771,7 +1771,7 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Apenas uma vez, à noite, escolha um jogador vivo: a Donzela, se escolhida, se torna um Cidadão de fora do jogo. [+Donzela]"
+    "ability": "Uma vez por jogo, à noite, você pode escolher um jogador vivo: a Donzela, se escolhida, se torna um Cidadão que não estava em jogo. [+Donzela]"
   },
   {
     "id": "alchemist_br",
@@ -1788,7 +1788,7 @@
     "reminders": [],
     "remindersGlobal": ["É o Alquimista"],
     "setup": false,
-    "ability": "Você possui a habilidade de um Lacaio de fora do jogo.",
+    "ability": "Você possui a habilidade de um Lacaio que não está em jogo.",
     "special": [{ "name": "replace-character", "type": "reveal"}]
   },
   {
@@ -1806,7 +1806,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer à noite, um bom jogador vivo se torna um fazendeiro."
+    "ability": "Se você morrer à noite, um jogador do bem vivo se torna um fazendeiro."
   },
   {
     "id": "magician_br",
@@ -1823,7 +1823,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "O Demônio pensa que você é Lacaio. Lacaios pensam que você é um Demônio."
+    "ability": "O Demônio pensa que você é um Lacaio. Lacaios pensam que você é um Demônio."
   },
   {
     "id": "choirboy_br",
@@ -1840,7 +1840,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Se o Demônio matar o Rei, você descobre quem é o Demônio. [+ Rei]"
+    "ability": "Se o Demônio matar o Rei, saiba qual jogador é o Demônio. [+Rei]"
   },
   {
     "id": "poppygrower_br",
@@ -1857,7 +1857,7 @@
     "reminders": ["Mau Acorda"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Lacaios e Demônios não se conhecem. Se você morre, eles descobrem uns aos outros essa noite."
+    "ability": "Lacaios e Demônios não se conhecem. Se você morrer, eles conhecem uns aos outros essa noite."
   },
   {
     "id": "atheist_br",
@@ -1874,7 +1874,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "O narrador pode quebrar as regras do jogo e se executado, o bem ganha, mesmo que você esteja morto. [Sem personagens maus]",
+    "ability": "O Narrador pode quebrar as regras do jogo e, se executado, o Bem ganha, mesmo que você esteja morto. [Sem personagens do mal]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
@@ -1892,7 +1892,7 @@
     "reminders": ["Morreu Hoje", "Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você está envenenado até um jogador do Bem ser executado.",
+    "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você fica envenenado até um jogador do bem ser executado.",
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
         {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."}]
@@ -1929,7 +1929,7 @@
     "reminders": ["Sabe", "Sabe"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo 2 jogadores que não são o demônio."
+    "ability": "Você começa sabendo 2 jogadores que não são o Demônio."
   },
   {
     "id": "highpriestess_br",
@@ -1963,24 +1963,24 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo se o jogador mau mais próximo de você é encontrado no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária."
+    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se rncontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária."
   },
   {
     "id": "villageidiot_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiot.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiotReversed.png"],
-    "name": "Idiota da Cidade",
+    "name": "Idiota da Vila",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 57,
-    "firstNightReminder": "O Idiota da Cidade escolhe um jogador. Sinalize com um joinha seu alinhamento.",
+    "firstNightReminder": "O Idiota da Vila escolhe um jogador. Sinalize com um joinha seu alinhamento.",
     "otherNight": 76,
-    "otherNightReminder": "O Idiota da Cidade escolhe um jogador. Sinalize com um joinha seu alinhamento.",
+    "otherNightReminder": "O Idiota da Vila escolhe um jogador. Sinalize com um joinha seu alinhamento.",
     "reminders": ["Drunk"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, escolha um jogador: você descobre seu alinhamento. [+0 a +2 Idiotas da Cidade. 1 dos extras está bêbado]",
+    "ability": "A cada noite, escolha um jogador: saiba o alinhamento dele. [+0 a +2 Idiotas da Cidade. 1 dos extras está bêbado]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
@@ -2016,7 +2016,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o bem vence."
+    "ability": "Uma vez por dia, se você publicamente adivinhar quais jogadores são Lacaios e quais são Demônio(s), o Bem vence."
   },
   {
     "id": "snitch_br",
@@ -2033,7 +2033,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Lacaios começam sabendo 3 personagens de fora do jogo."
+    "ability": "Lacaios começam sabendo 3 personagens que não estão em jogo."
   },
   {
     "id": "acrobat_br",
@@ -2050,7 +2050,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, se um dos seus vizinhos do Bem estiver bêbado ou envenenado, você morre."
+    "ability": "A cada noite*, se um dos seus vizinhos do bem vivos estiver bêbado ou envenenado, você morre."
   },
   {
     "id": "puzzlemaster_br",
@@ -2067,7 +2067,7 @@
     "reminders": ["Bêbado", "Chance usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Um jogador está bêbado, mesmo se vc estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, você descobre quem é o Demônio. Do contrário, você recebe informação falsa."
+    "ability": "Um jogador está bêbado, mesmo se vc estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, saiba quem é o Demônio. Do contrário, você recebe informação falsa."
   },
   {
     "id": "heretic_br",
