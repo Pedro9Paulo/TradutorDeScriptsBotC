@@ -2194,8 +2194,8 @@
   {
     "id": "zealot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogre.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogreReversed.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealot.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealotReversed.png"],
     "name": "Fanático",
     "edition": "",
     "team": "outsider",
