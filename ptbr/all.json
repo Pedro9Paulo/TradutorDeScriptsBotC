@@ -1895,7 +1895,8 @@
     "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você fica envenenado até um jogador do bem ser executado.",
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
-        {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."}]
+        {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
+        {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal sabe disso."}]
   },
   {
     "id": "steward_br",
@@ -2191,6 +2192,23 @@
         {"id": "recluse_br", "reason": "Se o Recluso registrar como do mau para o Ogro, o Ogro sabe que virou do mau."}]
   },
   {
+    "id": "zealot_br",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogre.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogreReversed.png"],
+    "name": "Fanático",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Se há 5 ou mais jogadores vivos, você deve votar em toda nomeação."
+  },
+  {
     "id": "widow_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widow.png",
@@ -2377,7 +2395,8 @@
         {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},        
         {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
         {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."},
-        {"id": "alsaahir_br", "reason": "Se o Vizir está em jogo, O Alsaahir deve também adivinhar quais Demônio(s) estão em jogo."}]
+        {"id": "alsaahir_br", "reason": "Se o Vizir está em jogo, O Alsaahir deve também adivinhar quais Demônio(s) estão em jogo."},
+        {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para o Vizir."}]
 
   },
   {
@@ -2516,7 +2535,8 @@
         {"id": "engineer_br", "reason": "O Engenheiro e Legião não podem começar os dois em jogo. Se o Engenheiro criar Legião a maioria dos jogadores (incluindo todos os mals) vira Legião."},
         {"id": "preacher_br", "reason": "Se o Pregador escolhe um Legião, ele mantém sua habilidade, mas o Pregador pode saber que ele é um Legião."},
         {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
-        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."}]
+        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."},
+        {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para Legião."}]
   },
   {
     "id": "leviathan_br",
@@ -2592,7 +2612,8 @@
         {"id": "towncrier_br", "reason": "Pandemônio registra como Lacaio para o Arauto da Cidade."},
         {"id": "damsel_br", "reason": "Pandemônio registra como Lacaio para a Donzela."},
         {"id": "preacher_br", "reason": "Pandemônio registra como Lacaio para o Pregador."},
-        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu, Pandemônio está em jogo e escolheu um demônio diferente, um time do mau normal é criado. Se o Chapeleiro morreu escolhe Pandemônio, os Lacaios viram Pandemônios também."}]
+        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu, Pandemônio está em jogo e escolheu um demônio diferente, um time do mau normal é criado. Se o Chapeleiro morreu escolhe Pandemônio, os Lacaios viram Pandemônios também."},
+        {"id": "zealot_br", "reason": "Se você for nomeado deve nomear de novo, mesmo se morto."}]
   },
   {
     "id": "ojo_br",
