@@ -2482,17 +2482,17 @@
     "edition": "",
     "team": "demon",
     "firstNight": 23,
-    "firstNightReminder": "A Sanguezuga escolhe um jogador :reminder:",
+    "firstNightReminder": "A Sanguesuga escolhe um jogador :reminder:",
     "otherNight": 42,
-    "otherNightReminder": "A Sanguezuga escolhe um jogador :reminder:",
+    "otherNightReminder": "A Sanguesuga escolhe um jogador :reminder:",
     "reminders": ["Morto", "Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador ele morre. Você começa escolhendo um jogador vivo ele fica envenenado e você morre se e somente se aquele jogador morrer.",
+    "ability": "A cada noite*, escolha um jogador: ele morre. Você começa escolhendo um jogador vivo: ele fica envenenado - você morre se e somente se este jogador estiver morto.",
     "jinxes": [
-        {"id": "mastermind_br", "reason": "Se o Mentor está vivo e o hospedero da Sanguezuga morre por execução, a Sanguezuga vive, mas perde a habilidade."},
-        {"id": "slayer_br", "reason": "Se o Atirador atira no hospedero da Sanguezuga, o hospedero morre."},
-        {"id": "heretic_br", "reason": "Se a Sanguezuga envenenou o Herege e então a Sanguezuga morre o Herege continua envenenado."}]
+        {"id": "mastermind_br", "reason": "Se o Mentor está vivo e o hospedero da Sanguesuga morre por execução, a Sanguesuga vive, mas perde a habilidade."},
+        {"id": "slayer_br", "reason": "Se o Atirador atira no hospedero da Sanguesuga, o hospedero morre."},
+        {"id": "heretic_br", "reason": "Se a Sanguesuga envenenou o Herege e então a Sanguesuga morre o Herege continua envenenado."}]
   },
   {
     "id": "al-hadikhia_br",
@@ -2613,7 +2613,7 @@
         {"id": "damsel_br", "reason": "Pandemônio registra como Lacaio para a Donzela."},
         {"id": "preacher_br", "reason": "Pandemônio registra como Lacaio para o Pregador."},
         {"id": "hatter_br", "reason": "Se o Chapeleiro morreu, Pandemônio está em jogo e escolheu um demônio diferente, um time do mau normal é criado. Se o Chapeleiro morreu escolhe Pandemônio, os Lacaios viram Pandemônios também."},
-        {"id": "zealot_br", "reason": "Se você for nomeado deve nomear de novo, mesmo se morto."}]
+        {"id": "zealot_br", "reason": "Se você for nomeado, deve nomear de novo, mesmo se morto."}]
   },
   {
     "id": "ojo_br",
