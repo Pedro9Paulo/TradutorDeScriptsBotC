@@ -1693,11 +1693,11 @@
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiac.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiacReversed.png"],
-    "name": "Esquecido",
+    "name": "Amnésico",
     "edition": "",
     "team": "townsfolk",
     "firstNight": 40,
-    "firstNightReminder": "Decida a habilidade do Esquecido",
+    "firstNightReminder": "Decida a habilidade do Amnésico",
     "otherNight": 59,
     "otherNightReminder": "",
     "reminders": ["?", "?", "?"],
