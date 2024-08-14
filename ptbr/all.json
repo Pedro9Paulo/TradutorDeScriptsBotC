@@ -2831,14 +2831,14 @@
   {
     "id": "fibbin_br",
     "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fibbin.png",
-    "name": "Falso",
+    "name": "Bufão",
     "edition": "",
     "team": "fabled",
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight":  0,
     "otherNightReminder": "",
-    "reminders": ["No ability"],
+    "reminders": ["Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
