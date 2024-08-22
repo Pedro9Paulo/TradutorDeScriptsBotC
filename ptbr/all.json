@@ -2320,7 +2320,7 @@
     "ability": "Você acredita ser um personagem bom. O Demônio sabe quem você é. [Você é vizinho do Demônio]",
     "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
-        {"id": "lilmonsta_br", "reason": "A Marionete é vizinha de um Lacaio, não do Demônio. A Marionete não é acordada para decidir a babá do Bebê Monstro, e não é informada que é a Marionete, caso esteja com o token do Bebê Monstro."},
+        {"id": "lilmonsta_br", "reason": "A Marionete é vizinha de um Lacaio, não do Demônio. A Marionete não é acordada para decidir a babá do Monstrim, e não é informada que é a Marionete, caso esteja com o token do Monstrim."},
         {"id": "poppygrower_br", "reason": "Quando a Cultivadora morrer, o Demônio aprende quem é a Marionete, mas a Marionete não aprende nada."},
         {"id": "snitch_br", "reason": "A Marionete não fica sabendo 3 persogens fora de jogo. O Demônio que fica sabendo mais 3 no lugar."},
         {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro foi adicionado."},       
@@ -2453,7 +2453,7 @@
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonsta.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonstaReversed.png"],
-    "name": "Bebê Monstro",
+    "name": "Monstrim",
     "edition": "",
     "team": "demon",
     "firstNight": 22,
@@ -2463,15 +2463,15 @@
     "reminders": "",
     "remindersGlobal": ["Morto", "É o Demônio"],
     "setup": true,
-    "ability": "A cada noite os Lacaios escolhem quem cuidará do Bebê Monstro e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
+    "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrim e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
     "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}],
     "jinxes": [
-        {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Bebê Monstro."},
-        {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Bebê Monstro estão vivos, esse Lacaio cuidará do Bebê Monstro."},
-        {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Bebê Monstro morre, a Mulher Escarlete recebe o Bebê Mosntro essa noite."},
-        {"id": "organgrinder_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Bebê Monstro."},
-        {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Bebê Monstro."},
-        {"id": "hatter_br", "reason": "Se o Demônio escolher o Bebê Monstro, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}]
+        {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Monstrim."},
+        {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Monstrim estão vivos, esse Lacaio cuidará do Monstrim."},
+        {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete recebe o Bebê Mosntro essa noite."},
+        {"id": "organgrinder_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Monstrim."},
+        {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Monstrim."},
+        {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}]
   },
   {
     "id": "lleech_br",
