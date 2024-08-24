@@ -17,13 +17,16 @@ for name in os.listdir("ingles"):
 		cenario = "[\n"
 		for p in script:
 			if type(p) == type({}):
-				cenario += "{"
-				for item in p:
-					if type(p[item]) == type(True):
-						cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
-					else:
-						cenario += '"' + item + '": "' + p[item] + '", ' 
-				cenario = cenario[:-2] + "},\n"
+				if p["id"] == "_meta":
+					cenario += "{"
+					for item in p:
+						if type(p[item]) == type(True):
+							cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
+						else:
+							cenario += '"' + item + '": "' + p[item] + '", ' 
+					cenario = cenario[:-2] + "},\n"
+				else:
+					cenario += todos[p["id"].replace("_", "")] +",\n"
 			else:
 				cenario += todos[p.replace("_", "")] +",\n"
 	except Exception as erro:
