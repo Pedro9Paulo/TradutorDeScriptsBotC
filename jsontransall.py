@@ -19,7 +19,10 @@ for name in os.listdir("ingles"):
 			if type(p) == type({}):
 				cenario += "{"
 				for item in p:
-					cenario += '"' + item + '": "' + p[item] + '", ' 
+					if type(p[item]) == type(True):
+						cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
+					else:
+						cenario += '"' + item + '": "' + p[item] + '", ' 
 				cenario = cenario[:-2] + "},\n"
 			else:
 				cenario += todos[p.replace("_", "")] +",\n"
