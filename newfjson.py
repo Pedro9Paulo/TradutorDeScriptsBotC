@@ -10,7 +10,10 @@ for name in os.listdir("oldingles"):
 			if p["id"] == "_meta":
 				cenario += "{"
 				for item in p:
-					cenario += '"' + item + '": "' + p[item] + '", ' 
+					if type(p[item]) == type(True):
+						cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
+					else:
+						cenario += '"' + item + '": "' + p[item] + '", ' 
 				cenario = cenario[:-2] + "},"
 			else:
 				cenario += '"'+ p["id"] +'",'
