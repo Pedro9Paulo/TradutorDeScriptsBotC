@@ -26,7 +26,7 @@
 - **special**: Lista de funcionalidades especiais dos personagens. (ver funcionalidades na próxima secção)
 - **jinxes**: Lista de jinxes do personagem; um jinx contém duas chaves: o **id** do outro personagem do jinx e o **reason** que contém a tradução do texto do jinx. (o jinx deve aparecer na definição de  apenas 1 dos 2 personagens).
 
-#### Funcionalidades especiais
+### Funcionalidades especiais
 | Funcionalidade | Como usar | exemplo de papel |
 | ---------------| --------- | ---------------- |
 | Receber o Grimório como informação | { "name": "grimoire", "type": "signal", "time": "night"} | Espião |
