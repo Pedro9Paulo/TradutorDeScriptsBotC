@@ -35,3 +35,5 @@
 | Permitir colocar mais de um personagem deste token na distribuição de Personagens | { "name": "bag-duplicate", "type": "selection"} | Legião |
 | Mãos levantadas não aparecerem durante a votação | { "name": "hidden", "type": "vote"} | Realejo 
 | Possibilidade dos jogadores apontarem para outros jogadores (restrito há um tipo de personagem se global presente)| { "name": "pointing", "type": "ability", "time": "day" ou "night", global: (opcional) tipo de personagem afetado} | Homem-Bomba |
+| Impossibilita de selecionar o token para distribuição no início do jogo | {"name": "bag-disabled", "type": "selection"} | Marionete |
+| Informação noturna customizada | "name": "card", "type": "signal", "value": texto da informação | Mezéfeles |
