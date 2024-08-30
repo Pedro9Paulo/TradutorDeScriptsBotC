@@ -2607,7 +2607,7 @@
         {"id": "undertaker_br", "reason": "Jogadores que morreram por uma nomeação registram como terem sido executados pelo Coveiro."},
         {"id": "cannibal_br", "reason": "Jogadores que morreram por uma nomeação registram como terem sido executados pelo Canibal."},
         {"id": "pacifist_br", "reason": "Jogadores que morreram por uma nomeação registram como terem sido executados pelo Pacifista."},
-        {"id": "devilsadvocate_br", "reason": "Jogadores que morreram por uma nomeação registram como terem sido executados pelo Advogado do Diabo."},
+        {"id": "devilsadvocate_br", "reason": "Jogadores que morreram por uma nomeação são registados para o Advogado do Diabo como tendo sido executado."},
         {"id": "investigator_br", "reason": "Pandemônio registra como Lacaio para o Investigador."}, 
         {"id": "clockmaker_br", "reason": "Pandemônio registra como Lacaio para o Relojoeiro."},
         {"id": "towncrier_br", "reason": "Pandemônio registra como Lacaio para o Arauto da Cidade."},
