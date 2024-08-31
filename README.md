@@ -1,13 +1,14 @@
 # TradutorDeScriptsBotC
 
-1- Rode o jsontransall.py para traduzir todos os Scripts na pasta ingles para a pasta ptbr.
+1- Rode o executável tradutor.exe para Selecionar e traduzir os Scripts desejados (ou o tradutor.py para Mac e Linux com python).
 
-2- Para Traduzir um script só rode jsontrans.py e insira o nome do script no linha de comando.
+2- Para aqueles com python rode o jsontransall.py para traduzir todos os Scripts na pasta ingles para a pasta ptbr.
 
 ## Pra quem for editar
 - images pasta com os pngs dos personagens, incluindo os 2 alinhamentos e a padão (no caso de viajantes)
 - ptbr/all.json contém todas as roles traduzidas, qualquer mudança na traduções deve ser feita nesse arquivo.
 - ordem.py contém a ordem da noite, qualquer mudança deve ser feita nesse arquivo e roda-lo para atualizar no ptbr/all.json
+- tradutor.py versão python do executável
 
 ### O que significa cada chave no json das roles
 - **id**: Identificador do personagem, padrão de nome: id original (sem underline) + \_br
