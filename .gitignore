@@ -1,6 +1,8 @@
 ingles/*
 ptbr/*
-oldingles/*
+dist
+build
+tradutor.spec
 !ingles/Bad_Moon_Rising.json
 !ingles/Sects_and_Violets.json
 !ingles/Trouble_Brewing.json
