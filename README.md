@@ -4,6 +4,10 @@
 
 2- Para aqueles com python rode o jsontransall.py para traduzir todos os Scripts na pasta ingles para a pasta ptbr.
 
+# Atenção
+
+Atualmente o site não suporta carácteres especiais, enquanto esse problema não for corrigido rode RemoveAcentos para selecionar o script (já traduzido e remove-los)
+
 ## Pra quem for editar
 - images pasta com os pngs dos personagens, incluindo os 2 alinhamentos e a padão (no caso de viajantes)
 - ptbr/all.json contém todas as roles traduzidas, qualquer mudança na traduções deve ser feita nesse arquivo.
