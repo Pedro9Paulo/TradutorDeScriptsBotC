@@ -401,7 +401,7 @@
     "firstNight":  5,
     "firstNightReminder": "O Burocrata escolhe um jogador. :reminder:",
     "otherNight":  4,
-    "otherNightReminder": "O Burocrata escolhe um jogador. :reminder",
+    "otherNightReminder": "O Burocrata escolhe um jogador. :reminder:",
     "reminders": ["3 votos"],
     "remindersGlobal": [],
     "setup": false,
@@ -2447,7 +2447,7 @@
         {"id": "riot_br", "reason": "Se o Invocador criar um Pandemônio, todos os Lacaios se tornam Pandemônios."},
         {"id": "legion_br", "reason": "Se o Invocador cria um Legião, a maioria dos jogadores (incluindo todos os do mau) viram Legião."},
         {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
-        {"id": "preacher_br", "reason": "Se o Pregador escolhe o Invocador antes ou durante a 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},]
+        {"id": "preacher_br", "reason": "Se o Pregador escolhe o Invocador antes ou durante a 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."}]
   },
   {
     "id": "lilmonsta_br",
@@ -2461,7 +2461,7 @@
     "firstNightReminder": "Acorde todos os Lacaios simultaneamente, deixe-os escolherem a babá. :reminder:",
     "otherNight": 44,
     "otherNightReminder": "Acorde todos os Lacaios simultaneamente, deixe-os escolherem a babá. :reminder: Um jogador pode morrer. :reminder:",
-    "reminders": "",
+    "reminders": [],
     "remindersGlobal": ["Morto", "É o Demônio"],
     "setup": true,
     "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrim e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
@@ -2673,7 +2673,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje publicamente, alguém pode morrer.",
-	"special": [{ "name": "card", "type": "signal", "value": "A frase secreta é:"}],
+    "special": [{ "name": "card", "type": "signal", "value": "A frase secreta é:"}],
     "jinxes": [
         {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yagarela, a habilidade da Yadarela não mata esta noite."}]
   },
