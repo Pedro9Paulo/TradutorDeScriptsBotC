@@ -4,58 +4,6 @@ from tkinter import filedialog
 import json
 import os
 
-def removeAcento(texto):
-	texto = texto.replace("á", "a")
-	texto = texto.replace("é", "e")
-	texto = texto.replace("í", "i")
-	texto = texto.replace("ó", "o")
-	texto = texto.replace("ú", "u")
-	texto = texto.replace("â", "a")
-	texto = texto.replace("ê", "e")
-	texto = texto.replace("î", "i")
-	texto = texto.replace("ô", "o")
-	texto = texto.replace("û", "u")
-	texto = texto.replace("à", "a")
-	texto = texto.replace("è", "e")
-	texto = texto.replace("ì", "i")
-	texto = texto.replace("ò", "o")
-	texto = texto.replace("ù", "u")
-	texto = texto.replace("ä", "a")
-	texto = texto.replace("ë", "e")
-	texto = texto.replace("ï", "i")
-	texto = texto.replace("ö", "o")
-	texto = texto.replace("ü", "u")
-	texto = texto.replace("ã", "a")
-	texto = texto.replace("õ", "o")
-	texto = texto.replace("ç", "c")
-	texto = texto.replace("ñ", "n")
-	texto = texto.replace("ª", "a")
-	texto = texto.replace("º", "o")
-	texto = texto.replace("Á", "A")
-	texto = texto.replace("É", "E")
-	texto = texto.replace("Í", "I")
-	texto = texto.replace("Ó", "O")
-	texto = texto.replace("Ú", "U")
-	texto = texto.replace("Â", "A")
-	texto = texto.replace("Ê", "E")
-	texto = texto.replace("Î", "I")
-	texto = texto.replace("Ô", "O")
-	texto = texto.replace("Û", "U")
-	texto = texto.replace("À", "A")
-	texto = texto.replace("È", "E")
-	texto = texto.replace("Ì", "I")
-	texto = texto.replace("Ò", "O")
-	texto = texto.replace("Ù", "U")
-	texto = texto.replace("Ä", "A")
-	texto = texto.replace("Ë", "E")
-	texto = texto.replace("Ï", "I")
-	texto = texto.replace("Ö", "O")
-	texto = texto.replace("Ü", "U")
-	texto = texto.replace("Ã", "A")
-	texto = texto.replace("Õ", "O")
-	texto = texto.replace("Ç", "C")
-	texto = texto.replace("Ñ", "N")
-	return texto
 def resource_path(relative_path):
     try:
         base_path = sys._MEIPASS
@@ -100,7 +48,7 @@ def tradutor(*args):
 			else:
 				cenario += todos[p.replace("_", "")] +",\n"
 		cenario_traduzido.set("Script Traduzido com Sucesso")
-		cenario_string = removeAcento(cenario)
+		cenario_string = cenario
 	except Exception as erro:
 		cenario_traduzido.set(erro)
 	arquivo.close()
