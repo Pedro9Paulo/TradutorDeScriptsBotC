@@ -2863,6 +2863,53 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
+  },
+  {
+    "id": "bootlegger_br",
+    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bootlegger.png",
+    "name": "Bootlegger",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Personagens ou regras caseiras estão em jogo."
+  },
+  {
+    "id": "ferryman_br",
+    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ferryman.png",
+    "name": "Barqueiro",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "No último dia todos os mortos ganham seus votos de volta.",
+    "special": [{ "name": "ghost-votes", "type": "ability"}]
+  },
+  {
+    "id": "gardener_br",
+    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gardener.png",
+    "name": "Jardineiro",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "O Narrador pode escolher o personagem de 1 ou mais jogadores.",
+    "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
   }
 
 ]
