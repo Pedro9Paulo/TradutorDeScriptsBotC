@@ -1964,7 +1964,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se rncontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária."
+    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se rncontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária.",
+    "special": [{"name": "card", "type": "signal", "value": "Horário", "time": "night"}, {"name": "card", "type": "signal", "value": "Anti-horário", "time": "night"}]
   },
   {
     "id": "villageidiot_br",
@@ -2224,7 +2225,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
-    "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
+    "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
         {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
         {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, os tokens do Dêmonio e o Mágico são removidos."},
@@ -2465,7 +2466,7 @@
     "remindersGlobal": ["Morto", "É o Demônio"],
     "setup": true,
     "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrim e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
-    "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}],
+    "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}, {"name": "bag-disabled", "type": "selection"}],
     "jinxes": [
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Monstrim."},
         {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Monstrim estão vivos, esse Lacaio cuidará do Monstrim."},
@@ -2893,7 +2894,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "No último dia todos os mortos ganham seus votos de volta.",
-    "special": [{ "name": "ghost-votes", "type": "ability"}]
+    "special": [{ "name": "ghost-votes", "type": "ability", "time": "otherDay"}]
   },
   {
     "id": "gardener_br",
