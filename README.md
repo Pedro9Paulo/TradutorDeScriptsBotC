@@ -52,9 +52,9 @@ As funcionalidades especiais usam formato chave-valor (entre {}) e são formadas
 | --- | --- | --- | --- | --- | -------------------- | ----- |
 | **"bag-disable"** | **"selection"** | sem efeito | sem efeito | sem efeito | Impede de selecionar o personagem | Marionete |
 | **"bag-duplicate"** | **"selection"** | sem efeito | sem efeito | sem efeito | Possibilita selecionar múltiplos do personagem | Legião |
-| **"grimoire"** | **"signal"** | sem efeito | Opcional | sem efeito | Possibilita o narrador enviar um Grimório ao jogador | Espião |
-| **"card"** | **"signal"** | Texto | Opcional| sem efeito | Cria botão customizado com o conteúdo em **"value"** para o narrador mandar ao jogador | Mezéfeles |
-| **"player"** | **"signal"** | Texto | Opcional | sem efeito | Cria botão customizado com o conteúdo em **"value"** para o jogador mandar ao narrador | Não Utilizado |
+| **"grimoire"** | **"signal"** | sem efeito | Opcional | Opcional | Possibilita o narrador enviar um Grimório ao jogador | Espião |
+| **"card"** | **"signal"** | Texto | Opcional| Opcional | Cria botão customizado com o conteúdo em **"value"** para o narrador mandar ao jogador | Mezéfeles |
+| **"player"** | **"signal"** | Texto | Opcional | Opcional | Cria botão customizado com o conteúdo em **"value"** para o jogador mandar ao narrador | Não Utilizado |
 | **"hidden"** | **"vote"** | sem efeito | sem efeito | sem efeito | Apenas o narrador consegue ver as mãos levantadas e o resultado de uma votação | Realejo |
 | **"multiplier"** | **"vote"** | Número | sem efeito | sem efeito | O voto do jogador marcado com o marcador do personagem é multiplicado pelo valor em **"value"** | Ladrão |
 | **"replace-character"** | **"reveal"** | sem efeito | sem efeito | sem efeito | O primeiro marcador em **"remindersGlobal"** do personagem substitui o personagem da pessoa marcada na revelação do Grimório | Filósofo |

@@ -2717,7 +2717,8 @@
   },
   {
     "id": "sentinel_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sentinel.png",
+    "image":[ 
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sentinel.png"],
     "name": "Sentinela",
     "edition": "",
     "team": "fabled",
@@ -2732,7 +2733,8 @@
   },
   {
     "id": "spiritofivory_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/spiritofivory.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/spiritofivory.png"],
     "name": "Espírito de Marfim",
     "edition": "",
     "team": "fabled",
@@ -2747,7 +2749,8 @@
   },
   {
     "id": "djinn_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/djinn.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/djinn.png"],
     "name": "Gênio",
     "edition": "",
     "team": "fabled",
@@ -2762,7 +2765,8 @@
   },
   {
     "id": "stormcatcher_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/stormcatcher.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/stormcatcher.png"],
     "name": "Apanhador de Chuvas",
     "edition": "",
     "team": "fabled",
@@ -2777,7 +2781,8 @@
   },
   {
     "id": "doomsayer_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/doomsayer.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/doomsayer.png"],
     "name": "Apocalíptico",
     "edition": "",
     "team": "fabled",
@@ -2792,7 +2797,8 @@
   },
   {
     "id": "angel_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/angel.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/angel.png"],
     "name": "Anjo",
     "edition": "",
     "team": "fabled",
@@ -2807,7 +2813,8 @@
   },
   {
     "id": "buddhist_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/buddhist.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/buddhist.png"],
     "name": "Budista",
     "edition": "",
     "team": "fabled",
@@ -2822,7 +2829,8 @@
   },
   {
     "id": "toymaker_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/toymaker.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/toymaker.png"],
     "name": "Montador de Brinquedos",
     "edition": "",
     "team": "fabled",
@@ -2837,7 +2845,8 @@
   },
   {
     "id": "duchess_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/duchess.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/duchess.png"],
     "name": "Duquesa",
     "edition": "",
     "team": "fabled",
@@ -2852,7 +2861,8 @@
   },
   {
     "id": "fibbin_br",
-    "image":"https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fibbin.png",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fibbin.png"],
     "name": "Bufão",
     "edition": "",
     "team": "fabled",
@@ -2867,7 +2877,8 @@
   },
   {
     "id": "bootlegger_br",
-    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bootlegger.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bootlegger.png"],
     "name": "Bootlegger",
     "edition": "",
     "team": "fabled",
@@ -2882,7 +2893,8 @@
   },
   {
     "id": "ferryman_br",
-    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ferryman.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ferryman.png"],
     "name": "Barqueiro",
     "edition": "",
     "team": "fabled",
@@ -2898,7 +2910,8 @@
   },
   {
     "id": "gardener_br",
-    "image": "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gardener.png",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gardener.png"],
     "name": "Jardineiro",
     "edition": "",
     "team": "fabled",
@@ -2912,5 +2925,4 @@
     "ability": "O Narrador pode escolher o personagem de 1 ou mais jogadores.",
     "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
   }
-
 ]
