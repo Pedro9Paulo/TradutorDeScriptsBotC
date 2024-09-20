@@ -2876,6 +2876,55 @@
     "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
   },
   {
+    "id": "hellslibrarian_br",
+    "image":[
+      "https://github.com/bra1n/townsquare/blob/develop/src/assets/icons/hellslibrarian.png"],
+    "name": "Algo ruim pode acontecer com quem falar quando o Narrador pedir silêncio.",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Algo Ruim"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
+  },
+  {
+    "id": "revolutionary_br",
+    "image":[
+      "https://github.com/bra1n/townsquare/blob/develop/src/assets/icons/revolutionary.png"],
+    "name": "Revolucionário",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Registrado Falsamente", "Alinhado", "Alinhado"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "2 jogadores vizinhos têm o mesmo alinhamento e todos sabem quem são. Uma vez por jogo, um deles pode ser registrado falsamente."
+  },
+  {
+    "id": "fiddler_br",
+    "image":[
+      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fiddler.png"],
+    "name": "Violinista",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa.",
+    "special": [{ "name": "pointing", "type": "ability", "time": "day"}]
+  },
+  {
     "id": "bootlegger_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bootlegger.png"],
