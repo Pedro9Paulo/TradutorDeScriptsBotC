@@ -2879,7 +2879,7 @@
     "id": "hellslibrarian_br",
     "image":[
       "https://github.com/bra1n/townsquare/blob/develop/src/assets/icons/hellslibrarian.png"],
-    "name": "Algo ruim pode acontecer com quem falar quando o Narrador pedir silêncio.",
+    "name": "Bibliotecária Infernal",
     "edition": "",
     "team": "fabled",
     "firstNight":  0,
@@ -2889,7 +2889,7 @@
     "reminders": ["Algo Ruim"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa."
+    "ability": "Algo ruim pode acontecer com quem falar quando o Narrador pedir silêncio."
   },
   {
     "id": "revolutionary_br",
