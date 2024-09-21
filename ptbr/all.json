@@ -2878,7 +2878,7 @@
   {
     "id": "hellslibrarian_br",
     "image":[
-      "https://github.com/bra1n/townsquare/blob/develop/src/assets/icons/hellslibrarian.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hellslibrarian.png"],
     "name": "Bibliotecária Infernal",
     "edition": "",
     "team": "fabled",
@@ -2894,7 +2894,7 @@
   {
     "id": "revolutionary_br",
     "image":[
-      "https://github.com/bra1n/townsquare/blob/develop/src/assets/icons/revolutionary.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/revolutionary.png"],
     "name": "Revolucionário",
     "edition": "",
     "team": "fabled",
