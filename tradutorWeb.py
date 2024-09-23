@@ -58,5 +58,5 @@ def tradutor():
     result = traduz(script)
 
     response = make_response(result)
-    response.headers["Content-Disposition"] = "attachment; filename=result.json"
+    response.headers["Content-Disposition"] = "attachment; filename="+request_file.filename
     return response
