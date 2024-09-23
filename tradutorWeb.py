@@ -1,5 +1,6 @@
 from flask import Flask, make_response, request
 import json
+import urllib
 app = Flask(__name__)
 
 def traduz(script):
@@ -40,16 +41,20 @@ def form():
             <body>
                 <h1>Tradutor de Scripts</h1>
 
-                <form action="/traduz" method="post" enctype="multipart/form-data">
+                <form action="/tradutor_upload" method="post" enctype="multipart/form-data">
                     <input type="file" name="data_file" />
+                    <input type="submit" />
+                </form>
+                <form action="/tradutor_link" method="post" enctype="multipart/form-data">
+                    <input type="form" name="url" />
                     <input type="submit" />
                 </form>
             </body>
         </html>
     """
 
-@app.route('/traduz', methods=["POST"])
-def tradutor():
+@app.route('/tradutor_upload', methods=["POST"])
+def tradutor_upload():
     request_file = request.files['data_file']
     if not request_file:
         return "No file"
@@ -59,4 +64,24 @@ def tradutor():
 
     response = make_response(result)
     response.headers["Content-Disposition"] = "attachment; filename="+request_file.filename
+    return response
+
+@app.route('/tradutor_link', methods=["POST", "GET"])
+def tradutor_link():
+    request_url = request.form.get("url")
+    request_file = urllib.request.urlopen(request_url)
+    print(request_file)
+    if not request_file:
+        return "No file"
+    
+    script = json.load(request_file)
+    result = traduz(script)
+
+    response = make_response(result)
+    filename = ""
+    try:
+        filename = script[0]["name"] + ".json"
+    except:
+        filename = "cenario.json"
+    response.headers["Content-Disposition"] = "attachment; filename="+filename
     return response
