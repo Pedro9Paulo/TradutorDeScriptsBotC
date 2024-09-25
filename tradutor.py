@@ -20,7 +20,7 @@ def tradutor(*args):
 	cenario_string = None
 	arquivo_ref = open(resource_path("ptbr/all.json"), encoding="utf-8")
 	todosRaw = arquivo_ref.read()
-	todosList = todosRaw[2:-2].split(",\n  {")
+	todosList = todosRaw[2:-3].split(",\n  {")
 	for i in range(1,len(todosList)):
 		todosList[i] = "  {"+todosList[i]
 	todos = {}
@@ -30,7 +30,7 @@ def tradutor(*args):
 		arquivo_ref.close()
 	try:
 		filename = cenario_ingles.get()
-		arquivo = open(filename)
+		arquivo = open(filename, encoding="utf-8")
 		script = json.load(arquivo)
 		cenario = "[\n"
 		for p in script:

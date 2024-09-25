@@ -25,7 +25,7 @@
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 43,
-    "firstNightReminder": "Mostre o token de personagem Forasteiro. Aponte para os jogadores *OUTSIDER* e *ERRADO*.",
+    "firstNightReminder": "Mostre o token de personagem Forasteiro. Aponte para os jogadores *FORASTEIRO* e *ERRADO*.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Forasteiro", "Errado"],

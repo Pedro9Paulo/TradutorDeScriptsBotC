@@ -2,7 +2,7 @@ import json
 import os
 f = open("ptbr/all.json", encoding="utf-8")
 todosRaw = f.read()
-todosList = todosRaw[2:-2].split(",\n  {")
+todosList = todosRaw[2:-3].split(",\n  {")
 for i in range(1,len(todosList)):
 	todosList[i] = "  {"+todosList[i]
 todos = {}
@@ -10,7 +10,7 @@ for p in todosList:
 	idi = p.find("_br")
 	todos[p[15:idi]] = p
 for name in os.listdir("ingles"):
-	f = open("ingles/"+name)
+	f = open("ingles/"+name, encoding="utf-8")
 	try:
 		script = json.load(f)
 		f.close()
