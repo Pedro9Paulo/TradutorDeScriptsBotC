@@ -3,6 +3,7 @@ import json
 import requests
 app = Flask(__name__)
 
+# Função que traduz (mesmo que em tradutor.py, não chama o tradutor.py por questão de dependencias (possívelmente mudar no futuro))
 def traduz(script):
     arquivo_all = requests.get("https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/refs/heads/main/ptbr/all.json").content
     todosRaw = arquivo_all.decode("utf-8")
@@ -34,7 +35,7 @@ def traduz(script):
     except Exception as erro:
         return erro
 
-
+# Código HTML da página
 @app.route('/')
 def form():
     return """
@@ -68,12 +69,15 @@ def form():
         </html>
     """
 
+# Função que traduz atráves de um upload do Json
 @app.route('/tradutor_upload', methods=["POST"])
 def tradutor_upload():
+    # adquire o arquivo
     request_file = request.files['data_file']
     if not request_file:
         return "Sem arquivo"
 
+    # Se for um Json transforma em dicionário
     try:
         script = json.load(request_file)
     except:
@@ -81,6 +85,7 @@ def tradutor_upload():
 
     result = traduz(script)
 
+    # Se possível salva o arquivo com o mesmo nome, caso contrário informa o erro
     if type(result) == type("string"):
 
         response = make_response(result)
@@ -89,22 +94,28 @@ def tradutor_upload():
     else:
         return str(result)
 
+# Função que traduz através de um link de Json
 @app.route('/tradutor_link', methods=["POST", "GET"])
 def tradutor_link():
+    # adquire o arquivo
     request_url = request.form.get("url")
     request_file = requests.get(request_url)
     if not request_file:
         return "Sem arquivo"
 
+    # Se for um Json transforma em dicionário
     try:
         script = request_file.json()
     except:
         return "ERRO: O Arquivo não é um Json válido"
+
     result = traduz(script)
 
+    # Se possível salva o arquivo, caso contrário informa o erro
     if type(result) == type("string"):
         response = make_response(result)
         filename = ""
+        # Se ho houver salva o arquivo com o nome no meta
         try:
             filename = script[0]["name"] + ".json"
         except:
