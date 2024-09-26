@@ -1,6 +1,6 @@
 # TradutorDeScriptsBotC
 
-1- Rode o executável tradutor.exe para Selecionar e traduzir os Scripts desejados (ou o tradutor.py para Mac e Linux com python).
+1- Rode o executável tradutorBotC.exe para Selecionar e traduzir os Scripts desejados (ou o tradutorBotC.py para Mac e Linux com python).
 
 2- Para aqueles com python rode o jsontransall.py para traduzir todos os Scripts na pasta ingles para a pasta ptbr.
 
@@ -8,13 +8,15 @@
 - images pasta com os pngs dos personagens, incluindo os 2 alinhamentos e a padão (no caso de viajantes)
 - ptbr/all.json contém todas as roles traduzidas, qualquer mudança na traduções deve ser feita nesse arquivo.
 - ordem.py contém a ordem da noite, qualquer mudança deve ser feita nesse arquivo e roda-lo para atualizar no ptbr/all.json
-- tradutor.py versão python do executável
+- tradutorBotc.py versão python do executável
+- tradutor.py contém as função que de fato traduzem, chamadas pelo tradutorBotC.py e o jsontransall.py
+- tradutorWeb.py app Flask que cria a página da Web com o tradutor (atualmente hosteado em https://pedro9paulo.pythonanywhere.com/, mas não funciona totalmente)
 
 ## Para criar o executável
 1- Instale o pyinstaller
-2- Rode ```pyinstaller tradutor.py```
-3- Rode ```pyinstaller --onedir --add-data "ptbr\all.json";"ptbr" tradutor.py```
-4- Rode ```pyinstaller -F -w --add-data "ptbr\all.json";"ptbr" tradutor.py```
+2- Rode ```pyinstaller tradutorBotC.py```
+3- Rode ```pyinstaller --onedir --add-data "ptbr\all.json";"ptbr" tradutorBotC.py```
+4- Rode ```pyinstaller -F -w --add-data "ptbr\all.json";"ptbr" tradutorBotC.py```
 
 ### O que significa cada chave no json das roles
 - **id**: Identificador do personagem, padrão de nome: id original (sem underline) + \_br
