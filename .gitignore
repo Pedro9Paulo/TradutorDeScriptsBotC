@@ -2,7 +2,7 @@ ingles/*
 ptbr/*
 dist
 build
-tradutor.spec
+tradutorBotC.spec
 __pycache__
 !ingles/Bad_Moon_Rising.json
 !ingles/Sects_and_Violets.json

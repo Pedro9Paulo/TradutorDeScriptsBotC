@@ -6,7 +6,7 @@ app = Flask(__name__)
 def traduz(script):
     arquivo_all = requests.get("https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/refs/heads/main/ptbr/all.json").content
     todosRaw = arquivo_all.decode("utf-8")
-    todosList = todosRaw[2:-2].split(",\n  {")
+    todosList = todosRaw[2:-3].split(",\n  {")
     for i in range(1,len(todosList)):
         todosList[i] = "  {"+todosList[i]
     todos = {}

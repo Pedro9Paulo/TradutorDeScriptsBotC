@@ -1,37 +1,14 @@
 import json
 import os
+import tradutor
 f = open("ptbr/all.json", encoding="utf-8")
-todosRaw = f.read()
-todosList = todosRaw[2:-3].split(",\n  {")
-for i in range(1,len(todosList)):
-	todosList[i] = "  {"+todosList[i]
-todos = {}
-for p in todosList:
-	idi = p.find("_br")
-	todos[p[15:idi]] = p
+todos = tradutor.getTodos(f)
 for name in os.listdir("ingles"):
 	f = open("ingles/"+name, encoding="utf-8")
-	try:
-		script = json.load(f)
+	cenario = tradutor.montaJson(f, todos)
+	if type(cenario) == type("String"):
+		f = open("ptbr/"+name, "w", encoding="utf-8")
+		f.write(cenario)
 		f.close()
-		cenario = "[\n"
-		for p in script:
-			if type(p) == type({}):
-				if p["id"] == "_meta":
-					cenario += "{"
-					for item in p:
-						if type(p[item]) == type(True):
-							cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
-						else:
-							cenario += '"' + item + '": "' + p[item] + '", ' 
-					cenario = cenario[:-2] + "},\n"
-				else:
-					cenario += todos[p["id"].replace("_", "")] +",\n"
-			else:
-				cenario += todos[p.replace("_", "")] +",\n"
-	except Exception as erro:
-		print("O script " + name + " tem o defeito: " + str(erro))
-
-	f = open("ptbr/"+name, "w", encoding="utf-8")
-	f.write(cenario[:-2]+"\n]")
-	f.close()
+	else:
+		print("O script " + name + " tem o defeito: " + str(cenario))
