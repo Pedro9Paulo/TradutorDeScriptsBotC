@@ -2171,7 +2171,7 @@
     "reminders": ["Troca"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morreu hoje, o Demônio pode escolher jogadores dos Lacaios & Demônio podem escolher viram novos Lacaios & Demônios."
+    "ability": "Se você morreu hoje, os Lacaio(s) e Demônio podem escolher novos personagens de seu tipo para ser."
   },
   {
     "id": "ogre_br",
