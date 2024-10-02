@@ -48,7 +48,7 @@ As funcionalidades especiais usam formato chave-valor (entre {}) e são formadas
 
 **"name"**: identificador da habilidade em si veja na tabela abaixo todas elas
 
-#### Funcionalidades que alteram o votações (**"type": "vote"**)
+#### Funcionalidades que alteram o votações
 
 | **"name"** | **"type"** | **"value"** | **"time""** | **"global"** | Funcionalidade | exemplo de papel | 
 | --- | --- | --- | --- | --- | -------------------- | ----- |
@@ -62,4 +62,4 @@ As funcionalidades especiais usam formato chave-valor (entre {}) e são formadas
 | **"replace-character"** | **"reveal"** | sem efeito | sem efeito | sem efeito | O primeiro marcador em **"remindersGlobal"** do personagem substitui o personagem da pessoa marcada na revelação do Grimório | Filósofo |
 | **"pointing"** | **"ability"** | sem efeito | Opcional | Opcional | Da ao jogadores a opção de apontar para outros jogadores | Homem-Bomba |
 | **"ghost-votes"** | **"ability"** | sem efeito | Opcional | sem efeito | Devolve os votos de todos os jogadores mortes que o utilizaram | Barqueiro |
-| **"distribute-roles"** | **"ability"** | sem efeito | Opcional | sem efeito | Envia os personagens atribuidos aos jogadores, para os jogadores | Homem-Bomba |
+| **"distribute-roles"** | **"ability"** | sem efeito | Opcional | sem efeito | Envia os personagens atribuidos aos jogadores, para os jogadores | Jardineiro |

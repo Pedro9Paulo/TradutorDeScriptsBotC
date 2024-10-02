@@ -2455,26 +2455,27 @@
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summoner.png", 
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summonerReversed.png"],
-    "name": "Pesquisador/Químico",
+    "name": "Químico",
     "edition": "",
     "team": "minion",
     "firstNight":  8,
-    "firstNightReminder": "Acorde o Gênio do Mal e o Demônio. Mostre-os o jogador do bem fora de jogo. Coloque o Cientista e o Demônio.",
+    "firstNightReminder": "Acorde o Químico e o Demônio. Mostre-os o personagem do bem fora de jogo. Coloque o Químico e o Demônio para dormir.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": [],
-    "remindersGlobal": [],
+    "remindersGlobal": ["É o Químico"],
     "setup": false,
     "ability": "O Demônio (mesmo se bêbado ou envenenado) possui a habilidade de um personagem bom fora de jogo. O Demônio e você sabem qual personagem.",
+    "special": [{"name": "replace-character", "type": "reveal"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Boffin, o Alquimista não sabe qual habilidade o Demônio ganhou."},
+        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Químico, o Alquimista não sabe qual habilidade o Demônio ganhou."},
         {"id": "cultleader_br", "reason": "Se o Demônio tem a habilidade do Líder da Seita, ele não pode se tornar do bem devido a esta habilidade."},
         {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
-        {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Boffin chooses escolhe um Cidadão para ter essa habilidade no lugar."},
+        {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Químico escolhe um Cidadão para ter essa habilidade no lugar."},
         {"id": "heretic_br", "reason": "O Demônio não pode ter a habilidade do Herege."},
         {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
         {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
-        {"id": "villageidiot_br", "reason": "Se há tokens do Idiota da Vila sobrando, o Boffin pode dar ao Demônio a habilidade do Idiota da Vila."}]
+        {"id": "villageidiot_br", "reason": "Se há tokens do Idiota da Vila sobrando, o Químico pode dar ao Demônio a habilidade do Idiota da Vila."}]
   },
   {
     "id": "lilmonsta_br",
