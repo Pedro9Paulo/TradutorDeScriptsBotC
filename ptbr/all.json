@@ -2453,8 +2453,8 @@
   {
     "id": "boffin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summoner.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summonerReversed.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffin.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffinReversed.png"],
     "name": "Químico",
     "edition": "",
     "team": "minion",
