@@ -1349,7 +1349,7 @@
         {"id": "goblin_br", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}]
   },
   {
-    "id": "pit-hag_br",
+    "id": "pithag_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithag.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithagReversed.png"],
@@ -2439,7 +2439,7 @@
         {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
         {"id": "marionette_br", "reason": "A Marionete é vizinha do Invocador. O Invocador sabe quem a Marionete é."},
-        {"id": "pit-hag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
+        {"id": "pithag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
         {"id": "hatter_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
         {"id": "courtier_br", "reason": "Se o Invocador estiver bêbado na 3ª noite, o Invocador escolhe qual Demônio, mas o Narrador escolhe qual jogador."},
         {"id": "engineer_br", "reason": "Se o Engenheiro remove um Invocador do jogo antes dele usar sua habilidade o Invocador usa sua habilidade imediatamente."},
@@ -2524,7 +2524,7 @@
         {"id": "heretic_br", "reason": "Se a Sanguesuga envenenou o Herege e então a Sanguesuga morre o Herege continua envenenado."}]
   },
   {
-    "id": "al-hadikhia_br",
+    "id": "alhadikhia_br",
     "image":[
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhia.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhiaReversed.png"],
@@ -2618,7 +2618,7 @@
         {"id": "snitch_br", "reason": "Se o Dedo-duro está em jogo, cada Pandemônio recebe 3 persogens fora do jogo adicionais."},
         {"id": "saint_br", "reason": "Se um jogador do bem nomeia e mata o Santo, o time do Santo perde."},
         {"id": "butler_br", "reason": "O Mordomo não pode nomear seu mestre."},
-        {"id": "pit-hag_br", "reason": "Se a Bruxa do Fosso cria um Pandemônio, todos os jogadores do mal viram Pandemônio, se a Bruxa do Fosso cria um Pandemônio após o 3º dia, o jogo continua por mais um dia."},
+        {"id": "pithag_br", "reason": "Se a Bruxa do Fosso cria um Pandemônio, todos os jogadores do mal viram Pandemônio, se a Bruxa do Fosso cria um Pandemônio após o 3º dia, o jogo continua por mais um dia."},
         {"id": "mayor_br", "reason": "Se o 3º dia começa com apenas 3 jogadores vivos os jogadores (em grupo) podem decider não fazer nenhuma nomeação. Neste caso se o Prefeito estiver vivo, seu time vence."},
         {"id": "monk_br", "reason": "Se o Leviatã nomeia e executa o jogador escolhido pelo Monge, esse jogador não morre."},
         {"id": "farmer_br", "reason": "Se um Pandemônio nomeia e mata um Fazendeiro, o Fazendeiro usa sua habilidade a noite."},

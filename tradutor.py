@@ -33,10 +33,14 @@ def montaJson(f, todos):
 					cenario = cenario[:-2] + "},\n"
 				else:
 					# Pega o id do Json no formato antigo
-					cenario += todos[p["id"].replace("_", "")] +",\n"
+					pid = p["id"].replace("_", "")
+					pid = pid.replace("-", "")
+					cenario += todos[pid] +",\n"
 			else:
 				# Pega o id fo Json no formato novo
-				cenario += todos[p.replace("_", "")] +",\n"
+				pid = p.replace("_", "")
+				pid = pid.replace("-", "")
+				cenario += todos[pid] +",\n"
 		cenario = cenario[:-2]+"\n]"
 		return cenario
 	except Exception as erro:

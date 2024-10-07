@@ -28,9 +28,13 @@ def traduz(script):
                             cenario += '"' + item + '": "' + p[item] + '", ' 
                     cenario = cenario[:-2] + "},\n"
                 else:
-                    cenario += todos[p["id"].replace("_", "")] +",\n"
+                    pid = p["id"].replace("_", "")
+                    pid = pid.replace("-", "")
+                    cenario += todos[pid] +",\n"
             else:
-                cenario += todos[p.replace("_", "")] +",\n"
+                pid = p.replace("_", "")
+                pid = pid.replace("-", "")
+                cenario += todos[pid] +",\n"
         return cenario[:-2]+"\n]"
     except Exception as erro:
         return erro
