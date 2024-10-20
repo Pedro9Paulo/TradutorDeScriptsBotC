@@ -2760,7 +2760,7 @@
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangster.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterGood.png",
       "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterEvil.png"],
-    "name": "Gangster",
+    "name": "Gângster",
     "edition": "",
     "team": "traveler",
     "firstNight":  0,
@@ -2888,7 +2888,7 @@
     "id": "toymaker_br",
     "image":[
       "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/toymaker.png"],
-    "name": "Montador de Brinquedos",
+    "name": "Brincalhão",
     "edition": "",
     "team": "fabled",
     "firstNight":  1,
