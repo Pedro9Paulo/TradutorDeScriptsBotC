@@ -14,7 +14,9 @@
     "reminders": ["Cidadão", "Errado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico."
+    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
+    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuidado"
+
   },
   {
     "id": "librarian_br",
@@ -31,7 +33,8 @@
     "reminders": ["Forasteiro", "Errado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Forasteiro específico.(Ou que há 'zero' Forasteiros em jogo.)"
+    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Forasteiro específico.(Ou que há 'zero' Forasteiros em jogo.)",
+    "flavor": "Certamente, madame. Em circunstâncias normais, você poderia você poderia retirar o Códice Malifacarium da biblioteca. No entanto, parece que a senhora não é uma associada."
   },
   {
     "id": "investigator_br",
@@ -48,7 +51,8 @@
     "reminders": ["Lacaio", "Errado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Lacaio específico."
+    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Lacaio específico.",
+    "flavor": "É uma noite excelente para um passeio, não, Senhor Morozov? Ou devo dizer... BARÃO Morozov?"
   },
   {
     "id": "chef_br",
@@ -65,7 +69,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo quantos pares de jogadores maus existem."
+    "ability": "Você começa sabendo quantos pares de jogadores maus existem.",
+    "flavor": "As reservas desta noite parecem estranhas. Nunca antes a Sra. Mayweather fez companhia àquele patife da Travessa Hudson. No entanto, esta noite, eles têm uma mesa para dois. Estranho."
   },
   {
     "id": "empath_br",
@@ -82,7 +87,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, saiba quantos de seus 2 vizinhos vivos são do mal."
+    "ability": "A cada noite, saiba quantos de seus 2 vizinhos vivos são do mal.",
+    "flavor": "Minha pele formiga. Algo não está certo aqui. Eu posso sentir."
   },
   {
     "id": "fortuneteller_br",
@@ -99,7 +105,8 @@
     "reminders": ["Pista Falsa"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha 2 jogadores: saiba se dentre eles há um Demônio. Há um jogador do bem que é registrado como Demônio para você."
+    "ability": "A cada noite, escolha 2 jogadores: saiba se dentre eles há um Demônio. Há um jogador do bem que é registrado como Demônio para você.",
+    "flavor": "Eu vejo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a Sabugueiro."
   },
   {
     "id": "undertaker_br",
@@ -133,7 +140,8 @@
     "reminders": ["Protegido"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador (exceto você): ele está a salvo do Demônio esta noite."
+    "ability": "A cada noite*, escolha um jogador (exceto você): ele está a salvo do Demônio esta noite.",
+    "flavor": "Um vento doente e letal que sopra essa noite. Venha, irmão, abrige-se na abadia até a tempestade passar. Dou a minha palavra e minha vida que você estará seguro."
   },
   {
     "id": "ravenkeeper_br",
@@ -150,7 +158,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer à noite, será acordado para escolher um jogador: saiba o personagem dele." 
+    "ability": "Se você morrer à noite, será acordado para escolher um jogador: saiba o personagem dele.",
+    "flavor": "Meus pássaros me vingarão! Voem, Voem, meus doces e obedientes bichos! Para a vila, para o rio! Para os becos e para os salões. Voem!"
   },
   {
     "id": "virgin_br",
@@ -167,7 +176,8 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na 1ª vez que você é nomeado, se o nomeador for um Cidadão, ele é executado imediatamente."
+    "ability": "Na 1ª vez que você é nomeado, se o nomeador for um Cidadão, ele é executado imediatamente.",
+    "flavor": "Eu sou pura. Aqueles que não tiverem pecado se jogam e sofram no meu lugar. Minha reputação não será machada com suas acusações venenosas."
   },
   {
     "id": "slayer_br",
@@ -184,7 +194,8 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, durante o dia, escolha um jogador publicamente: se ele for o Demônio, morre."
+    "ability": "Uma vez por jogo, durante o dia, escolha um jogador publicamente: se ele for o Demônio, morre.",
+    "flavor": "Morra."
   },
   {
     "id": "soldier_br",
@@ -201,7 +212,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você está a salvo do Demônio."
+    "ability": "Você está a salvo do Demônio.",
+    "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... Não."
   },
   {
     "id": "mayor_br",
@@ -218,7 +230,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se apenas 3 jogadores estão vivos e não houver execução, o seu time vence. Se você for morrer à noite, outro jogador pode morrer em vez disso."
+    "ability": "Se apenas 3 jogadores estão vivos e não houver execução, o seu time vence. Se você for morrer à noite, outro jogador pode morrer em vez disso.",
+    "flavor": "Nós devemos por nossas diferenças de lado e parar com o matança insesante. Nós todos pagamos imposto afinal. Bem, a maioria de nós."
   },
   {
     "id": "butler_br",
@@ -235,7 +248,8 @@
     "reminders": ["Mestre"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também."
+    "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
+    "flavor": "Sim senhor...\n Não senhor...\n Certamente senhor."
   },
   {
     "id": "drunk_br",
@@ -253,7 +267,8 @@
     "remindersGlobal": ["Bêbado"],
     "setup": true,
     "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é.",
-    "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}]
+    "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
+    "flavor": "Eu só *ic* bebo socialmente, querida.\n Mas admito, sou bem *burp* sociável."
   },
   {
     "id": "recluse_br",

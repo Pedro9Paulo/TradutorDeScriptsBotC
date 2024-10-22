@@ -21,12 +21,12 @@ def findFile(*args):
 
 # Traduz e salva o Json Selecionado
 def tradutorBotC(*args):
-	f = open(resource_path("ptbr/all.json"), encoding="utf-8")
+	f = open(resource_path("ptbr/all.json"), "r", encoding="utf-8")
 	todos = tradutor.getTodos(f)
 	try:
 		# Traduz
 		filename = cenario_ingles.get()
-		arquivo = open(filename, encoding="utf-8")
+		arquivo = open(filename, "r", encoding="utf-8")
 		cenario = tradutor.montaJson(arquivo, todos)
 		# checa se ocorreu um erro na tradução
 		if type(cenario) != type("String"):
