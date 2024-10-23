@@ -319,7 +319,8 @@
     "reminders": ["Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador: ele fica envenenado até o anoitecer."
+    "ability": "A cada noite, escolha um jogador: ele fica envenenado até o anoitecer.",
+    "flavor": "Adicione o composto alfa no composto beta... NÃO, NÃO TUDO ISSO!"
   },
   {
     "id": "spy_br",
@@ -338,6 +339,7 @@
     "setup": false,
     "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse Cidadão ou Forasteiro do bem, mesmo morto.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
+    "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
         {"id": "alchemist_br", "reason": "O Alquimista não pode ter a habilidade do Espião."},
         {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidos."},
@@ -382,6 +384,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "Há Forasteiros adicionais em jogo. [+2 Forasteiros]",
+    "flavor": "Essa cidade está só o pó, que? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca machucou ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, Que?",
     "jinxes": [
         {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
         {"id": "plaguedoctor_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
@@ -1033,7 +1036,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo a quantos passos o Demônio está do seu Lacaio mais próximo."
+    "ability": "Você começa sabendo a quantos passos o Demônio está do seu Lacaio mais próximo.",
+    "flavor": "Não me perturbe! O tique precisa continuar, o círculo é um símbolo da vida e contém todas as coisas – todas as respostas – em sua maquinaria divina. Eu devo trabalhar."
   },
   {
     "id": "dreamer_br",
@@ -1050,7 +1054,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador (exceto você ou Viajantes): saiba 1 personagem do bem e 1 do mal, um deles corresponde ao jogador escolhido."
+    "ability": "A cada noite, escolha um jogador (exceto você ou Viajantes): saiba 1 personagem do bem e 1 do mal, um deles corresponde ao jogador escolhido.",
+    "flavor": "Eu lembro do Relojoeiro... o céu estava vermelho e chovia triângulos fractais. Havia um cheiro de violetas e um som borbulhante. Uma mulher de olhos brilhantes e barba desgrenhada sibilava para o céu. Então, eu acordei."
   },
   {
     "id": "snakecharmer_br",
@@ -1067,7 +1072,8 @@
     "reminders": ["Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador vivo: um Demônio escolhido desta forma troca de personagem e alinhamento com você, e então fica envenenado."
+    "ability": "A cada noite, escolha um jogador vivo: um Demônio escolhido desta forma troca de personagem e alinhamento com você, e então fica envenenado.",
+    "flavor": "Ó, senhor... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, se for sua divina vontade. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, ó, senhor... eu não."
   },
   {
     "id": "mathematician_br",
@@ -1084,7 +1090,8 @@
     "reminders": ["Anormal", "Anormal", "Anormal", "Anormal", "Anormal", "Anormal", "Anormal"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, saiba quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens."
+    "ability": "A cada noite, saiba quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens.",
+    "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado."
   },
   {
     "id": "flowergirl_br",
@@ -1101,7 +1108,8 @@
     "reminders": ["Demônio votou", "Demônio não votou"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba se um Demônio votou hoje."
+    "ability": "A cada noite*, saiba se um Demônio votou hoje.",
+    "flavor": "As violetas de ontem murcharam e morreram, mas hoje minhas rosas florescem."
   },
   {
     "id": "towncrier_br",
@@ -1118,7 +1126,8 @@
     "reminders": ["Lacaios não nomearam", "Lacaio nomeou"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba se um Lacaio nomeou hoje."
+    "ability": "A cada noite*, saiba se um Lacaio nomeou hoje.",
+    "flavor": "Ouçam! Ouçam! Feitiçaria no labirinto! Gênio prodígio revela tudo! A cidade está em perigo! Ouçam!"
   },
   {
     "id": "oracle_br",
@@ -1135,7 +1144,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba quantos jogadores mortos são do mal."
+    "ability": "A cada noite*, saiba quantos jogadores mortos são do mal.",
+    "flavor": "Apenas os escolhidos podem ver além do véu. Os mortos estão inquietos e apontam em silêncio ao gélido norte."
   },
   {
     "id": "savant_br",
@@ -1152,7 +1162,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia, você pode visitar o Narrador para saber 2 coisas em segredo: 1 é verdadeira e 1 é falsa."
+    "ability": "A cada dia, você pode visitar o Narrador para saber 2 coisas em segredo: 1 é verdadeira e 1 é falsa.",
+    "flavor": "Setenta e dois palitos de fósforo no chão... o sol se põe cedo, mas a lua permanece inalterada... um pedaço de pano rasgado... o mal prevalece na mansão... três a três... aquele em quem confiamos não é o que parece... luz verde significa magnésio... resíduo, mas o padrão está errado... setenta e dois palitos de fósforo no chão..."
   },
   {
     "id": "seamstress_br",
@@ -1169,7 +1180,8 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba de eles têm o mesmo alinhamento."
+    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba de eles têm o mesmo alinhamento.",
+    "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas sabe?"
   },
   {
     "id": "philosopher_br",
@@ -1186,8 +1198,9 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": ["É o filósofo"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
+    "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",,
     "special": [{ "name": "replace-character", "type": "reveal"}],
+    "flavor": "Se tudo é real, logo, a cerveja é real. Bebamos, porque amanhã morreremos!",
     "jinxes": [{"id": "bountyhunter_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"}]
   },
   {
@@ -1205,7 +1218,8 @@
     "reminders": ["Sem habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, durante o dia, em segredo, você pode fazer uma pergunta de 'sim ou não' para o Narrador."
+    "ability": "Uma vez por jogo, durante o dia, em segredo, você pode fazer uma pergunta de 'sim ou não' para o Narrador.",
+    "flavor": "Mon Dieu! C'est lumineux! Meu quadro, ela está... como se diz... magnifique! Dieu est révélé! Oui."
   },
   {
     "id": "juggler_br",
@@ -1222,7 +1236,8 @@
     "reminders": ["Correto", "Correto", "Correto", "Correto", "Correto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, saiba quantos você acertou."
+    "ability": "Em seu primeiro dia, você pode tentar adivinhar publicamente até 5 personagens de até 5 jogadores. À noite, saiba quantos você acertou.",
+    "flavor": "Para meu próximo truque, como solicitado, vou precisar de uma flor, um saco de feijões, uma cobra de brinquedo, um pincel e uma lavadora de alta pressão. E reitero, este truque pode ser meu último. Ó, céus!"
   },
   {
     "id": "sage_br",
@@ -1239,7 +1254,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você for morto pelo Demônio, saiba que ele é 1 dentre 2 jogadores."
+    "ability": "Se você for morto pelo Demônio, saiba que ele é 1 dentre 2 jogadores.",
+    "flavor": "Esses volumosos tomos guardam o segredo, certeza! Entre palavra e palavra, a verdade à espreita. Preciso de mais velas! Mais tinta! Estas anotações podem parecer arcanas, mas esse infernal quebra-cabeça está prestes a ser revelado."
   },
   {
     "id": "mutant_br",
