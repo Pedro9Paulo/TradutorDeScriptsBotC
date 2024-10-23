@@ -1073,7 +1073,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador vivo: um Demônio escolhido desta forma troca de personagem e alinhamento com você, e então fica envenenado.",
-    "flavor": "Ó, senhor... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, se for sua divina vontade. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, ó, senhor... eu não."
+    "flavor": "Effendi... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, Ishallah se for sua divina vontade. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, ó, Effendi... eu não."
   },
   {
     "id": "mathematician_br",
@@ -1198,7 +1198,7 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": ["É o filósofo"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",,
+    "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
     "special": [{ "name": "replace-character", "type": "reveal"}],
     "flavor": "Se tudo é real, logo, a cerveja é real. Bebamos, porque amanhã morreremos!",
     "jinxes": [{"id": "bountyhunter_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"}]
