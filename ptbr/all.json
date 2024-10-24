@@ -15,7 +15,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
-    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuidado"
+    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido"
 
   },
   {
@@ -70,7 +70,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa sabendo quantos pares de jogadores maus existem.",
-    "flavor": "As reservas desta noite parecem estranhas. Nunca antes a Sra. Mayweather fez companhia àquele patife da Travessa Hudson. No entanto, esta noite, eles têm uma mesa para dois. Estranho."
+    "flavor": "As reservas desta noite parecem estranhas. Nunca antes a senhorita Castelo fez companhia àquele patife da Alameda Santos. No entanto, esta noite, eles reservaram uma mesa para dois. Peculiar. "
   },
   {
     "id": "empath_br",
@@ -88,7 +88,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, saiba quantos de seus 2 vizinhos vivos são do mal.",
-    "flavor": "Minha pele formiga. Algo não está certo aqui. Eu posso sentir."
+    "flavor": "Minha pele formiga. Algo não está certo. Eu posso sentir."
   },
   {
     "id": "fortuneteller_br",
@@ -106,7 +106,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha 2 jogadores: saiba se dentre eles há um Demônio. Há um jogador do bem que é registrado como Demônio para você.",
-    "flavor": "Eu vejo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a Sabugueiro."
+    "flavor": "Eu vejo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a sabugueiro."
   },
   {
     "id": "undertaker_br",
@@ -141,7 +141,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha um jogador (exceto você): ele está a salvo do Demônio esta noite.",
-    "flavor": "Um vento doente e letal que sopra essa noite. Venha, irmão, abrige-se na abadia até a tempestade passar. Dou a minha palavra e minha vida que você estará seguro."
+    "flavor": "Um vento doente e letal que sopra essa noite. Venha, irmão, abrigue-se na abadia até a tempestade passar. Dou a minha palavra e minha vida que você estará seguro."
   },
   {
     "id": "ravenkeeper_br",
@@ -231,7 +231,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Se apenas 3 jogadores estão vivos e não houver execução, o seu time vence. Se você for morrer à noite, outro jogador pode morrer em vez disso.",
-    "flavor": "Nós devemos por nossas diferenças de lado e parar com o matança insesante. Nós todos pagamos imposto afinal. Bem, a maioria de nós."
+    "flavor": "Nós devemos deixar nossas diferenças de lado e parar com essa chacina! Nós todos pagamos imposto, afinal. Bem, a maioria de nós."
   },
   {
     "id": "butler_br",
@@ -268,7 +268,7 @@
     "setup": true,
     "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é.",
     "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
-    "flavor": "Eu só *ic* bebo socialmente, querida.\n Mas admito, sou bem *burp* sociável."
+    "flavor": "Eu só *ic* bebo socialmente, xuxu.\n Mas, realmente, sou bem *burp* sociável."
   },
   {
     "id": "recluse_br",
@@ -384,7 +384,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "Há Forasteiros adicionais em jogo. [+2 Forasteiros]",
-    "flavor": "Essa cidade está só o pó, que? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca machucou ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, Que?",
+    "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca machucou ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?",
     "jinxes": [
         {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
         {"id": "plaguedoctor_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
