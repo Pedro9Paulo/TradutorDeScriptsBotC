@@ -384,7 +384,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "Há Forasteiros adicionais em jogo. [+2 Forasteiros]",
-    "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca machucou ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?",
+    "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca fez mal a ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?",
     "jinxes": [
         {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
         {"id": "plaguedoctor_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
