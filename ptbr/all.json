@@ -1131,7 +1131,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, saiba se um Lacaio nomeou hoje.",
-    "flavor": "Ouçam! Ouçam! Feitiçaria no labirinto! Gênio prodígio revela tudo! A cidade está em perigo! Ouçam!"
+    "flavor": "Ouçam! Ouçam! Feitiçaria no labirinto! Gênio prodígio revela tudo! A cidade corre perigo! Ouçam!"
   },
   {
     "id": "oracle_br",
@@ -1185,7 +1185,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba de eles têm o mesmo alinhamento.",
-    "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas sabe?"
+    "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas, sabe?"
   },
   {
     "id": "philosopher_br",
@@ -1223,7 +1223,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, durante o dia, em segredo, você pode fazer uma pergunta de 'sim ou não' para o Narrador.",
-    "flavor": "Mon Dieu! C'est lumineux! Meu quadro, ela está... como se diz... magnifique! Dieu est révélé! Oui."
+    "flavor": "Mon Dieu! C'est lumineux! Minha obra, ela está... como se diz... magnifique! Dieu est révélé! Oui."
   },
   {
     "id": "juggler_br",
