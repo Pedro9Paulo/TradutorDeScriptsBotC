@@ -106,7 +106,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha 2 jogadores: saiba se dentre eles há um Demônio. Há um jogador do bem que é registrado como Demônio para você.",
-    "flavor": "Eu vejo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a sabugueiro."
+    "flavor": "Eu percebo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a sabugueiro."
   },
   {
     "id": "undertaker_br",
@@ -249,7 +249,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
-    "flavor": "Sim senhor...\n Não senhor...\n Certamente senhor."
+    "flavor": "Sim senhor... Não senhor... Certamente senhor."
   },
   {
     "id": "drunk_br",
@@ -268,7 +268,7 @@
     "setup": true,
     "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é.",
     "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
-    "flavor": "Eu só *ic* bebo socialmente, xuxu.\n Mas, realmente, sou bem *burp* sociável."
+    "flavor": "Eu só *ic* bebo socialmente, xuxu. Mas, realmente, sou bem *arroto* sociável."
   },
   {
     "id": "recluse_br",
@@ -405,7 +405,8 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: ele morre. Se você se matar desta forma, um Lacaio se torna Capeta."
+    "ability": "A cada noite*, escolha um jogador: ele morre. Se você se matar desta forma, um Lacaio se torna Capeta.",
+    "flavor": "Nós devemos manter nossa mente afiada e a espada ainda mais. O mau anda entre nós, e não parará por nada até nos destruir, os cidadãos de bem, levando nossa bela cidade à ruína. Não confie em ninguém. Mas se for confiar em alguém, confie em mim."
   },
   {
     "id": "bureaucrat_br",
@@ -424,7 +425,8 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador (exceto você): o voto dele vale por 3 amanhã.",
-    "special": [{ "name": "multiplier", "type": "vote", "value":3}]
+    "special": [{ "name": "multiplier", "type": "vote", "value":3}],
+    "flavor": "Assine aqui por favor. E aqui. E aqui. Eeeee Aqui também. Isso deve ser classificado e contabilizado até o fim do dia, Supondo que todas as assinaturas são legíveis. Faz tempo que não temos um erro na papelada. Ontem ao meio-dia, se não me falha a memória..."
   },
   {
     "id": "thief_br",
@@ -461,7 +463,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia, após a 1ª contagem de votos, você pode escolher um jogador que votou: ele morre."
+    "ability": "A cada dia, após a 1ª contagem de votos, você pode escolher um jogador que votou: ele morre.",
+    "flavor": "Já é hora de alguém fazer justiça com as próprias mãos. Esse alguém... sou eu."
   },
   {
     "id": "scapegoat_br",
@@ -497,7 +500,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & são."
+    "ability": "Você precisa de um token de voto para votar. Jogadores mortos podem escolher doar os deles a você. Caso o façam, saiba o alinhamento deles. Você está sóbrio & são.",
+    "flavor": "Esmola para os pobres, bom senhor? Um trocado madame? Obrigado, Deus te abençoe! Você tem uma alma boa e não se engane! Vou comer um rango chique essa noite, a se vou!"
   },
   {
     "id": "grandmother_br",
