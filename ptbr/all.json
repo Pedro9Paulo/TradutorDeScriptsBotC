@@ -1223,7 +1223,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, durante o dia, em segredo, você pode fazer uma pergunta de 'sim ou não' para o Narrador.",
-    "flavor": "Mon Dieu! C'est lumineux! Minha obra, ela está... como se diz... magnifique! Dieu est révélé! Oui."
+    "flavor": "Mon Dieu! C'est lumineux! Minha quadro, ela está... como se diz... magnifique! Dieu est révélé! Oui."
   },
   {
     "id": "juggler_br",
@@ -2399,7 +2399,7 @@
     "setup": false,
     "ability": "Se você for executado, todos morrem exceto 3 jogadores. Após 1 minuto, o jogador mais apontado pelos outros jogadores morre.",
     "special": [{ "name": "pointing", "type": "ability", "time": "day"}],
-    "jinxes": [{"id": "plaguedoctor_br", "reason": "Se a Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."}]
+    "jinxes": [{"id": "plaguedoctor_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."}]
 
   },
   {
