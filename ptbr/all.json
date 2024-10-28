@@ -15,7 +15,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
-    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido"
+    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido."
 
   },
   {
@@ -1077,7 +1077,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador vivo: um Demônio escolhido desta forma troca de personagem e alinhamento com você, e então fica envenenado.",
-    "flavor": "Effendi... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, Ishallah se for sua divina vontade. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, ó, Effendi... eu não."
+    "flavor": "Effendi... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, inshallah. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, effendi... eu não."
   },
   {
     "id": "mathematician_br",
@@ -1276,7 +1276,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você alucinar que é um Forasteiro, você pode ser executado."
+    "ability": "Se você alucinar que é um Forasteiro, você pode ser executado.",
+    "flavor": "Eu não sou um monstro! Eu sou um ser humano! Haja piedade!"
   },
   {
     "id": "sweetheart_br",
@@ -1293,7 +1294,8 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando você morrer, um jogador fica bêbado."
+    "ability": "Quando você morrer, um jogador fica bêbado.",
+    "flavor": "Eu nunca vou me esquecer dela. Nunca."
   },
   {
     "id": "barber_br",
@@ -1310,7 +1312,8 @@
     "reminders": ["Troca"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morreu hoje, o Demônio poderá escolher dois jogadores (exceto outro Demônio): eles trocam de personagens entre si."
+    "ability": "Se você morreu hoje, o Demônio poderá escolher dois jogadores (exceto outro Demônio): eles trocam de personagens entre si.",
+    "flavor": "Sabia que barbeiros e cirurgiões já foram a mesma profissão? Não sabia? Pois agora sabe."
   },
   {
     "id": "klutz_br",
@@ -1327,7 +1330,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando souber que morreu, escolha publicamente um jogador vivo: se ele for do mal, o seu time perde."
+    "ability": "Quando souber que morreu, escolha publicamente um jogador vivo: se ele for do mal, o seu time perde.",
+    "flavor": "Ráá! Ié ié!"
   },
   {
     "id": "eviltwin_br",
