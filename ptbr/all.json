@@ -1349,6 +1349,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você e um oponente se conhecem e sabem o personagem um do outro. Se o jogador do bem for executado, o Mal vence. O Bem não pode vencer enquanto ambos viverem.",
+    "flavor": "Eu não sou a Sara! Eu sou a Clara! ELA é a Sara! Ela é a do mal! Não eu!",
     "jinxes": [{"id": "plaguedoctor_br", "reason": "O Narrador não pode ganhar a habilidade da Gêmea Má se o Médico da Peste morrer."}]
   },
   {
@@ -1366,7 +1367,8 @@
     "reminders": ["Amaldiçoado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador: se ele nomear amanhã, morre. Se apenas 3 jogadores estão vivos, você perde essa habilidade."
+    "ability": "A cada noite, escolha um jogador: se ele nomear amanhã, morre. Se apenas 3 jogadores estão vivos, você perde essa habilidade.",
+    "flavor": "Três gotas de sangue de cabra. Um cacho de cabelo, arrancado com raiva. O nome é dito, a sombra lançada. Entre naquela viela com o pé esquerdo primeiro... e jamais olhe para trás!"
   },
   {
     "id": "cerenovus_br",
@@ -1384,6 +1386,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um personagem do bem e um jogador: amanhã, o jogador deve alucinar que é esse personagem; do contrário, pode ser executado.",
+    "flavor": "A realidade é apenas uma opinião. Especificamente, a minha opinião.",
     "jinxes": [
         {"id": "goblin_br", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}]
   },
@@ -1403,6 +1406,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha um jogador e um personagem para ele se tornar (se não estiver em jogo). Se um Demônio é criado, as mortes serão arbitrárias esta noite.",
+    "flavor": "Ao redor do caldeirão vamos rodar;\n Entranhas envenenadas nele atirar;\n O sapo que sob pedra se escondia;\n Trinta e um dias e noites, dormia;\n Veneno a suar enquanto repousava;\n Ferve primeiro, na poção que encantava.",
     "jinxes": [
         {"id": "heretic_br", "reason": "A Bruxa do Fosso não pode criar um Herege."},
         {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
@@ -1427,7 +1431,8 @@
     "reminders": ["Morto", "Uma Vez"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite*, você escolhe um jogador: ele morre. O 1º Forasteiro a ser morto assim, torna-se um Fang Gu do mal e você morre em vez dele. [+1 Forasteiro]"
+    "ability": "A cada noite*, você escolhe um jogador: ele morre. O 1º Forasteiro a ser morto assim, torna-se um Fang Gu do mal e você morre em vez dele. [+1 Forasteiro]",
+    "flavor": "Suas muralhas e suas armas não passam de ilusões em suas fantasias."
   },
   {
     "id": "vigormortis_br",
@@ -1444,7 +1449,8 @@
     "reminders": ["Morto", "Envenenado", "Envenenado", "Envenenado", "Envenenado", "Habilidade Ativa", "Habilidade Ativa", "Habilidade Ativa", "Habilidade Ativa"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho Cidadão. [-1 Forasteiro]."
+    "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho Cidadão. [-1 Forasteiro].",
+    "flavor": "Todas as portas são uma só porta. Todas as chaves, uma só chave. Todos os cálices, um só cálice. E aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna."
   },
   {
     "id": "nodashii_br",
@@ -1461,7 +1467,8 @@
     "reminders": ["Morto", "Envenenado", "Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: ele morre. Seus dois vizinhos Cidadãos estão envenenados."
+    "ability": "A cada noite*, escolha um jogador: ele morre. Seus dois vizinhos Cidadãos estão envenenados.",
+    "flavor": "Pelos pecados de Arnóbio, sinto o teu fétido odor. Pelo maldito sol e sua vil legião de deuses sorridentes, eu te corrompo. Pela noite sagrada e as profundezas ocultas do horrendo e profano mar, eu encerro tua miserável vida neste plano."
   },
   {
     "id": "vortox_br",
@@ -1479,6 +1486,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Cidadãos geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
+    "flavor": "A explicação é a confusão. A confusão é o esclarecimento. O esclarecimento é a obscuridade. A obscuridade é o seu guia. Siga-me! As respostas te encontrarão.",
     "jinxes": [
         {"id": "banshee_br", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}]
   },
