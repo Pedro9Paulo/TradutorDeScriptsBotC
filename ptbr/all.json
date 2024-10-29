@@ -1506,7 +1506,8 @@
     "reminders": ["Age duas vezes", "Sóbrio e Saudável", "?"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, até o anoitecer: 1) Um jogador fica são, sóbrio e obtém informações verdadeiras, ou; 2) Uma habilidade funciona duas vezes. O jogador afetado sabe qual é o efeito."
+    "ability": "A cada noite, até o anoitecer: 1) Um jogador fica são, sóbrio e obtém informações verdadeiras, ou; 2) Uma habilidade funciona duas vezes. O jogador afetado sabe qual é o efeito.",
+    "flavor": "Uma xícara de café sem creme, senhor? Infelizmente, estamos sem creme. Que tal sem leite?"
   },
   {
     "id": "harlot_br",
@@ -1524,7 +1525,8 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador vivo: se ele concordar, saiba o personagem dele, mas ambos podem morrer."
+    "ability": "A cada noite*, escolha um jogador vivo: se ele concordar, saiba o personagem dele, mas ambos podem morrer.",
+    "flavor": "Encantador, senhor Marinho. Parece que você precisa de alguém para ouvir seus problemas de verdade. Eu sou ótima nisso. Muito, muito boa."
   },
   {
     "id": "butcher_br",
@@ -1542,7 +1544,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia, depois da 1ª execução, você pode nomear novamente."
+    "ability": "A cada dia, depois da 1ª execução, você pode nomear novamente.",
+    "flavor": "Tem gosto de frango. Quero mais!"
   },
   {
     "id": "bonecollector_br",
@@ -1560,7 +1563,8 @@
     "reminders": ["Sem Habilidade", "Habilidade Ativa"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um jogador morto: ele recupera a habilidade até o anoitecer."
+    "ability": "Uma vez por jogo, à noite, escolha um jogador morto: ele recupera a habilidade até o anoitecer.",
+    "flavor": "Eu coleciono muitas coisas... cabelos, dentes, roupas, fragmentos de poemas e sonhos de amantes perdidos. Minhas artes secretas não foram feitas para os seus olhos curiosos, mas meu preço é irrisório. Traga-me o sangue de uma nobre que morreu de desgosto sob a lua cheia, e talvez encontre suas respostas."
   },
   {
     "id": "deviant_br",
@@ -1578,7 +1582,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você foi divertido hoje, não pode morrer por exílio."
+    "ability": "Se você foi divertido hoje, não pode morrer por exílio.",
+    "flavor": "Foi um gracejo da dama, ora pois."
   },
   {
     "id": "noble_br",
