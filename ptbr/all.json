@@ -2099,7 +2099,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: se ele ficar bêbado ou envenenado essa noite, você morre."
+    "ability": "A cada noite*, escolha um jogador: se ele está ou ficar bêbado ou envenenado essa noite, você morre."
   },
   {
     "id": "acrobatold_br",
