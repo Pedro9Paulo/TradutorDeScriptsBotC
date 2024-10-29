@@ -15,7 +15,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
-    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido."
+    "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido!"
 
   },
   {
@@ -213,7 +213,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você está a salvo do Demônio.",
-    "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... Não."
+    "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... não."
   },
   {
     "id": "mayor_br",
@@ -231,7 +231,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Se apenas 3 jogadores estão vivos e não houver execução, o seu time vence. Se você for morrer à noite, outro jogador pode morrer em vez disso.",
-    "flavor": "Nós devemos deixar nossas diferenças de lado e parar com essa chacina! Nós todos pagamos imposto, afinal. Bem, a maioria de nós."
+    "flavor": "Nós devemos deixar nossas diferenças de lado e parar com esta chacina! Nós todos pagamos imposto, afinal. Bem, a maioria de nós."
   },
   {
     "id": "butler_br",
@@ -249,7 +249,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
-    "flavor": "Sim senhor... Não senhor... Certamente senhor."
+    "flavor": "Sim, senhor... não, senhor... certamente, senhor."
   },
   {
     "id": "drunk_br",
