@@ -213,7 +213,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você está a salvo do Demônio.",
-    "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... NÃO."
+    "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... não."
   },
   {
     "id": "mayor_br",
@@ -2810,6 +2810,24 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por dia, você pode escolher matar um vizinho vivo, desde que o outro vizinho concorde."
+  },
+  {
+    "id": "gnome_br",
+    "image":[
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnome.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnomeGood.png",
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnomeEvil.png"],
+    "name": "Gnomo",
+    "edition": "",
+    "team": "traveler",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Amigo"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": " Todos os jogadores começam sabendo, um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
   },
   {
     "id": "sentinel_br",
