@@ -16,7 +16,6 @@
     "setup": false,
     "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
     "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido!"
-
   },
   {
     "id": "librarian_br",
@@ -512,9 +511,9 @@
     "edition": "bmr",
     "team": "townsfolk",
     "firstNight": 51,
-    "firstNightReminder": "Mostre o token de personagem do jogador marcado como 'Neto'. Aponte para o jogador marcado.",
+    "firstNightReminder": "Mostre o token de personagem do jogador marcado como *NETO*. Aponte para o jogador marcado.",
     "otherNight": 65,
-    "otherNightReminder": "Se o *NETO* da Vovó foi morto pelo Demônio esta noite: A Vovó morre.",
+    "otherNightReminder": "Se o *NETO* da Vovó foi morto pelo Demônio esta noite: A Vovó morre. :reminder:",
     "reminders": ["Neto"],
     "remindersGlobal": [],
     "setup": false,
@@ -1733,10 +1732,10 @@
     "firstNightReminder": "",
     "otherNight": 31,
     "otherNightReminder": "O Licantropo escolhe um jogador. :reminder:",
-    "reminders": ["Morto"],
+    "reminders": ["Morto", "Registra como Mal"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador vivo: se ele for do bem, ele morre, mas somente ele poderá morrer esta noite.",
+    "ability": "A cada noite*, escolha um jogador vivo. Se o jogador escolhido for do bem, ele morre e o Demônio não mata esta noite. Um jogador bom registra como mal.",
     "jinxes": [
         {"id": "gambler_br", "reason": "Se o Licantropo está vivo e o Apostador se matou esta noite, ninguém mais pode morrer esta noite."}]
   },
@@ -2414,7 +2413,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você for executado, todos morrem exceto 3 jogadores. Após 1 minuto, o jogador mais apontado pelos outros jogadores morre.",
+    "ability": "Se você for executado, todos morrem exceto 3 jogadores. Após uma contagem de 10 a 1, o jogador mais apontado pelos outros jogadores morre.",
     "special": [{ "name": "pointing", "type": "ability", "time": "day"}],
     "jinxes": [{"id": "plaguedoctor_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."}]
 
@@ -2567,7 +2566,6 @@
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Monstrim."},
         {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Monstrim estão vivos, esse Lacaio cuidará do Monstrim."},
         {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete recebe o Monstrim essa noite."},
-        {"id": "organgrinder_br", "reason": "O Realejo pode morrer por execução se estiver segurando o Monstrim."},
         {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Monstrim."},
         {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}]
   },
@@ -2827,7 +2825,7 @@
     "reminders": ["Amigo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": " Todos os jogadores começam sabendo, um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
+    "ability": "Todos os jogadores começam sabendo, um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
   },
   {
     "id": "sentinel_br",
