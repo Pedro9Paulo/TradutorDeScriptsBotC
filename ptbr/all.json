@@ -2437,9 +2437,7 @@
     "ability": "Todos os jogadores mantêm seus olhos fechados durante votação e a contagem de votos é secreta. A cada noite escolha se você está ou não bêbado. ",
     "special": [{ "name": "hidden", "type": "vote"}],
     "jinxes": [
-        {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."},
-        {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, o Realejo mantém sua habilidade, mas o Bardo pode abrir os olhos durante a votação."},
-        {"id": "preacher_br", "reason": "Se o Pregador remove a habilidade o Realejo, o Realejo mantém sua habilidade, mas o Pregador pode abrir os olhos durante a votação."}]
+        {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."}]
 
   },
   {
