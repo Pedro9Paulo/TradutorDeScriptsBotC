@@ -248,7 +248,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
-    "flavor": "Sim, senhor... não, senhor... certamente, senhor."
+    "flavor": "Sim, senhor...\n Não, senhor...\n Certamente, senhor."
   },
   {
     "id": "drunk_br",
@@ -1203,7 +1203,7 @@
     "setup": false,
     "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
     "special": [{ "name": "replace-character", "type": "reveal"}],
-    "flavor": "Se tudo é real, logo, a cerveja é real. Bebamos, porque amanhã morreremos!",
+    "flavor": "Se alguma coisa existe de verdade, a cerveja é uma delas. Bebamos, porque amanhã morreremos!",
     "jinxes": [{"id": "bountyhunter_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"}]
   },
   {
