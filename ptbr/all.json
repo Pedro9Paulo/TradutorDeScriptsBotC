@@ -2742,7 +2742,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite* escolha um personagem: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? a +? Forasteiros]",
+    "ability": "A cada noite* escolha um jogador: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? a +? Forasteiros]",
     "jinxes": [
         {"id": "bountyhunter_br", "reason": "Um Cidadão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"},
         {"id": "goon_br", "reason": " O Kazali pode escolher o Capanga com um de dos jogadores que será um Lacaio do mal."},
