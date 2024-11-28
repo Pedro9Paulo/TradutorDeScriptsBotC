@@ -2488,8 +2488,8 @@
   {
     "id": "summoner_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffin.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffinReversed.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summoner.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summonerReversed.png"],
     "name": "Invocador",
     "edition": "",
     "team": "minion",
