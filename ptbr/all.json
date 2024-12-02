@@ -1735,9 +1735,7 @@
     "reminders": ["Morto", "Registra como Mal"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador vivo. Se o jogador escolhido for do bem, ele morre e o Demônio não mata esta noite. Um jogador bom registra como mal.",
-    "jinxes": [
-        {"id": "gambler_br", "reason": "Se o Licantropo está vivo e o Apostador se matou esta noite, ninguém mais pode morrer esta noite."}]
+    "ability": "A cada noite*, escolha um jogador vivo. Se o jogador escolhido for do bem, ele morre e o Demônio não mata esta noite. Um jogador bom registra como mal."
   },
   {
     "id": "amnesiac_br",
@@ -2016,7 +2014,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se rncontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária.",
+    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se encontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária.",
     "special": [{"name": "card", "type": "signal", "value": "Horário", "time": "night"}, {"name": "card", "type": "signal", "value": "Anti-horário", "time": "night"}]
   },
   {
