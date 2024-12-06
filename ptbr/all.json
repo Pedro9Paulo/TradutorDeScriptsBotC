@@ -2558,7 +2558,7 @@
     "remindersGlobal": ["Noite 1, Noite 2, Noite 3, X"],
     "setup": true,
     "ability": "Na X-ésima noite todos os Cidadãos são envenenados até o anoitecer. [X Forasteiros]"
-  }
+  },
   {
     "id": "lilmonsta_br",
     "image":[
