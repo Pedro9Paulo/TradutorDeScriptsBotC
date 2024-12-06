@@ -2294,7 +2294,7 @@
     "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquemista não pode ter a habilidade da Viúva."},
+        {"id": "alchemist_br", "reason": "O alquimista não pode ter a habilidade da Viúva."},
         {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e o Mágico são removidos."},
         {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
         {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
