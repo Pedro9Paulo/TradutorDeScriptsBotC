@@ -340,7 +340,7 @@
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
-        {"id": "alchemist_br", "reason": "O Alquimista não pode ter a habilidade do Espião."},
+        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório e o verdadeiro Espião não pode registrar falsamente."},
         {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidos."},
         {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo, o Espião não ve o Grimório até ela morrer."},
         {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo disso"},
@@ -2294,7 +2294,7 @@
     "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "O alquimista não pode ter a habilidade da Viúva."},
+        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório."},
         {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e o Mágico são removidos."},
         {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
         {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
@@ -2458,7 +2458,6 @@
         {"id": "investigator_br", "reason": "Se o Investigador sabe que há um Vizir em jogo, a existência do Vizir não é anunciada pelo Narrador."},
         {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
         {"id": "courtier_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
-        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade o Vizir, ele só pode executar imediatamente se 3 ou mais jogadores votaram."},
         {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},        
         {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
         {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."},
@@ -2622,7 +2621,7 @@
     "ability": "A cada noite*, você pode escolher 3 jogadores (todos sabem quais): cada um escolhe silenciosamente se vive ou morre, mas se todos viverem, todos morrem.",
     "jinxes": [
         {"id": "scarletwoman_br", "reason": "Se há duas Al-Hadikhias vivas, a Al-Hadikhia Mulher Escarlate volta a ser a Mulher Escarlate."},
-        {"id": "mastermind_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}]
+        {"id": "mastermind_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}]
   },
   {
     "id": "legion_br",
