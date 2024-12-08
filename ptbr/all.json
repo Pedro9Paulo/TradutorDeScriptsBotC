@@ -1684,7 +1684,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, se os vivos não são maioria, saiba um personagem vivo. O Demônio sabe quem você é."
+    "ability": "A cada noite, se os vivos não são maioria, saiba um personagem vivo. O Demônio sabe que você é o Rei."
   },
   {
     "id": "balloonist_br",
@@ -1769,7 +1769,7 @@
     "otherNightReminder": "O Vigia Noturno pode escolher um jogador :reminder: coloque o Vigia Noturno para dormir. Acorde o jogador escolhido, mostre as fichas *ESSE JOGADOR É* e do Vigia Noturno e aponte para o Vigia Noturno.",
     "reminders": ["Sem Habilidade"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe quem você é."
+    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe que você é o Vigia Noturn"
   },
   {
     "id": "engineer_br",
@@ -2068,7 +2068,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o Bem vence."
+    "ability": "A cada dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o Bem vence."
   },
   {
     "id": "snitch_br",
@@ -2170,7 +2170,7 @@
     "reminders": ["Chance Usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Todos os Lacaios sabem que você está em jogo. Uma vez no jogo, um deles pode adivinhar quem é você. Se conseguir, seu time perde."
+    "ability": "Todos os Lacaios sabem uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar quem é você. Se conseguir, seu time perde."
   },
   {
     "id": "golem_br",
@@ -2453,7 +2453,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Todos os jogadores sabem quem você é. Você não pode morrer durante o dia. Se jogadores do bem votaram você pode escolher executar imediatamente",
+    "ability": "Todos os jogadores sabem que você é o Vizir. Você não pode morrer durante o dia. Se jogadores do bem votaram você pode escolher executar imediatamente",
     "jinxes": [
         {"id": "investigator_br", "reason": "Se o Investigador sabe que há um Vizir em jogo, a existência do Vizir não é anunciada pelo Narrador."},
         {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
