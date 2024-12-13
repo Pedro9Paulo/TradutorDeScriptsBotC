@@ -1769,7 +1769,7 @@
     "otherNightReminder": "O Vigia Noturno pode escolher um jogador :reminder: coloque o Vigia Noturno para dormir. Acorde o jogador escolhido, mostre as fichas *ESSE JOGADOR É* e do Vigia Noturno e aponte para o Vigia Noturno.",
     "reminders": ["Sem Habilidade"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe que você é o Vigia Noturn"
+    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe que você é o Vigia Noturno"
   },
   {
     "id": "engineer_br",
@@ -1945,7 +1945,7 @@
     "jinxes": [
         {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
         {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
-        {"id": "poppygrower_br", "reason": "Se o Canibal come a Cultivadora e então morre ou perde a habilidade dela, os Demônios e Lacaios se conhecem esta noite."},
+        {"id": "poppygrower_br", "reason": "Se o Canibal janta a Cultivadora e então morre ou perde a habilidade dela, os Demônios e Lacaios se conhecem esta noite."},
         {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal sabe disso."}]
   },
   {
@@ -2554,7 +2554,7 @@
     "otherNight": 12,
     "otherNightReminder": "Marque o Xaã com o marcador da noite correspondente, se :X: for o valor da noite atual marque com :X:. :reminder: :reminder:",
     "reminders": [],
-    "remindersGlobal": ["Noite 1, Noite 2, Noite 3, X"],
+    "remindersGlobal": ["Noite 1", "Noite 2", "Noite 3", "X"],
     "setup": true,
     "ability": "Na X-ésima noite todos os Cidadãos são envenenados até o anoitecer. [X Forasteiros]"
   },
@@ -2667,10 +2667,10 @@
         {"id": "soldier_br", "reason": "Se o Leviatã está em jogo o Soldado está seguro de todas as habilidade do mal."},
         {"id": "monk_br", "reason": "Se o Leviatã está em jogo o jogador protegido pelo Monge está seguro de todas as habilidade do mal."},
         {"id": "innkeeper_br", "reason": "Se o Leviatã está em jogo os jogadores protegidos pelo Taverneiro estão seguros de todas as habilidade do mal."},
-        {"id": "ravenkeeper_br", "reason": "A cada noite*, o Leviatã escolhe um jogador vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
-        {"id": "banshee_br", "reason": "A cada noite*, o Leviatã escolhe um jogador vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
-        {"id": "sage_br", "reason": "A cada noite*, o Leviatã escolhe um jogador vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
-        {"id": "farmer_br", "reason": "A cada noite*, o Leviatã escolhe um jogador vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
+        {"id": "ravenkeeper_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
+        {"id": "banshee_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
+        {"id": "sage_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
+        {"id": "farmer_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
         {"id": "mayor_br", "reason": "Se um Leviatã e o Prefeito estão em jogo & nenhuma execução é feita no dia 5 o time do bem vence."},
         {"id": "hatter_br", "reason": "Se o Chapeleiro morreu no dia 5 ou depois, o Demônio não pode escolher Leviatã."},
         {"id": "exorcist_br", "reason": "O mal não ganha quando mais de 1 jogador bom é executado, se o Exorcista estiver vivo e escolhido o Leviatã."},
