@@ -2561,8 +2561,8 @@
   {
     "id": "wizard_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/xaan.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/xaanReversed.png"],
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/wizard.png", 
+      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/wizardReversed.png"],
     "name": "Feiticeiro",
     "edition": "",
     "team": "minion",
@@ -2572,7 +2572,7 @@
     "otherNightReminder": "Realize a habilidade do Feiticeiro, se aplicável.",
     "reminders": [],
     "remindersGlobal": ["?", "?", "?", "?"],
-    "setup": true,
+    "setup": false,
     "ability": "Uma vez por jogo, escolha realizar um desejo. Se concedido, pode ter um preço ou deixar uma pista de sua natureza."
   },
   {
