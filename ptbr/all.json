@@ -32,7 +32,7 @@
     "reminders": ["Forasteiro", "Errado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Forasteiro específico.(Ou que há 'zero' Forasteiros em jogo.)",
+    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Forasteiro específico. (Ou que há 'zero' Forasteiros em jogo.)",
     "flavor": "Certamente, madame. Em circunstâncias normais, você poderia você poderia retirar o Códice Malifacarium da biblioteca. No entanto, parece que a senhora não é uma associada."
   },
   {
@@ -284,7 +284,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você pode ser registrado como se fosse Demônio ou Lacaio do mal, mesmo quando morto."
+    "ability": "Você pode ser registrado como se fosse do mal e um Demônio ou Lacaio, mesmo quando morto."
   },
   {
     "id": "saint_br",
@@ -336,7 +336,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse Cidadão ou Forasteiro do bem, mesmo morto.",
+    "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse do bem e um Cidadão ou Forasteiro, mesmo morto.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
@@ -1183,7 +1183,7 @@
     "reminders": ["Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba de eles têm o mesmo alinhamento.",
+    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba se eles têm o mesmo alinhamento.",
     "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas, sabe?"
   },
   {
@@ -1633,7 +1633,7 @@
     "reminders": ["Alucinando", "Habilidade Adquirida"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa o sabendo 1 personagem Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
+    "ability": "Você começa sabendo 1 personagem Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
   },
   {
     "id": "general_br",
@@ -1769,7 +1769,7 @@
     "otherNightReminder": "O Vigia Noturno pode escolher um jogador :reminder: coloque o Vigia Noturno para dormir. Acorde o jogador escolhido, mostre as fichas *ESSE JOGADOR É* e do Vigia Noturno e aponte para o Vigia Noturno.",
     "reminders": ["Sem Habilidade"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe que você é o Vigia Noturno"
+    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele sabe que você é o Vigia Noturno."
   },
   {
     "id": "engineer_br",
@@ -1855,7 +1855,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer à noite, um jogador do bem vivo se torna um fazendeiro."
+    "ability": "Se você morrer à noite, um jogador do bem vivo se torna um Fazendeiro."
   },
   {
     "id": "magician_br",
@@ -2014,7 +2014,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se encontra no sentido horário ou anti-horário, se equidistantes, essa informação é arbitrária.",
+    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se encontra no sentido horário ou anti-horário. Se equidistantes, essa informação é arbitrária.",
     "special": [{"name": "card", "type": "signal", "value": "Horário", "time": "night"}, {"name": "card", "type": "signal", "value": "Anti-horário", "time": "night"}]
   },
   {
@@ -2136,7 +2136,7 @@
     "reminders": ["Bêbado", "Chance Usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Um jogador está bêbado, mesmo se vc estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, saiba quem é o Demônio. Do contrário, você recebe informação falsa."
+    "ability": "Um jogador está bêbado, mesmo se você estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, saiba quem é o Demônio. Do contrário, você recebe informação falsa."
   },
   {
     "id": "heretic_br",
@@ -2170,7 +2170,7 @@
     "reminders": ["Chance Usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Todos os Lacaios sabem uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar quem é você. Se conseguir, seu time perde."
+    "ability": "Todos os Lacaios sabem que uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar quem é você. Se conseguir, seu time perde."
   },
   {
     "id": "golem_br",
@@ -2221,7 +2221,7 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer, o narrador ganha a habilidade de um lacaio."
+    "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio."
   },
   {
     "id": "hatter_br",
@@ -2238,7 +2238,7 @@
     "reminders": ["Troca"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morreu hoje, os Lacaio(s) e Demônio podem escolher novos personagens de seu tipo para ser."
+    "ability": "Se você morreu hoje, os Lacaio(s) e Demônio podem escolher novos personagens de Lacaio(s) e Demônio para serem."
   },
   {
     "id": "ogre_br",
@@ -2255,7 +2255,7 @@
     "reminders": ["Amigo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na sua primiera noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado.",
+    "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado.",
     "jinxes": [
         {"id": "recluse_br", "reason": "Se o Recluso for registrado como mau para o Ogro, o Ogro sabe que se tornou mau."}]
   },
@@ -2291,7 +2291,7 @@
     "reminders": ["Envenenado","Sabe"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na primeira Noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
+    "ability": "Na primeira noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
         {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório."},
@@ -2480,7 +2480,7 @@
     "reminders": ["Alucinado", "2º"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada Noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer."
+    "ability": "A cada noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer."
   },
   {
     "id": "summoner_br",
@@ -2497,7 +2497,7 @@
     "reminders": ["Noite 1", "Noite 2", "Noite 3"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa sabendo 3 blefes. Na 3ª noite escolha um jogador: Ele se torna um Demônio do mal a sua escolha.[Sem Demônio]",
+    "ability": "Você começa sabendo 3 blefes. Na 3ª noite escolha um jogador: ele se torna um Demônio do mal a sua escolha. [Sem Demônio]",
     "jinxes": [
         {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Relojoeiro não recebe sua informação até o Demônio ser criado."},
         {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
@@ -2573,7 +2573,7 @@
     "reminders": [],
     "remindersGlobal": ["?", "?", "?", "?"],
     "setup": false,
-    "ability": "Uma vez por jogo, escolha realizar um desejo. Se concedido, pode ter um preço ou deixar uma pista de sua natureza."
+    "ability": "Uma vez por jogo, escolha realizar um desejo. Se concedido, pode ter um preço e deixar uma pista de sua natureza."
   },
   {
     "id": "lilmonsta_br",
@@ -2739,7 +2739,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador ele morre. Se ele não está em jogo, o Narrador escolhe quem morre."
+    "ability": "A cada noite*, escolha um jogador: ele morre. Se ele não está em jogo, o Narrador escolhe quem morre."
   },
   {
     "id": "kazali_br",
@@ -2780,7 +2780,7 @@
     "reminders": ["Morto", "Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo uma frase secreta, para cada vez que você a diz hoje publicamente, alguém pode morrer.",
+    "ability": "Você começa sabendo uma frase secreta. Para cada vez que você a diz hoje publicamente, alguém pode morrer.",
     "special": [{ "name": "card", "type": "signal", "value": "A frase secreta é:"}],
     "jinxes": [
         {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yagarela, a habilidade da Yadarela não mata esta noite."}]
@@ -2838,7 +2838,7 @@
     "reminders": ["Amigo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Todos os jogadores começam sabendo, um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
+    "ability": "Todos os jogadores começam sabendo um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
   },
   {
     "id": "sentinel_br",
@@ -2870,7 +2870,7 @@
     "reminders": ["Mais Nenhum Mau"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Não pode haver mais do que 1 jogador do mal adicional"
+    "ability": "Não pode haver mais do que 1 jogador do mal adicional."
   },
   {
     "id": "djinn_br",
@@ -2918,7 +2918,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se há 4 ou mais jogadores vivos, cada jogador vivo pode pedir publicamente (uma vez por jogo)que um jogador do alinhamento dele morra."
+    "ability": "Se há 4 ou mais jogadores vivos, cada jogador vivo pode pedir publicamente (uma vez por jogo) que um jogador do alinhamento dele morra."
   },
   {
     "id": "angel_br",
@@ -2966,7 +2966,7 @@
     "reminders": ["Noite Final: Sem Ataque"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "O demônio pode escolher não atacar e deve fazer isso ao menos uma vez por jogo. Jogadores do mal recebem informação inicial padrão."
+    "ability": "O Demônio pode escolher não atacar e deve fazer isso ao menos uma vez por jogo. Jogadores do mal recebem informação inicial padrão."
   },
   {
     "id": "duchess_br",
@@ -2982,7 +2982,7 @@
     "reminders": ["Visitante", "Visitante", "Visitante", "Informação Falsa"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia 3 jogadores podem escolher te visitar. A noite* cada visitante sabe quantos visitantes são do mal, mas 1 deles recebe informação falsa."
+    "ability": "A cada dia 3 jogadores podem escolher te visitar. À noite*, cada visitante sabe quantos visitantes são do mal, mas 1 deles recebe informação falsa."
   },
   {
     "id": "fibbin_br",
@@ -3046,7 +3046,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, 1 jogador do bem pode ganhar informação falsa.",
+    "ability": "Uma vez por jogo, o Demônio escolhe secretamente um jogador adversário: todos os jogadores escolhem qual desses 2 jogadores vence.",
     "special": [{ "name": "pointing", "type": "ability", "time": "day"}]
   },
   {
@@ -3079,7 +3079,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "No último dia todos os mortos ganham seus votos de volta.",
+    "ability": "No último dia, todos os mortos ganham seus votos de volta.",
     "special": [{ "name": "ghost-votes", "type": "ability", "time": "otherDay"}]
   },
   {
