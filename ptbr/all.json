@@ -248,7 +248,10 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
-    "flavor": "Sim, senhor...\n Não, senhor...\n Certamente, senhor."
+    "flavor": "Sim, senhor...\n Não, senhor...\n Certamente, senhor.",
+    "jinxes": [
+      {"id": "organgrinder_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."}
+    ]
   },
   {
     "id": "drunk_br",
@@ -340,13 +343,12 @@
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
-        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório e o verdadeiro Espião não pode registrar falsamente."},
-        {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidos."},
-        {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo, o Espião não ve o Grimório até ela morrer."},
-        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo disso"},
-        {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
-        {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-        {"id": "ogre_br", "reason": "O Espião é registrado como mau para o Ogro."}]
+      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório e o verdadeiro Espião não pode registrar falsamente."},
+      {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidos."},
+      {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo, o Espião não ve o Grimório até ela morrer."},
+      {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
+      {"id": "ogre_br", "reason": "O Espião é registrado como mau para o Ogro."}
+    ]
   },
   {
     "id": "scarletwoman_br",
@@ -365,7 +367,9 @@
     "setup": false,
     "ability": "Se há 5 ou mais jogadores vivos e o Demônio morrer, você se torna o Demônio. (Viajantes não contam)",
     "jinxes": [
-        {"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, um lacaio vivo ganha a habilidade da Mulher Escarlate em adição a sua própria habilidade, e é avisado disso."}]
+      {"id": "fanggu_br", "reason": "Se o Fang Gu escolher um Forasteiro e morrer, a Mulher Escarlate não vira o Fang Gu."},
+      {"id": "alhadikhia_br", "reason": "Se há duas Al-Hadikhias vivas, a Al-Hadikhia Mulher Escarlate volta a ser a Mulher Escarlate."}
+    ]
   },
   {
     "id": "baron_br",
@@ -383,11 +387,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "Há Forasteiros adicionais em jogo. [+2 Forasteiros]",
-    "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca fez mal a ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?",
-    "jinxes": [
-        {"id": "heretic_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
-        {"id": "plaguedoctor_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
-      ]
+    "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca fez mal a ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?"
   },
   {
     "id": "imp_br",
@@ -551,9 +551,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha 2 jogadores vivos (exceto você): saiba quantos deles acordaram esta noite pelas próprias habilidades.",
-    "jinxes": [
-        {"id": "mathematician_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."}]
+    "ability": "A cada noite, escolha 2 jogadores vivos (exceto você): saiba quantos deles acordaram esta noite pelas próprias habilidades."
   },
   {
     "id": "exorcist_br",
@@ -792,9 +790,7 @@
     "remindersGlobal": ["Lunático"],
     "setup": false,
     "ability": "Você pensa que é um Demônio, mas você não é. O Demônio sabe quem você é e quem você escolhe à noite.",
-    "special": [{ "name": "replace-character", "type": "reveal"}],
-    "jinxes": [
-        {"id": "mathematician_br", "reason": "O Matemático sabe se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."}]
+    "special": [{ "name": "replace-character", "type": "reveal"}]
   },
   {
     "id": "godfather_br",
@@ -811,9 +807,7 @@
     "reminders": ["Morreu Hoje", "Morto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa sabendo quais Forasteiros estão em jogo. Se um Forasteiro morreu hoje de dia, escolha um jogador esta noite: o alvo morre. [−1 ou +1 Forasteiro]",
-    "jinxes": [
-        {"id": "heretic_br", "reason": "Apenas 1 desses personagens pode estar em jogo."}]
+    "ability": "Você começa sabendo quais Forasteiros estão em jogo. Se um Forasteiro morreu hoje de dia, escolha um jogador esta noite: o alvo morre. [−1 ou +1 Forasteiro]"
   },
   {
     "id": "devilsadvocate_br",
@@ -864,7 +858,10 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se o jogo terminaria com a morte por execução do Demônio, jogue por mais 1 dia. Se então um jogador for executado, o time dele perde."
+    "ability": "Se o jogo terminaria com a morte por execução do Demônio, jogue por mais 1 dia. Se então um jogador for executado, o time dele perde.",
+    "jinxes": [
+      {"id": "alhadikhia_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}
+    ]
   },
   {
     "id": "zombuul_br",
@@ -1094,7 +1091,11 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, saiba quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens.",
-    "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado."
+    "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado.",
+    "jinxes": [
+      {"id": "chambermaid_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
+      {"id": "lunatic_br", "reason": "O Matemático sabe se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."}
+    ]
   },
   {
     "id": "flowergirl_br",
@@ -1203,8 +1204,7 @@
     "setup": false,
     "ability": "Uma vez por jogo, à noite, escolha um personagem do bem: ganhe aquela habilidade. Se esse personagem estiver em jogo, ele fica bêbado.",
     "special": [{ "name": "replace-character", "type": "reveal"}],
-    "flavor": "Se alguma coisa existe de verdade, a cerveja é uma delas. Bebamos, porque amanhã morreremos!",
-    "jinxes": [{"id": "bountyhunter_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"}]
+    "flavor": "Se alguma coisa existe de verdade, a cerveja é uma delas. Bebamos, porque amanhã morreremos!"
   },
   {
     "id": "artist_br",
@@ -1348,8 +1348,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você e um oponente se conhecem e sabem o personagem um do outro. Se o jogador do bem for executado, o Mal vence. O Bem não pode vencer enquanto ambos viverem.",
-    "flavor": "Eu não sou a Sara! Eu sou a Clara! ELA é a Sara! Ela é a do mal! Não eu!",
-    "jinxes": [{"id": "plaguedoctor_br", "reason": "O Narrador não pode ganhar a habilidade da Gêmea Má se o Médico da Peste morrer."}]
+    "flavor": "Eu não sou a Sara! Eu sou a Clara! ELA é a Sara! Ela é a do mal! Não eu!"
   },
   {
     "id": "witch_br",
@@ -1387,7 +1386,8 @@
     "ability": "A cada noite, escolha um personagem do bem e um jogador: amanhã, o jogador deve alucinar que é esse personagem; do contrário, pode ser executado.",
     "flavor": "A realidade é apenas uma opinião. Especificamente, a minha opinião.",
     "jinxes": [
-        {"id": "goblin_br", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}]
+      {"id": "goblin_br", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}
+    ]
   },
   {
     "id": "pithag_br",
@@ -1407,13 +1407,13 @@
     "ability": "A cada noite*, escolha um jogador e um personagem para ele se tornar (se não estiver em jogo). Se um Demônio é criado, as mortes serão arbitrárias esta noite.",
     "flavor": "Ao redor do caldeirão vamos rodar;\n Entranhas envenenadas nele atirar;\n O sapo que sob pedra se escondia;\n Trinta e um dias e noites, dormia;\n Veneno a suar enquanto repousava;\n Ferve primeiro, na poção que encantava.",
     "jinxes": [
-        {"id": "heretic_br", "reason": "A Bruxa do Fosso não pode criar um Herege."},
-        {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
-        {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
-        {"id": "cultleader_br", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},
-        {"id": "villageidiot", "reason": "Se houver fichas de Idiota da Cidade fora do jogo, A Bruxa do Fosso pode criar um Idiota da Cidade. Neste caso, o Narrador pode mudar qual Idiota da Cidade está bêbado."},
-        {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},
-        {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."}]
+      {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
+      {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
+      {"id": "villageidiot", "reason": "Se houver fichas de Idiota da Cidade fora do jogo, A Bruxa do Fosso pode criar um Idiota da Cidade. Neste caso, o Narrador pode mudar qual Idiota da Cidade está bêbado."},
+      {"id": "cultleader_br", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},        
+      {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},
+      {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."}
+    ]
   },
   {
     "id": "fanggu_br",
@@ -1487,7 +1487,8 @@
     "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Cidadãos geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
     "flavor": "A explicação é a confusão. A confusão é o esclarecimento. O esclarecimento é a obscuridade. A obscuridade é o seu guia. Siga-me! As respostas te encontrarão.",
     "jinxes": [
-        {"id": "banshee_br", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}]
+      {"id": "banshee_br", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}
+    ]
   },
   {
     "id": "barista_br",
@@ -1616,7 +1617,11 @@
     "reminders": ["Alvo"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, saiba outro jogador do mal esta noite. [1 Cidadão é do mal]"
+    "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, saiba outro jogador do mal esta noite. [1 Cidadão é do mal]",
+    "jinxes": [
+      {"id": "philosopher_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"},
+      {"id": "kazali_br", "reason": "Um Cidadão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"}
+    ]
   },
   {
     "id": "pixie_br",
@@ -1943,10 +1948,11 @@
     "setup": false,
     "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você fica envenenado até um jogador do bem ser executado.",
     "jinxes": [
-        {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
-        {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
-        {"id": "poppygrower_br", "reason": "Se o Canibal janta a Cultivadora e então morre ou perde a habilidade dela, os Demônios e Lacaios se conhecem esta noite."},
-        {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal sabe disso."}]
+      {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal sabe disso."},
+      {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
+      {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal sabe disso."},
+      {"id": "poppygrower_br", "reason": "Se o Canibal janta a Cultivadora e então morre ou perde a habilidade dela, os Demônios e Lacaios se conhecem esta noite."}
+    ]
   },
   {
     "id": "steward_br",
@@ -2153,7 +2159,16 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quem venceria perde e quem perderia vence, mesmo que você esteja morto."
+    "ability": "Quem venceria perde e quem perderia vence, mesmo que você esteja morto.",
+    "jinxes": [
+      {"id": "godfather_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
+      {"id": "baron_br", "reason": "O Barão pode adicionar apenas 1 Forasteiro em vez de 2."},
+      {"id": "pithag_br", "reason": "A Bruxa do Fosso não pode criar um Herege."},
+      {"id": "spy_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
+      {"id": "widow_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
+      {"id": "lleech_br", "reason": "Se a Sanguesuga envenenou o Herege e então a Sanguesuga morre o Herege continua envenenado."},
+      {"id": "boffin_br", "reason": "O Demônio não pode ter a habilidade do Herege."}
+    ]
   },
   {
     "id": "damsel_br",
@@ -2221,7 +2236,17 @@
     "reminders": ["Habilidade do Narrador"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio."
+    "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio.",
+    "jinxes": [
+      {"id": "eviltwin_br", "reason": "O Narrador não pode ganhar a habilidade da Gêmea Má se o Médico da Peste morrer."},
+      {"id": "fearmonger_br", "reason": "Se o Médico da Peste morrer, e o Narrador ganharia a habilidade do Intimidador, um Lacaio ganha essa habilidade em adição a sua própria habilidade e sabe disso"},
+      {"id": "goblin_br", "reason": "Se o Médico da Peste morrer, e o Narrador ganharia a habilidade do Goblin, um Lacaio ganha essa habilidade em adição a sua própria habilidade e sabe disso."},
+      {"id": "spy_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo disso"},
+      {"id": "scarletwoman_br", "reason": "Se o Médico da Peste morrer, um lacaio vivo ganha a habilidade da Mulher Escarlate em adição a sua própria habilidade, e é avisado disso."},
+      {"id": "boomdandy_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."},
+      {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
+      {"id": "marionette_br", "reason": "Se o Demônio tiver um vizinho que esteja vivo e seja um Cidadão ou Forasteiro quando o Médico da Peste morrer, esse jogador se torna uma Marionete do mal. Se já houver um jogador mau extra, isso não acontece."}
+    ]
   },
   {
     "id": "hatter_br",
@@ -2257,7 +2282,8 @@
     "setup": false,
     "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado.",
     "jinxes": [
-        {"id": "recluse_br", "reason": "Se o Recluso for registrado como mau para o Ogro, o Ogro sabe que se tornou mau."}]
+      {"id": "recluse_br", "reason": "Se o Recluso for registrado como mau para o Ogro, o Ogro sabe que se tornou mau."}
+    ]
   },
   {
     "id": "zealot_br",
@@ -2294,11 +2320,11 @@
     "ability": "Na primeira noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório."},
-        {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e o Mágico são removidos."},
-        {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
-        {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
-        {"id": "heretic_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}]
+      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório."},
+      {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e o Mágico são removidos."},
+      {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
+      {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."}
+    ]
   },
   {
     "id": "fearmonger_br",
@@ -2315,8 +2341,7 @@
     "reminders": ["Medo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador. Se você nomeá-lo e executá-lo, o time dele perde. Todos os jogadores sabem quando você escolhe um novo alvo.",
-    "jinxes": [{"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, e o Narrador ganharia a habilidade do Intimidador, um Lacaio ganha essa habilidade em adição a sua própria habilidade e sabe disso"}]
+    "ability": "A cada noite, escolha um jogador. Se você nomeá-lo e executá-lo, o time dele perde. Todos os jogadores sabem quando você escolhe um novo alvo."
   },
   {
     "id": "psychopath_br",
@@ -2350,8 +2375,7 @@
     "reminders": ["Alegou"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Quando nomeado, você pode publicamente alegar ser o Goblin e for executado naquele dia, seu time vence.",
-    "jinxes": [{"id": "plaguedoctor_br", "reason": "Se o Médico da Peste morrer, e o Narrador ganharia a habilidade do Goblin, um Lacaio ganha essa habilidade em adição a sua própria habilidade e sabe disso."}]
+    "ability": "Quando nomeado, você pode publicamente alegar ser o Goblin e for executado naquele dia, seu time vence."
   },
   {
     "id": "mezepheles_br",
@@ -2389,13 +2413,13 @@
     "ability": "Você acredita ser um personagem bom. O Demônio sabe quem você é. [Você é vizinho do Demônio]",
     "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
     "jinxes": [
-        {"id": "lilmonsta_br", "reason": "A Marionete é vizinha de um Lacaio, não do Demônio. A Marionete não é acordada para decidir a babá do Monstrim, e não é informada que é a Marionete, caso esteja com o token do Monstrim."},
-        {"id": "poppygrower_br", "reason": "Quando a Cultivadora morrer, o Demônio aprende quem é a Marionete, mas a Marionete não aprende nada."},
-        {"id": "snitch_br", "reason": "A Marionete não fica sabendo 3 personagens fora de jogo. O Demônio fica sabendo mais 3 em vez disso."},
-        {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro foi adicionado."},       
-        {"id": "damsel_br", "reason": "A Marionete não é informada de que há uma Donzela em jogo."}, 
-        {"id": "plaguedoctor_br", "reason": "Se o Demônio tiver um vizinho que esteja vivo e seja um Cidadão ou Forasteiro quando o Médico da Peste morrer, esse jogador se torna uma Marionete do mal. Se já houver um jogador mau extra, isso não acontece."},
-        {"id": "huntsman_br", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."}]
+      {"id": "lilmonsta_br", "reason": "A Marionete é vizinha de um Lacaio, não do Demônio. A Marionete não é acordada para decidir a babá do Monstrim, e não é informada que é a Marionete, caso esteja com o token do Monstrim."},
+      {"id": "poppygrower_br", "reason": "Quando a Cultivadora morrer, o Demônio aprende quem é a Marionete, mas a Marionete não aprende nada."},
+      {"id": "snitch_br", "reason": "A Marionete não fica sabendo 3 personagens fora de jogo. O Demônio fica sabendo mais 3 em vez disso."},
+      {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro pode ter sido adicionado."},       
+      {"id": "damsel_br", "reason": "A Marionete não é informada de que há uma Donzela em jogo."},
+      {"id": "huntsman_br", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."}
+    ]
   },
   {
     "id": "boomdandy_br",
@@ -2413,9 +2437,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Se você for executado, todos morrem exceto 3 jogadores. Após uma contagem de 10 a 1, o jogador mais apontado pelos outros jogadores morre.",
-    "special": [{ "name": "pointing", "type": "ability", "time": "day"}],
-    "jinxes": [{"id": "plaguedoctor_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."}]
-
+    "special": [{ "name": "pointing", "type": "ability", "time": "day"}]
   },
   {
     "id": "organgrinder_br",
@@ -2433,10 +2455,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Todos os jogadores mantêm seus olhos fechados durante votação e a contagem de votos é secreta. A cada noite escolha se você está ou não bêbado. ",
-    "special": [{ "name": "hidden", "type": "vote"}],
-    "jinxes": [
-        {"id": "butler_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."}]
-
+    "special": [{ "name": "hidden", "type": "vote"}]
   },
   {
     "id": "vizier_br",
@@ -2455,14 +2474,15 @@
     "setup": false,
     "ability": "Todos os jogadores sabem que você é o Vizir. Você não pode morrer durante o dia. Se jogadores do bem votaram você pode escolher executar imediatamente",
     "jinxes": [
-        {"id": "investigator_br", "reason": "Se o Investigador sabe que há um Vizir em jogo, a existência do Vizir não é anunciada pelo Narrador."},
-        {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
-        {"id": "courtier_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
-        {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},        
-        {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
-        {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."},
-        {"id": "alsaahir_br", "reason": "Se o Vizir está em jogo, O Alsaahir deve também adivinhar quais Demônio(s) estão em jogo."},
-        {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para o Vizir."}]
+      {"id": "investigator_br", "reason": "Se o Investigador sabe que há um Vizir em jogo, a existência do Vizir não é anunciada pelo Narrador."},
+      {"id": "preacher_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
+      {"id": "courtier_br", "reason": "Se o Vizir perde sua habilidade, ele é informado disso. Se o Vizir é executado enquanto ele tem sua habilidade seu time vence."},
+      {"id": "magician_br", "reason": "Se o Vizir e o Mágico estão os dois em jogo, o Demônio não sabe seus Lacaios."},
+      {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},        
+      {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
+      {"id": "alsaahir_br", "reason": "Se o Vizir está em jogo, O Alsaahir deve também adivinhar quais Demônio(s) estão em jogo."},
+      {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para o Vizir."}
+    ]
 
   },
   {
@@ -2499,20 +2519,21 @@
     "setup": true,
     "ability": "Você começa sabendo 3 blefes. Na 3ª noite escolha um jogador: ele se torna um Demônio do mal a sua escolha. [Sem Demônio]",
     "jinxes": [
-        {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Relojoeiro não recebe sua informação até o Demônio ser criado."},
-        {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
-        {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
-        {"id": "marionette_br", "reason": "A Marionete é vizinha do Invocador. O Invocador sabe quem a Marionete é."},
-        {"id": "pithag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
-        {"id": "hatter_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
-        {"id": "courtier_br", "reason": "Se o Invocador estiver bêbado na 3ª noite, o Invocador escolhe qual Demônio, mas o Narrador escolhe qual jogador."},
-        {"id": "engineer_br", "reason": "Se o Engenheiro remove um Invocador do jogo antes dele usar sua habilidade o Invocador usa sua habilidade imediatamente."},
-        {"id": "zombuul_br", "reason": "Se o Invocador escolhe um jogador morto para virar o Zumbuul, o Narrador deve tratá-lo, como um Zumbuul que morreu uma vez."},
-        {"id": "pukka_br", "reason": "O Invocador pode escolher um jogador para se tornar a Púca na 2ª noite."},
-        {"id": "riot_br", "reason": "Se o Invocador criar um Pandemônio, todos os Lacaios se tornam Pandemônios."},
-        {"id": "legion_br", "reason": "Se o Invocador cria um Legião, a maioria dos jogadores (incluindo todos os do mau) viram Legião."},
-        {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
-        {"id": "preacher_br", "reason": "Se o Pregador escolhe o Invocador antes ou durante a 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."}]
+      {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Relojoeiro não recebe sua informação até o Demônio ser criado."},
+      {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
+      {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
+      {"id": "marionette_br", "reason": "A Marionete é vizinha do Invocador. O Invocador sabe quem a Marionete é."},
+      {"id": "pithag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
+      {"id": "hatter_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
+      {"id": "courtier_br", "reason": "Se o Invocador estiver bêbado na 3ª noite, o Invocador escolhe qual Demônio, mas o Narrador escolhe qual jogador."},
+      {"id": "engineer_br", "reason": "Se o Engenheiro remove um Invocador do jogo antes dele usar sua habilidade o Invocador usa sua habilidade imediatamente."},
+      {"id": "zombuul_br", "reason": "Se o Invocador escolhe um jogador morto para virar o Zumbuul, o Narrador deve tratá-lo, como um Zumbuul que morreu uma vez."},
+      {"id": "pukka_br", "reason": "O Invocador pode escolher um jogador para se tornar a Púca na 2ª noite."},
+      {"id": "legion_br", "reason": "Se o Invocador cria um Legião, a maioria dos jogadores (incluindo todos os do mau) viram Legião."},
+      {"id": "kazali_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
+      {"id": "preacher_br", "reason": "Se o Pregador escolhe o Invocador antes ou durante a 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
+      {"id": "lordoftyphon_br", "reason": "Se o Invocador criar o Lorde do Tifão, o Lorde do Tifão precisa ser vizinho de um Lacaio. O outro vizinho vira um Lacaio fora de jogo."}
+    ]
   },
   {
     "id": "boffin_br",
@@ -2532,14 +2553,14 @@
     "ability": "O Demônio (mesmo se bêbado ou envenenado) possui a habilidade de um personagem bom fora de jogo. O Demônio e você sabem qual personagem.",
     "special": [{"name": "replace-character", "type": "reveal"}],
     "jinxes": [
-        {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
-        {"id": "cultleader_br", "reason": "Se o Demônio tem a habilidade do Líder da Seita, ele não pode se tornar do bem devido a esta habilidade."},
-        {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
-        {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Cidadão para ter essa habilidade no lugar."},
-        {"id": "heretic_br", "reason": "O Demônio não pode ter a habilidade do Herege."},
-        {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
-        {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
-        {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}]
+      {"id": "cultleader_br", "reason": "Se o Demônio tem a habilidade do Líder da Seita, ele não pode se tornar do bem devido a esta habilidade."},
+      {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
+      {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
+      {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
+      {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Cidadão para ter essa habilidade no lugar."},
+      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
+      {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
+    ]
   },
   {
     "id": "xaan_br",
@@ -2593,11 +2614,12 @@
     "ability": "A cada noite os Lacaios escolhem quem cuidará do Monstrim e 'é o Demônio'. A cada noite* um jogador pode morrer. [+1 Lacaio]",
     "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}, {"name": "bag-disabled", "type": "selection"}],
     "jinxes": [
-        {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Monstrim."},
-        {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Monstrim estão vivos, esse Lacaio cuidará do Monstrim."},
-        {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete recebe o Monstrim essa noite."},
-        {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Monstrim."},
-        {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}]
+      {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo Lacaios não acordam juntos. Eles são acordados um por um, até alguém escolher segurar o Monstrim."},
+      {"id": "magician_br", "reason": "A cada noite, o Mágico escolhe um Lacaio: Se esse Lacaio & o Monstrim estão vivos, esse Lacaio cuidará do Monstrim."},
+      {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete recebe o Monstrim essa noite."},
+      {"id": "vizier_br", "reason": "O Vizir pode morrer por execução se estiver segurando o Monstrim."},
+      {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar e será a babá por essa noite."}
+    ]
   },
   {
     "id": "lleech_br",
@@ -2616,9 +2638,9 @@
     "setup": false,
     "ability": "A cada noite*, escolha um jogador: ele morre. Você começa escolhendo um jogador vivo: ele fica envenenado - você morre se e somente se este jogador estiver morto.",
     "jinxes": [
-        {"id": "mastermind_br", "reason": "Se o Mentor está vivo e o hospedero da Sanguesuga morre por execução, a Sanguesuga vive, mas perde a habilidade."},
-        {"id": "slayer_br", "reason": "Se o Atirador atira no hospedero da Sanguesuga, o hospedero morre."},
-        {"id": "heretic_br", "reason": "Se a Sanguesuga envenenou o Herege e então a Sanguesuga morre o Herege continua envenenado."}]
+      {"id": "mastermind_br", "reason": "Se o Mentor está vivo e o hospedero da Sanguesuga morre por execução, a Sanguesuga vive, mas perde a habilidade."},
+      {"id": "slayer_br", "reason": "Se o Atirador atira no hospedero da Sanguesuga, o hospedero morre."}
+    ]
   },
   {
     "id": "alhadikhia_br",
@@ -2635,10 +2657,7 @@
     "reminders": ["1", "2", "3", "Morto", "Morto", "Morto", "Vivo", "Vivo", "Vivo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, você pode escolher 3 jogadores (todos sabem quais): cada um escolhe silenciosamente se vive ou morre, mas se todos viverem, todos morrem.",
-    "jinxes": [
-        {"id": "scarletwoman_br", "reason": "Se há duas Al-Hadikhias vivas, a Al-Hadikhia Mulher Escarlate volta a ser a Mulher Escarlate."},
-        {"id": "mastermind_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}]
+    "ability": "A cada noite*, você pode escolher 3 jogadores (todos sabem quais): cada um escolhe silenciosamente se vive ou morre, mas se todos viverem, todos morrem."
   },
   {
     "id": "legion_br",
@@ -2658,11 +2677,12 @@
     "ability": "A cada noite*, um jogador pode morrer. Execuções irão falhar se apenas os jogadores maus votarem. Você também é registrado como um Lacaio. [Maioria dos jogadores é Legião]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}],
     "jinxes": [
-        {"id": "engineer_br", "reason": "O Engenheiro e Legião não podem começar os dois em jogo. Se o Engenheiro criar Legião a maioria dos jogadores (incluindo todos os mals) vira Legião."},
-        {"id": "preacher_br", "reason": "Se o Pregador escolhe um Legião, ele mantém sua habilidade, mas o Pregador pode saber que ele é um Legião."},
-        {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
-        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."},
-        {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para Legião."}]
+      {"id": "engineer_br", "reason": "O Engenheiro e Legião não podem começar os dois em jogo. Se o Engenheiro criar Legião a maioria dos jogadores (incluindo todos os mals) vira Legião."},
+      {"id": "preacher_br", "reason": "Se o Pregador escolhe um Legião, ele mantém sua habilidade, mas o Pregador pode saber que ele é um Legião."},
+      {"id": "minstrel_br", "reason": "Se o Bardo deixa todos bêbados, Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
+      {"id": "hatter_br", "reason": "Se o Chapeleiro morreu e há Legião em jogo, nada acontece. Se o Chapeleiro morreu e algum jogador do mau escolhe Legião, todos os jogadores do mau virão Legião."},
+      {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para Legião."}
+    ]
   },
   {
     "id": "leviathan_br",
@@ -2681,19 +2701,20 @@
     "setup": false,
     "ability": "Todos os jogadores sabem que você está em jogo. Depois de 5 dias, o Mal vence. Se mais de 1 jogador do Bem for executado, o Mal vence.",
     "jinxes": [
-        {"id": "soldier_br", "reason": "Se o Leviatã está em jogo o Soldado está seguro de todas as habilidade do mal."},
-        {"id": "monk_br", "reason": "Se o Leviatã está em jogo o jogador protegido pelo Monge está seguro de todas as habilidade do mal."},
-        {"id": "innkeeper_br", "reason": "Se o Leviatã está em jogo os jogadores protegidos pelo Taverneiro estão seguros de todas as habilidade do mal."},
-        {"id": "ravenkeeper_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
-        {"id": "banshee_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
-        {"id": "sage_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
-        {"id": "farmer_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
-        {"id": "mayor_br", "reason": "Se um Leviatã e o Prefeito estão em jogo & nenhuma execução é feita no dia 5 o time do bem vence."},
-        {"id": "hatter_br", "reason": "Se o Chapeleiro morreu no dia 5 ou depois, o Demônio não pode escolher Leviatã."},
-        {"id": "exorcist_br", "reason": "O mal não ganha quando mais de 1 jogador bom é executado, se o Exorcista estiver vivo e escolhido o Leviatã."},
-        {"id": "grandmother_br", "reason": "Se o Leviatã está em jogo e o Neto morre por execução, o mau vence."},
-        {"id": "king_br", "reason": "Se o Leviatã está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada nnoite."},
-        {"id": "pithag_br", "reason": "Após o dia 5, a Bruxa do Fosso não pode escolher o Leviatã."}]
+      {"id": "soldier_br", "reason": "Se o Leviatã está em jogo o Soldado está seguro de todas as habilidade do mal."},
+      {"id": "monk_br", "reason": "Se o Leviatã está em jogo o jogador protegido pelo Monge está seguro de todas as habilidade do mal."},
+      {"id": "innkeeper_br", "reason": "Se o Leviatã está em jogo os jogadores protegidos pelo Taverneiro estão seguros de todas as habilidade do mal."},
+      {"id": "ravenkeeper_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
+      {"id": "banshee_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
+      {"id": "sage_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
+      {"id": "farmer_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
+      {"id": "mayor_br", "reason": "Se um Leviatã e o Prefeito estão em jogo & nenhuma execução é feita no dia 5 o time do bem vence."},
+      {"id": "exorcist_br", "reason": "O mal não ganha quando mais de 1 jogador bom é executado, se o Exorcista estiver vivo e escolhido o Leviatã."},
+      {"id": "grandmother_br", "reason": "Se o Leviatã está em jogo e o Neto morre por execução, o mau vence."},
+      {"id": "king_br", "reason": "Se o Leviatã está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada nnoite."},
+      {"id": "hatter_br", "reason": "Se o Chapeleiro morreu no dia 5 ou depois, o Demônio não pode escolher Leviatã."},
+      {"id": "pithag_br", "reason": "Após o dia 5, a Bruxa do Fosso não pode escolher o Leviatã."}
+    ]
   },
   {
     "id": "riot_br",
@@ -2712,17 +2733,18 @@
     "setup": false,
     "ability": "No 3º dia, Lacaios viram Pandemônios & nomeados morrem, mas imediatamente nomeiam um jogador vivo. Isso deve acontecer.",
     "jinxes": [
-        {"id": "soldier_br", "reason": "Se o Pandemônio está em jogo o Soldado está seguro de todas as habilidade do mal."},
-        {"id": "monk_br", "reason": "Se o Pandemônio está em jogo o jogador protegido pelo Monge está seguro de todas as habilidade do mal."},
-        {"id": "innkeeper_br", "reason": "Se o Pandemônio está em jogo os jogadores protegidos pelo Taverneiro estão seguros de todas as habilidade do mal."},
-        {"id": "ravenkeeper_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
-        {"id": "banshee_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
-        {"id": "sage_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
-        {"id": "farmer_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
-        {"id": "mayor_br", "reason": "Se um Leviatã e o Prefeito estão em jogo & nenhuma execução é feita no dia 5 o time do bem vence."},
-        {"id": "exorcist_br", "reason": "Se o Exorcista escolher o Pandemônio na 3ª noite, os Lacaios não viram Pandemônios."},
-        {"id": "grandmother_br", "reason": "Se o Pandemônio está em jogo e o Neto morre durante o dia, a Vovó morre também."},
-        {"id": "king_br", "reason": "Se o Pandemônio está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada nnoite."}]
+      {"id": "mayor_br", "reason": "Se um Leviatã e o Prefeito estão em jogo & nenhuma execução é feita no dia 5 o time do bem vence."},
+      {"id": "monk_br", "reason": "Se o Pandemônio está em jogo o jogador protegido pelo Monge está seguro de todas as habilidade do mal."},
+      {"id": "farmer_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
+      {"id": "innkeeper_br", "reason": "Se o Pandemônio está em jogo os jogadores protegidos pelo Taverneiro estão seguros de todas as habilidade do mal."},
+      {"id": "sage_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
+      {"id": "banshee_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
+      {"id": "ravenkeeper_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
+      {"id": "soldier_br", "reason": "Se o Pandemônio está em jogo o Soldado está seguro de todas as habilidade do mal."},
+      {"id": "grandmother_br", "reason": "Se o Pandemônio está em jogo e o Neto morre durante o dia, a Vovó morre também."},
+      {"id": "king_br", "reason": "Se o Pandemônio está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada noite."},
+      {"id": "exorcist_br", "reason": "Se o Exorcista escolher o Pandemônio na 3ª noite, os Lacaios não viram Pandemônios."}
+    ]
   },
   {
     "id": "ojo_br",
@@ -2758,12 +2780,12 @@
     "setup": true,
     "ability": "A cada noite* escolha um jogador: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? a +? Forasteiros]",
     "jinxes": [
-        {"id": "bountyhunter_br", "reason": "Um Cidadão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"},
-        {"id": "goon_br", "reason": " O Kazali pode escolher o Capanga com um de dos jogadores que será um Lacaio do mal."},
-        {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."},
-        {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
-        {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."},
-        {"id": "soldier_br", "reason": "O Kazali pode escolher o Soldado com um de dos jogadores que será um Lacaio do mal."}]
+      {"id": "goon_br", "reason": " O Kazali pode escolher o Capanga com um de dos jogadores que será um Lacaio do mal."},
+      {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."},
+      {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
+      {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."},
+      {"id": "soldier_br", "reason": "O Kazali pode escolher o Soldado com um de dos jogadores que será um Lacaio do mal."}
+    ]
   },
   {
     "id": "yaggababble_br",
@@ -2783,7 +2805,8 @@
     "ability": "Você começa sabendo uma frase secreta. Para cada vez que você a diz hoje publicamente, alguém pode morrer.",
     "special": [{ "name": "card", "type": "signal", "value": "A frase secreta é:"}],
     "jinxes": [
-        {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yagarela, a habilidade da Yadarela não mata esta noite."}]
+      {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yagarela, a habilidade da Yadarela não mata esta noite."}
+    ]
   },
   {
     "id": "lordoftyphon_br",
@@ -2800,9 +2823,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite* escolha um jogador: ele morre. [Jogadores do mal estão em linha. Você está no meio. +1 Lacaio. -? a +? Forasteiros]",
-    "jinxes": [
-        {"id": "summoner_br", "reason": "Se o Invocador criar o Lorde do Tifão, o Lorde do Tifão precisa ser vizinho de um Lacaio. O outro vizinho vira um Lacaio fora de jogo."}]
+    "ability": "A cada noite* escolha um jogador: ele morre. [Jogadores do mal estão em linha. Você está no meio. +1 Lacaio. -? a +? Forasteiros]"
   },
   {
     "id": "gangster_br",
