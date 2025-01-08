@@ -517,7 +517,8 @@
     "reminders": ["Neto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo um jogador do bem e o personagem dele. Se o Demônio matá-lo, você também morre."
+    "ability": "Você começa sabendo um jogador do bem e o personagem dele. Se o Demônio matá-lo, você também morre.",
+    "flavor": "Leve um casaquinho se for sair, querido. E uma água. E seu guarda-chuva. Sabe, meu coração é fraco. Ai, não sei o que faria se você pegar um resfriado... ou pior?"
   },
   {
     "id": "sailor_br",
@@ -602,7 +603,8 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador e tente adivinhar o personagem dele: se errar, você morre."
+    "ability": "A cada noite*, escolha um jogador e tente adivinhar o personagem dele: se errar, você morre.",
+    "flavor": "Cara eu venço. Coroa você perde."
   },
   {
     "id": "gossip_br",
@@ -619,7 +621,8 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia, você pode fazer uma alegação publicamente. Esta noite, se a alegação era verdadeira, um jogador morre."
+    "ability": "A cada dia, você pode fazer uma alegação publicamente. Esta noite, se a alegação era verdadeira, um jogador morre.",
+    "flavor": "Blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá. Blá."
   },
   {
     "id": "courtier_br",
@@ -636,7 +639,8 @@
     "reminders": ["Bêbado 3", "Bêbado 2", "Bêbado 1", "Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um personagem: ele fica bêbado por 3 noites e 3 dias."
+    "ability": "Uma vez por jogo, à noite, escolha um personagem: ele fica bêbado por 3 noites e 3 dias.",
+    "flavor": "Tenho mais medo de um exército de cem ovelhas liderados por um leão do que um exército de cem leões liderados por uma ovelha."
   },
   {
     "id": "professor_br",
@@ -653,7 +657,8 @@
     "reminders": ["Vivo", "Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite*, escolha um jogador morto: se ele for um Cidadão, é revivido."
+    "ability": "Uma vez por jogo, à noite*, escolha um jogador morto: se ele for um Cidadão, é revivido.",
+    "flavor": "O processo é simples. Anexe o confabulador hidráulico ao amplificador de matriz de chi modificado, adicione 20cc de pseudodorafina, mantenha os níveis de Z acima de 20%, e seu marido ficará bem. Aogra tudo que precisamos é de um raio."
   },
   {
     "id": "minstrel_br",
@@ -687,7 +692,8 @@
     "reminders": ["Não Pode Morrer", "Não Pode Morrer"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se ambos os seus vizinhos vivos são do bem, eles não podem morrer."
+    "ability": "Se ambos os seus vizinhos vivos são do bem, eles não podem morrer.",
+    "flavor": "Se você está com frio, o chá irá te aquecer. Se você está muito quente, o chá irá te refrescar. Se você está depressivo o chá irá te animar. Se você está nervoso, o chá irá te acalmar."
   },
   {
     "id": "pacifist_br",
@@ -704,7 +710,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Jogadores do bem podem sobreviver à execuções."
+    "ability": "Jogadores do bem podem sobreviver à execuções.",
+    "flavor": "Desconfie de todos os quais o impulso de punir é forte."
   },
   {
     "id": "fool_br",
@@ -738,7 +745,8 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você pode morrer a qualquer momento."
+    "ability": "Você pode morrer a qualquer momento.",
+    "flavor": "Acho que encontrei o problema. Por sorte, tenho uma ideia! Essa catapulta vai atirar duas vezes mais longe com esse pequeno ajuste."
   },
   {
     "id": "moonchild_br",
@@ -790,7 +798,8 @@
     "remindersGlobal": ["Lunático"],
     "setup": false,
     "ability": "Você pensa que é um Demônio, mas você não é. O Demônio sabe quem você é e quem você escolhe à noite.",
-    "special": [{ "name": "replace-character", "type": "reveal"}]
+    "special": [{ "name": "replace-character", "type": "reveal"}],
+    "flavor": "Eu sou a noite... eu acho."
   },
   {
     "id": "godfather_br",
@@ -807,7 +816,8 @@
     "reminders": ["Morreu Hoje", "Morto"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa sabendo quais Forasteiros estão em jogo. Se um Forasteiro morreu hoje de dia, escolha um jogador esta noite: o alvo morre. [−1 ou +1 Forasteiro]"
+    "ability": "Você começa sabendo quais Forasteiros estão em jogo. Se um Forasteiro morreu hoje de dia, escolha um jogador esta noite: o alvo morre. [−1 ou +1 Forasteiro]",
+    "flavor": "Normalmente, são apenas negócios. Mas quando você insulta minha filha, você insulta a mim. E quando você me insulta, você insulta minha família. Você realmente deveria ter mais cuidado - seria uma pena se você sofresse um acidente infeliz."
   },
   {
     "id": "devilsadvocate_br",
@@ -824,7 +834,8 @@
     "reminders": ["Sobrevive à Execução"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador vivo (exceto o da noite anterior): se ele for executado amanhã, não morrerá."
+    "ability": "A cada noite, escolha um jogador vivo (exceto o da noite anterior): se ele for executado amanhã, não morrerá.",
+    "flavor": "Meu cliente, a objeção deve ser indeferida, pleite inocência pela natureza da inobservância da acusação do estatuto 27b - conjugação do verbo incorreta ou ludibriosa. O fato que nove membros do juri morreram ontem a noite é simplesmente a prima facie, ou seja, como Will vs Tina criou o precedente para, é apenas mais motivos para absolvê-lo."
   },
   {
     "id": "assassin_br",
@@ -841,7 +852,8 @@
     "reminders": ["Morto", "Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite*, escolha um jogador: ele morre mesmo que, por alguma razão, não possa morrer."
+    "ability": "Uma vez por jogo, à noite*, escolha um jogador: ele morre mesmo que, por alguma razão, não possa morrer.",
+    "flavor": "..."
   },
   {
     "id": "mastermind_br",
@@ -859,6 +871,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Se o jogo terminaria com a morte por execução do Demônio, jogue por mais 1 dia. Se então um jogador for executado, o time dele perde.",
+    "flavor": "Os tentáculos daquele monstro estão pregados na porta da igreja. Mães e crianças estão dançando nas ruas. Excelente. Tudo está indo de como planejei.",
     "jinxes": [
       {"id": "alhadikhia_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."}
     ]
@@ -878,7 +891,8 @@
     "reminders": ["Morreu de Dia", "Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, se ninguém morreu durante o dia, escolha um jogador: ele morre. Na 1ª vez que você for morrer, continua vivo, mas é registrado como morto."
+    "ability": "A cada noite*, se ninguém morreu durante o dia, escolha um jogador: ele morre. Na 1ª vez que você for morrer, continua vivo, mas é registrado como morto.",
+    "flavor": "Eu não. Entendo. Seu jeito. Meu compatriota humano. Me mostre. A terra. Onde o sagrado. Encontrasse. Deitado. Eu também. Devo Dormir. Em breve."
   },
   {
     "id": "pukka_br",
@@ -895,7 +909,8 @@
     "reminders": ["Envenenado", "Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, escolha um jogador: ele fica envenenado. O jogador envenenado anteriormente morre e então fica são."
+    "ability": "A cada noite, escolha um jogador: ele fica envenenado. O jogador envenenado anteriormente morre e então fica são.",
+    "flavor": "Você tem sido muito gentil me recebendo na sua linda casa. Sinto muitíssimo por ter acidentalmente arranhado você. Coisa pouca. Não importa. Mas por favor, tome esse palito de dente dourado como uma humilde demonstração do meu arrependimento."
   },
   {
     "id": "shabaloth_br",
@@ -912,7 +927,8 @@
     "reminders": ["Morto", "Morto", "Vivo"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha 2 jogadores: eles morrem. Um jogador morto escolhido na noite anterior pode ser regurgitado."
+    "ability": "A cada noite*, escolha 2 jogadores: eles morrem. Um jogador morto escolhido na noite anterior pode ser regurgitado.",
+    "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
   },
   {
     "id": "po_br",
@@ -929,7 +945,8 @@
     "reminders": ["Morto", "Morto", "Morto", "3 Ataques"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, você pode escolher um jogador: ele morre. Se a sua última escolha foi 'ninguém', escolha 3 jogadores esta noite."
+    "ability": "A cada noite*, você pode escolher um jogador: ele morre. Se a sua última escolha foi 'ninguém', escolha 3 jogadores esta noite.",
+    "flavor": "Aceitas uma flor? estou tão sozinho."
   },
   {
     "id": "apprentice_br",
@@ -2244,7 +2261,7 @@
       {"id": "spy_br", "reason": "Se o Médico da Peste morrer, um Lacaio ganha a habilidade do Espião em adição a sua própria habilidade e fica sabendo disso"},
       {"id": "scarletwoman_br", "reason": "Se o Médico da Peste morrer, um lacaio vivo ganha a habilidade da Mulher Escarlate em adição a sua própria habilidade, e é avisado disso."},
       {"id": "boomdandy_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."},
-      {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."}
+      {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."},
       {"id": "marionette_br", "reason": "Se o Demônio tiver um vizinho que esteja vivo e seja um Cidadão ou Forasteiro quando o Médico da Peste morrer, esse jogador se torna uma Marionete do mal. Se já houver um jogador mau extra, isso não acontece."}
     ]
   },
