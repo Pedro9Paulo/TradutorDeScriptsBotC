@@ -2778,7 +2778,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: ele morre. Se ele não está em jogo, o Narrador escolhe quem morre."
+    "ability": "A cada noite*, escolha um personagem: ele morre. Se ele não está em jogo, o Narrador escolhe quem morre."
   },
   {
     "id": "kazali_br",
