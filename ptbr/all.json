@@ -2,8 +2,8 @@
   {
     "id": "washerwoman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwoman.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/washerwomanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/washerwoman.png",
+      "https://pedro9paulo.pythonanywhere.com/images/washerwomanReversed.png"],
     "name": "Lavadeira",
     "edition": "tb",
     "team": "townsfolk",
@@ -20,8 +20,8 @@
   {
     "id": "librarian_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarianReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/librarian.png",
+      "https://pedro9paulo.pythonanywhere.com/images/librarianReversed.png"],
     "name": "Bibliotecária",
     "edition": "tb",
     "team": "townsfolk",
@@ -38,8 +38,8 @@
   {
     "id": "investigator_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigator.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/investigatorReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/investigator.png",
+      "https://pedro9paulo.pythonanywhere.com/images/investigatorReversed.png"],
     "name": "Investigador",
     "edition": "tb",
     "team": "townsfolk",
@@ -56,8 +56,8 @@
   {
     "id": "chef_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chef.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chefReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/chef.png",
+      "https://pedro9paulo.pythonanywhere.com/images/chefReversed.png"],
     "name": "Chef",
     "edition": "tb",
     "team": "townsfolk",
@@ -74,8 +74,8 @@
   {
     "id": "empath_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empath.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/empathReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/empath.png",
+      "https://pedro9paulo.pythonanywhere.com/images/empathReversed.png"],
     "name": "Empático",
     "edition": "tb",
     "team": "townsfolk",
@@ -92,8 +92,8 @@
   {
     "id": "fortuneteller_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortuneteller.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fortunetellerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fortuneteller.png",
+      "https://pedro9paulo.pythonanywhere.com/images/fortunetellerReversed.png"],
     "name": "Vidente",
     "edition": "tb",
     "team": "townsfolk",
@@ -110,8 +110,8 @@
   {
     "id": "undertaker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertaker.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/undertakerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/undertaker.png",
+      "https://pedro9paulo.pythonanywhere.com/images/undertakerReversed.png"],
     "name": "Coveiro",
     "edition": "tb",
     "team": "townsfolk",
@@ -127,8 +127,8 @@
   {
     "id": "monk_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monk.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/monkReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/monk.png",
+      "https://pedro9paulo.pythonanywhere.com/images/monkReversed.png"],
     "name": "Monge",
     "edition": "tb",
     "team": "townsfolk",
@@ -145,8 +145,8 @@
   {
     "id": "ravenkeeper_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeper.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ravenkeeperReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/ravenkeeper.png",
+      "https://pedro9paulo.pythonanywhere.com/images/ravenkeeperReversed.png"],
     "name": "Mestre dos Corvos",
     "edition": "tb",
     "team": "townsfolk",
@@ -163,8 +163,8 @@
   {
     "id": "virgin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virgin.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/virginReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/virgin.png",
+      "https://pedro9paulo.pythonanywhere.com/images/virginReversed.png"],
     "name": "Virgem",
     "edition": "tb",
     "team": "townsfolk",
@@ -181,8 +181,8 @@
   {
     "id": "slayer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayer.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/slayerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/slayer.png",
+      "https://pedro9paulo.pythonanywhere.com/images/slayerReversed.png"],
     "name": "Atirador",
     "edition": "tb",
     "team": "townsfolk",
@@ -199,8 +199,8 @@
   {
     "id": "soldier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldier.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/soldierReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/soldier.png",
+      "https://pedro9paulo.pythonanywhere.com/images/soldierReversed.png"],
     "name": "Soldado",
     "edition": "tb",
     "team": "townsfolk",
@@ -217,8 +217,8 @@
   {
     "id": "mayor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayor.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mayorReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/mayor.png",
+      "https://pedro9paulo.pythonanywhere.com/images/mayorReversed.png"],
     "name": "Prefeito",
     "edition": "tb",
     "team": "townsfolk",
@@ -235,8 +235,8 @@
   {
     "id": "butler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butler.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butlerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/butler.png",
+      "https://pedro9paulo.pythonanywhere.com/images/butlerReversed.png"],
     "name": "Mordomo",
     "edition": "tb",
     "team": "outsider",
@@ -256,8 +256,8 @@
   {
     "id": "drunk_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunk.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/drunkReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/drunk.png",
+      "https://pedro9paulo.pythonanywhere.com/images/drunkReversed.png"],
     "name": "Bêbado",
     "edition": "tb",
     "team": "outsider",
@@ -275,8 +275,8 @@
   {
     "id": "recluse_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluse.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/recluseReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/recluse.png",
+      "https://pedro9paulo.pythonanywhere.com/images/recluseReversed.png"],
     "name": "Recluso",
     "edition": "tb",
     "team": "outsider",
@@ -292,8 +292,8 @@
   {
     "id": "saint_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saint.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/saintReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/saint.png",
+      "https://pedro9paulo.pythonanywhere.com/images/saintReversed.png"],
     "name": "Santo",
     "edition": "tb",
     "team": "outsider",
@@ -309,8 +309,8 @@
   {
     "id": "poisoner_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisoner.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poisonerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/poisoner.png",
+      "https://pedro9paulo.pythonanywhere.com/images/poisonerReversed.png"],
     "name": "Envenenador",
     "edition": "tb",
     "team": "minion",
@@ -327,8 +327,8 @@
   {
     "id": "spy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spy.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/spyReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/spy.png",
+      "https://pedro9paulo.pythonanywhere.com/images/spyReversed.png"],
     "name": "Espião",
     "edition": "tb",
     "team": "minion",
@@ -353,8 +353,8 @@
   {
     "id": "scarletwoman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwoman.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scarletwomanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/scarletwoman.png",
+      "https://pedro9paulo.pythonanywhere.com/images/scarletwomanReversed.png"],
     "name": "Mulher Escarlate",
     "edition": "tb",
     "team": "minion",
@@ -374,8 +374,8 @@
   {
     "id": "baron_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baron.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baronReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/baron.png",
+      "https://pedro9paulo.pythonanywhere.com/images/baronReversed.png"],
     "name": "Barão",
     "edition": "tb",
     "team": "minion",
@@ -392,8 +392,8 @@
   {
     "id": "imp_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/imp.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/impReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/imp.png",
+      "https://pedro9paulo.pythonanywhere.com/images/impReversed.png"],
     "name": "Capeta",
     "edition": "tb",
     "team": "demon",
@@ -410,9 +410,9 @@
   {
     "id": "bureaucrat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucrat.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bureaucratEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bureaucrat.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bureaucratGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bureaucratEvil.png"],
     "name": "Burocrata",
     "edition": "tb",
     "team": "traveler",
@@ -430,9 +430,9 @@
   {
     "id": "thief_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thief.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/thiefEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/thief.png",
+      "https://pedro9paulo.pythonanywhere.com/images/thiefGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/thiefEvil.png"],
     "name": "Ladrão",
     "edition": "tb",
     "team": "traveler",
@@ -449,9 +449,9 @@
   {
     "id": "gunslinger_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslinger.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gunslingerEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gunslinger.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gunslingerGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gunslingerEvil.png"],
     "name": "Pistoleiro",
     "edition": "tb",
     "team": "traveler",
@@ -468,9 +468,9 @@
   {
     "id": "scapegoat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoat.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/scapegoatEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/scapegoat.png",
+      "https://pedro9paulo.pythonanywhere.com/images/scapegoatGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/scapegoatEvil.png"],
     "name": "Bode Expiatório",
     "edition": "tb",
     "team": "traveler",
@@ -486,9 +486,9 @@
   {
     "id": "beggar_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggar.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/beggarEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/beggar.png",
+      "https://pedro9paulo.pythonanywhere.com/images/beggarGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/beggarEvil.png"],
     "name": "Pedinte",
     "edition": "tb",
     "team": "traveler",
@@ -505,8 +505,8 @@
   {
     "id": "grandmother_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmother.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/grandmotherReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/grandmother.png",
+      "https://pedro9paulo.pythonanywhere.com/images/grandmotherReversed.png"],
     "name": "Vovó",
     "edition": "bmr",
     "team": "townsfolk",
@@ -523,8 +523,8 @@
   {
     "id": "sailor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailor.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sailorReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/sailor.png",
+      "https://pedro9paulo.pythonanywhere.com/images/sailorReversed.png"],
     "name": "Marinheiro",
     "edition": "bmr",
     "team": "townsfolk",
@@ -540,8 +540,8 @@
   {
     "id": "chambermaid_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaid.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/chambermaidReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/chambermaid.png",
+      "https://pedro9paulo.pythonanywhere.com/images/chambermaidReversed.png"],
     "name": "Camareira",
     "edition": "bmr",
     "team": "townsfolk",
@@ -557,8 +557,8 @@
   {
     "id": "exorcist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/exorcistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/exorcist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/exorcistReversed.png"],
     "name": "Exorcista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -574,8 +574,8 @@
   {
     "id": "innkeeper_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeper.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/innkeeperReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/innkeeper.png",
+      "https://pedro9paulo.pythonanywhere.com/images/innkeeperReversed.png"],
     "name": "Taverneiro",
     "edition": "bmr",
     "team": "townsfolk",
@@ -591,8 +591,8 @@
   {
     "id": "gambler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gambler.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gamblerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gambler.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gamblerReversed.png"],
     "name": "Apostador",
     "edition": "bmr",
     "team": "townsfolk",
@@ -609,8 +609,8 @@
   {
     "id": "gossip_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossip.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gossipReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gossip.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gossipReversed.png"],
     "name": "Fofoqueiro",
     "edition": "bmr",
     "team": "townsfolk",
@@ -627,8 +627,8 @@
   {
     "id": "courtier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtier.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/courtierReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/courtier.png",
+      "https://pedro9paulo.pythonanywhere.com/images/courtierReversed.png"],
     "name": "Cortesã",
     "edition": "bmr",
     "team": "townsfolk",
@@ -645,8 +645,8 @@
   {
     "id": "professor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professor.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/professorReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/professor.png",
+      "https://pedro9paulo.pythonanywhere.com/images/professorReversed.png"],
     "name": "Cientista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -663,8 +663,8 @@
   {
     "id": "minstrel_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrel.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/minstrelReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/minstrel.png",
+      "https://pedro9paulo.pythonanywhere.com/images/minstrelReversed.png"],
     "name": "Bardo",
     "edition": "bmr",
     "team": "townsfolk",
@@ -680,8 +680,8 @@
   {
     "id": "tealady_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealady.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tealadyReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/tealady.png",
+      "https://pedro9paulo.pythonanywhere.com/images/tealadyReversed.png"],
     "name": "Moça do Chá",
     "edition": "bmr",
     "team": "townsfolk",
@@ -698,8 +698,8 @@
   {
     "id": "pacifist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pacifistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/pacifist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/pacifistReversed.png"],
     "name": "Pacifista",
     "edition": "bmr",
     "team": "townsfolk",
@@ -716,8 +716,8 @@
   {
     "id": "fool_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fool.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/foolReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fool.png",
+      "https://pedro9paulo.pythonanywhere.com/images/foolReversed.png"],
     "name": "Bobo",
     "edition": "bmr",
     "team": "townsfolk",
@@ -733,8 +733,8 @@
   {
     "id": "tinker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinker.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/tinkerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/tinker.png",
+      "https://pedro9paulo.pythonanywhere.com/images/tinkerReversed.png"],
     "name": "Imprudente",
     "edition": "bmr",
     "team": "outsider",
@@ -751,8 +751,8 @@
   {
     "id": "moonchild_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchild.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/moonchildReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/moonchild.png",
+      "https://pedro9paulo.pythonanywhere.com/images/moonchildReversed.png"],
     "name": "Filha da Lua",
     "edition": "bmr",
     "team": "outsider",
@@ -768,8 +768,8 @@
   {
     "id": "goon_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goon.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goonReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/goon.png",
+      "https://pedro9paulo.pythonanywhere.com/images/goonReversed.png"],
     "name": "Capanga",
     "edition": "bmr",
     "team": "outsider",
@@ -785,8 +785,8 @@
   {
     "id": "lunatic_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunatic.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lunaticReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/lunatic.png",
+      "https://pedro9paulo.pythonanywhere.com/images/lunaticReversed.png"],
     "name": "Lunático",
     "edition": "bmr",
     "team": "outsider",
@@ -804,8 +804,8 @@
   {
     "id": "godfather_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfather.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/godfatherReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/godfather.png",
+      "https://pedro9paulo.pythonanywhere.com/images/godfatherReversed.png"],
     "name": "Mafioso",
     "edition": "bmr",
     "team": "minion",
@@ -822,8 +822,8 @@
   {
     "id": "devilsadvocate_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocate.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/devilsadvocateReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/devilsadvocate.png",
+      "https://pedro9paulo.pythonanywhere.com/images/devilsadvocateReversed.png"],
     "name": "Advogado do Diabo",
     "edition": "bmr",
     "team": "minion",
@@ -840,8 +840,8 @@
   {
     "id": "assassin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassin.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/assassinReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/assassin.png",
+      "https://pedro9paulo.pythonanywhere.com/images/assassinReversed.png"],
     "name": "Assassino",
     "edition": "bmr",
     "team": "minion",
@@ -858,8 +858,8 @@
   {
     "id": "mastermind_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermind.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mastermindReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/mastermind.png",
+      "https://pedro9paulo.pythonanywhere.com/images/mastermindReversed.png"],
     "name": "Mentor",
     "edition": "bmr",
     "team": "minion",
@@ -879,8 +879,8 @@
   {
     "id": "zombuul_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuul.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zombuulReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/zombuul.png",
+      "https://pedro9paulo.pythonanywhere.com/images/zombuulReversed.png"],
     "name": "Zumbuul",
     "edition": "bmr",
     "team": "demon",
@@ -897,8 +897,8 @@
   {
     "id": "pukka_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukka.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pukkaReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/pukka.png",
+      "https://pedro9paulo.pythonanywhere.com/images/pukkaReversed.png"],
     "name": "Púca",
     "edition": "bmr",
     "team": "demon",
@@ -915,8 +915,8 @@
   {
     "id": "shabaloth_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabaloth.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shabalothReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/shabaloth.png",
+      "https://pedro9paulo.pythonanywhere.com/images/shabalothReversed.png"],
     "name": "Xabalote",
     "edition": "bmr",
     "team": "demon",
@@ -933,8 +933,8 @@
   {
     "id": "po_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/po.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/po.png",
+      "https://pedro9paulo.pythonanywhere.com/images/poReversed.png"],
     "name": "Po",
     "edition": "bmr",
     "team": "demon",
@@ -951,9 +951,9 @@
   {
     "id": "apprentice_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprentice.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/apprenticeEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/apprentice.png",
+      "https://pedro9paulo.pythonanywhere.com/images/apprenticeGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/apprenticeEvil.png"],
     "name": "Aprendiz",
     "edition": "bmr",
     "team": "traveler",
@@ -969,9 +969,9 @@
   {
     "id": "matron_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matron.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/matronEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/matron.png",
+      "https://pedro9paulo.pythonanywhere.com/images/matronGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/matronEvil.png"],
     "name": "Matrona",
     "edition": "bmr",
     "team": "traveler",
@@ -987,9 +987,9 @@
   {
     "id": "judge_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judge.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/judgeEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/judge.png",
+      "https://pedro9paulo.pythonanywhere.com/images/judgeGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/judgeEvil.png"],
     "name": "Juiz",
     "edition": "bmr",
     "team": "traveler",
@@ -1005,9 +1005,9 @@
   {
     "id": "bishop_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishop.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bishopEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bishop.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bishopGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bishopEvil.png"],
     "name": "Bispo",
     "edition": "bmr",
     "team": "traveler",
@@ -1023,9 +1023,9 @@
   {
     "id": "voudon_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudon.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/voudonEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/voudon.png",
+      "https://pedro9paulo.pythonanywhere.com/images/voudonGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/voudonEvil.png"],
     "name": "Voudon",
     "edition": "bmr",
     "team": "traveler",
@@ -1041,8 +1041,8 @@
   {
     "id": "clockmaker_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmaker.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/clockmakerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/clockmaker.png",
+      "https://pedro9paulo.pythonanywhere.com/images/clockmakerReversed.png"],
     "name": "Relojoeiro",
     "edition": "snv",
     "team": "townsfolk",
@@ -1059,8 +1059,8 @@
   {
     "id": "dreamer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamer.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/dreamerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/dreamer.png",
+      "https://pedro9paulo.pythonanywhere.com/images/dreamerReversed.png"],
     "name": "Sonhador",
     "edition": "snv",
     "team": "townsfolk",
@@ -1077,8 +1077,8 @@
   {
     "id": "snakecharmer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmer.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snakecharmerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/snakecharmer.png",
+      "https://pedro9paulo.pythonanywhere.com/images/snakecharmerReversed.png"],
     "name": "Encantador",
     "edition": "snv",
     "team": "townsfolk",
@@ -1095,8 +1095,8 @@
   {
     "id": "mathematician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematician.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mathematicianReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/mathematician.png",
+      "https://pedro9paulo.pythonanywhere.com/images/mathematicianReversed.png"],
     "name": "Matemático",
     "edition": "snv",
     "team": "townsfolk",
@@ -1117,8 +1117,8 @@
   {
     "id": "flowergirl_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirl.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/flowergirlReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/flowergirl.png",
+      "https://pedro9paulo.pythonanywhere.com/images/flowergirlReversed.png"],
     "name": "Florista",
     "edition": "snv",
     "team": "townsfolk",
@@ -1135,8 +1135,8 @@
   {
     "id": "towncrier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrier.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/towncrierReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/towncrier.png",
+      "https://pedro9paulo.pythonanywhere.com/images/towncrierReversed.png"],
     "name": "Arauto da Cidade",
     "edition": "snv",
     "team": "townsfolk",
@@ -1153,8 +1153,8 @@
   {
     "id": "oracle_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracle.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/oracleReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/oracle.png",
+      "https://pedro9paulo.pythonanywhere.com/images/oracleReversed.png"],
     "name": "Oráculo",
     "edition": "snv",
     "team": "townsfolk",
@@ -1171,8 +1171,8 @@
   {
     "id": "savant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savant.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/savantReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/savant.png",
+      "https://pedro9paulo.pythonanywhere.com/images/savantReversed.png"],
     "name": "Prodígio",
     "edition": "snv",
     "team": "townsfolk",
@@ -1189,8 +1189,8 @@
   {
     "id": "seamstress_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstress.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/seamstressReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/seamstress.png",
+      "https://pedro9paulo.pythonanywhere.com/images/seamstressReversed.png"],
     "name": "Costureira",
     "edition": "snv",
     "team": "townsfolk",
@@ -1207,8 +1207,8 @@
   {
     "id": "philosopher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopher.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/philosopherReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/philosopher.png",
+      "https://pedro9paulo.pythonanywhere.com/images/philosopherReversed.png"],
     "name": "Filósofo",
     "edition": "snv",
     "team": "townsfolk",
@@ -1226,8 +1226,8 @@
   {
     "id": "artist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/artistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/artist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/artistReversed.png"],
     "name": "Artista",
     "edition": "snv",
     "team": "townsfolk",
@@ -1244,8 +1244,8 @@
   {
     "id": "juggler_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/juggler.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/jugglerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/juggler.png",
+      "https://pedro9paulo.pythonanywhere.com/images/jugglerReversed.png"],
     "name": "Malabarista",
     "edition": "snv",
     "team": "townsfolk",
@@ -1262,8 +1262,8 @@
   {
     "id": "sage_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sage.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sageReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/sage.png",
+      "https://pedro9paulo.pythonanywhere.com/images/sageReversed.png"],
     "name": "Sábio",
     "team": "townsfolk",
     "edition": "snv",
@@ -1280,8 +1280,8 @@
   {
     "id": "mutant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutant.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mutantReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/mutant.png",
+      "https://pedro9paulo.pythonanywhere.com/images/mutantReversed.png"],
     "name": "Mutante",
     "edition": "snv",
     "team": "outsider",
@@ -1298,8 +1298,8 @@
   {
     "id": "sweetheart_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheart.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/sweetheartReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/sweetheart.png",
+      "https://pedro9paulo.pythonanywhere.com/images/sweetheartReversed.png"],
     "name": "Queridinha",
     "edition": "snv",
     "team": "outsider",
@@ -1316,8 +1316,8 @@
   {
     "id": "barber_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barber.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barberReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/barber.png",
+      "https://pedro9paulo.pythonanywhere.com/images/barberReversed.png"],
     "name": "Barbeiro",
     "edition": "snv",
     "team": "outsider",
@@ -1334,8 +1334,8 @@
   {
     "id": "klutz_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutz.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/klutzReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/klutz.png",
+      "https://pedro9paulo.pythonanywhere.com/images/klutzReversed.png"],
     "name": "Desastrado",
     "edition": "snv",
     "team": "outsider",
@@ -1352,8 +1352,8 @@
   {
     "id": "eviltwin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwin.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/eviltwinReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/eviltwin.png",
+      "https://pedro9paulo.pythonanywhere.com/images/eviltwinReversed.png"],
     "name": "Gêmea Má",
     "edition": "snv",
     "team": "minion",
@@ -1370,8 +1370,8 @@
   {
     "id": "witch_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witch.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/witchReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/witch.png",
+      "https://pedro9paulo.pythonanywhere.com/images/witchReversed.png"],
     "name": "Feiticeira",
     "edition": "snv",
     "team": "minion",
@@ -1388,8 +1388,8 @@
   {
     "id": "cerenovus_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovus.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cerenovusReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/cerenovus.png",
+      "https://pedro9paulo.pythonanywhere.com/images/cerenovusReversed.png"],
     "name": "Cerenovus",
     "edition": "snv",
     "team": "minion",
@@ -1409,8 +1409,8 @@
   {
     "id": "pithag_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithag.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pithagReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/pithag.png",
+      "https://pedro9paulo.pythonanywhere.com/images/pithagReversed.png"],
     "name": "Bruxa do Fosso",
     "edition": "snv",
     "team": "minion",
@@ -1435,8 +1435,8 @@
   {
     "id": "fanggu_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fanggu.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fangguReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fanggu.png",
+      "https://pedro9paulo.pythonanywhere.com/images/fangguReversed.png"],
     "name": "Fang Gu",
     "edition": "snv",
     "team": "demon",
@@ -1453,8 +1453,8 @@
   {
     "id": "vigormortis_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortis.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vigormortisReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/vigormortis.png",
+      "https://pedro9paulo.pythonanywhere.com/images/vigormortisReversed.png"],
     "name": "Vigormortis",
     "edition": "snv",
     "team": "demon",
@@ -1471,8 +1471,8 @@
   {
     "id": "nodashii_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashii.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nodashiiReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/nodashii.png",
+      "https://pedro9paulo.pythonanywhere.com/images/nodashiiReversed.png"],
     "name": "No Dashii",
     "edition": "snv",
     "team": "demon",
@@ -1489,8 +1489,8 @@
   {
     "id": "vortox_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortox.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vortoxReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/vortox.png",
+      "https://pedro9paulo.pythonanywhere.com/images/vortoxReversed.png"],
     "name": "Vortox",
     "edition": "snv",
     "team": "demon",
@@ -1510,9 +1510,9 @@
   {
     "id": "barista_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/barista.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/baristaEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/barista.png",
+      "https://pedro9paulo.pythonanywhere.com/images/baristaGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/baristaEvil.png"],
     "name": "Barista",
     "edition": "snv",
     "team": "traveler",
@@ -1529,9 +1529,9 @@
   {
     "id": "harlot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlot.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harlotEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/harlot.png",
+      "https://pedro9paulo.pythonanywhere.com/images/harlotGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/harlotEvil.png"],
     "name": "Meretriz",
     "edition": "snv",
     "team": "traveler",
@@ -1548,9 +1548,9 @@
   {
     "id": "butcher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcher.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/butcherEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/butcher.png",
+      "https://pedro9paulo.pythonanywhere.com/images/butcherGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/butcherEvil.png"],
     "name": "Açougueiro",
     "edition": "snv",
     "team": "traveler",
@@ -1567,9 +1567,9 @@
   {
     "id": "bonecollector_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollector.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bonecollectorEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bonecollector.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bonecollectorGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bonecollectorEvil.png"],
     "name": "Coletor de Ossos",
     "edition": "snv",
     "team": "traveler",
@@ -1586,9 +1586,9 @@
   {
     "id": "deviant_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviant.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/deviantEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/deviant.png",
+      "https://pedro9paulo.pythonanywhere.com/images/deviantGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/deviantEvil.png"],
     "name": "Desviado",
     "edition": "snv",
     "team": "traveler",
@@ -1605,8 +1605,8 @@
   {
     "id": "noble_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/noble.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nobleReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/noble.png",
+      "https://pedro9paulo.pythonanywhere.com/images/nobleReversed.png"],
     "name": "Nobre",
     "edition": "",
     "team": "townsfolk",
@@ -1622,8 +1622,8 @@
   {
     "id": "bountyhunter_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunter.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bountyhunterReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bountyhunter.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bountyhunterReversed.png"],
     "name": "Mercenário",
     "edition": "",
     "team": "townsfolk",
@@ -1643,8 +1643,8 @@
   {
     "id": "pixie_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixie.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/pixieReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/pixie.png",
+      "https://pedro9paulo.pythonanywhere.com/images/pixieReversed.png"],
     "name": "Pixie",
     "edition": "",
     "team": "townsfolk",
@@ -1660,8 +1660,8 @@
   {
     "id": "general_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/general.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/generalReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/general.png",
+      "https://pedro9paulo.pythonanywhere.com/images/generalReversed.png"],
     "name": "General",
     "edition": "",
     "team": "townsfolk",
@@ -1677,8 +1677,8 @@
   {
     "id": "preacher_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacher.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/preacherReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/preacher.png",
+      "https://pedro9paulo.pythonanywhere.com/images/preacherReversed.png"],
     "name": "Pregador",
     "edition": "",
     "team": "townsfolk",
@@ -1694,8 +1694,8 @@
   {
     "id": "king_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/king.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kingReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/king.png",
+      "https://pedro9paulo.pythonanywhere.com/images/kingReversed.png"],
     "name": "Rei",
     "edition": "",
     "team": "townsfolk",
@@ -1711,8 +1711,8 @@
   {
     "id": "balloonist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/balloonistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/balloonist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/balloonistReversed.png"],
     "name": "Balonista",
     "edition": "",
     "team": "townsfolk",
@@ -1728,8 +1728,8 @@
   {
     "id": "cultleader_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleader.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cultleaderReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/cultleader.png",
+      "https://pedro9paulo.pythonanywhere.com/images/cultleaderReversed.png"],
     "name": "Líder da Seita",
     "edition": "",
     "team": "townsfolk",
@@ -1745,8 +1745,8 @@
   {
     "id": "lycanthrope_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthrope.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lycanthropeReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/lycanthrope.png",
+      "https://pedro9paulo.pythonanywhere.com/images/lycanthropeReversed.png"],
     "name": "Licantropo",
     "edition": "",
     "team": "townsfolk",
@@ -1762,8 +1762,8 @@
   {
     "id": "amnesiac_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiac.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/amnesiacReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/amnesiac.png",
+      "https://pedro9paulo.pythonanywhere.com/images/amnesiacReversed.png"],
     "name": "Amnésico",
     "edition": "",
     "team": "townsfolk",
@@ -1780,8 +1780,8 @@
   {
     "id": "nightwatchman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchman.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/nightwatchmanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/nightwatchman.png",
+      "https://pedro9paulo.pythonanywhere.com/images/nightwatchmanReversed.png"],
     "name": "Vigia Noturno",
     "edition": "",
     "team": "townsfolk",
@@ -1796,8 +1796,8 @@
   {
     "id": "engineer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineer.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/engineerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/engineer.png",
+      "https://pedro9paulo.pythonanywhere.com/images/engineerReversed.png"],
     "name": "Engenheiro",
     "edition": "",
     "team": "townsfolk",
@@ -1813,8 +1813,8 @@
   {
     "id": "fisherman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fisherman.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fishermanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fisherman.png",
+      "https://pedro9paulo.pythonanywhere.com/images/fishermanReversed.png"],
     "name": "Pescador",
     "edition": "",
     "team": "townsfolk",
@@ -1830,8 +1830,8 @@
   {
     "id": "huntsman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsman.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/huntsmanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/huntsman.png",
+      "https://pedro9paulo.pythonanywhere.com/images/huntsmanReversed.png"],
     "name": "Caçador",
     "edition": "",
     "team": "townsfolk",
@@ -1847,8 +1847,8 @@
   {
     "id": "alchemist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alchemistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/alchemist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/alchemistReversed.png"],
     "name": "Alquimista",
     "edition": "",
     "team": "townsfolk",
@@ -1865,8 +1865,8 @@
   {
     "id": "farmer_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmer.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/farmerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/farmer.png",
+      "https://pedro9paulo.pythonanywhere.com/images/farmerReversed.png"],
     "name": "Fazendeiro",
     "edition": "",
     "team": "townsfolk",
@@ -1882,8 +1882,8 @@
   {
     "id": "magician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magician.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/magicianReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/magician.png",
+      "https://pedro9paulo.pythonanywhere.com/images/magicianReversed.png"],
     "name": "Mágico",
     "edition": "",
     "team": "townsfolk",
@@ -1899,8 +1899,8 @@
   {
     "id": "choirboy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboy.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/choirboyReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/choirboy.png",
+      "https://pedro9paulo.pythonanywhere.com/images/choirboyReversed.png"],
     "name": "Coroinha",
     "edition": "",
     "team": "townsfolk",
@@ -1916,8 +1916,8 @@
   {
     "id": "poppygrower_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrower.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/poppygrowerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/poppygrower.png",
+      "https://pedro9paulo.pythonanywhere.com/images/poppygrowerReversed.png"],
     "name": "Cultivadora",
     "edition": "",
     "team": "townsfolk",
@@ -1933,8 +1933,8 @@
   {
     "id": "atheist_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheist.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/atheistReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/atheist.png",
+      "https://pedro9paulo.pythonanywhere.com/images/atheistReversed.png"],
     "name": "Ateu",
     "edition": "",
     "team": "townsfolk",
@@ -1951,8 +1951,8 @@
   {
     "id": "cannibal_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibal.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/cannibalReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/cannibal.png",
+      "https://pedro9paulo.pythonanywhere.com/images/cannibalReversed.png"],
     "name": "Canibal",
     "edition": "",
     "team": "townsfolk",
@@ -1974,8 +1974,8 @@
   {
     "id": "steward_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/steward.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/stewardReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/steward.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/stewardReversed.png"],
     "name": "Regente",
     "edition": "",
     "team": "townsfolk",
@@ -1991,8 +1991,8 @@
   {
     "id": "knight_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knight.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/knightReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/knight.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/knightReversed.png"],
     "name": "Cavaleiro",
     "edition": "",
     "team": "townsfolk",
@@ -2008,8 +2008,8 @@
   {
     "id": "highpriestess_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestess.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/highpriestessReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/highpriestess.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/highpriestessReversed.png"],
     "name": "Suma Sacerdotisa",
     "edition": "",
     "team": "townsfolk",
@@ -2025,8 +2025,8 @@
   {
     "id": "shugenja_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenja.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/shugenjaReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/shugenja.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/shugenjaReversed.png"],
     "name": "Shugenja",
     "edition": "",
     "team": "townsfolk",
@@ -2042,8 +2042,8 @@
   {
     "id": "villageidiot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiot.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/villageidiotReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/villageidiot.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/villageidiotReversed.png"],
     "name": "Idiota da Vila",
     "edition": "",
     "team": "townsfolk",
@@ -2060,8 +2060,8 @@
   {
     "id": "banshee_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/banshee.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bansheeReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/banshee.png",
+      "https://pedro9paulo.pythonanywhere.com/images/bansheeReversed.png"],
     "name": "Banshee",
     "edition": "",
     "team": "townsfolk",
@@ -2078,8 +2078,8 @@
   {
     "id": "alsaahir_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahir.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alsaahirReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/alsaahir.png",
+      "https://pedro9paulo.pythonanywhere.com/images/alsaahirReversed.png"],
     "name": "Alsaahir",
     "edition": "",
     "team": "townsfolk",
@@ -2095,8 +2095,8 @@
   {
     "id": "snitch_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitch.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/snitchReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/snitch.png",
+      "https://pedro9paulo.pythonanywhere.com/images/snitchReversed.png"],
     "name": "Dedo-duro",
     "edition": "",
     "team": "outsider",
@@ -2112,8 +2112,8 @@
   {
     "id": "acrobat_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobat.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobatReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/acrobat.png",
+      "https://pedro9paulo.pythonanywhere.com/images/acrobatReversed.png"],
     "name": "Acrobata",
     "edition": "",
     "team": "townsfolk",
@@ -2129,8 +2129,8 @@
   {
     "id": "acrobatold_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobat.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/acrobatReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/acrobat.png",
+      "https://pedro9paulo.pythonanywhere.com/images/acrobatReversed.png"],
     "name": "Acrobata",
     "edition": "",
     "team": "outsider",
@@ -2146,8 +2146,8 @@
   {
     "id": "puzzlemaster_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemaster.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/puzzlemasterReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/puzzlemaster.png",
+      "https://pedro9paulo.pythonanywhere.com/images/puzzlemasterReversed.png"],
     "name": "Enigmático",
     "edition": "",
     "team": "outsider",
@@ -2163,8 +2163,8 @@
   {
     "id": "heretic_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/heretic.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hereticReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/heretic.png",
+      "https://pedro9paulo.pythonanywhere.com/images/hereticReversed.png"],
     "name": "Herege",
     "edition": "",
     "team": "outsider",
@@ -2189,8 +2189,8 @@
   {
     "id": "damsel_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damsel.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/damselReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/damsel.png",
+      "https://pedro9paulo.pythonanywhere.com/images/damselReversed.png"],
     "name": "Donzela",
     "edition": "",
     "team": "outsider",
@@ -2206,8 +2206,8 @@
   {
     "id": "golem_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golem.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/golemReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/golem.png",
+      "https://pedro9paulo.pythonanywhere.com/images/golemReversed.png"],
     "name": "Golem",
     "edition": "",
     "team": "outsider",
@@ -2223,8 +2223,8 @@
   {
     "id": "politician_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politician.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/politicianReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/politician.png",
+      "https://pedro9paulo.pythonanywhere.com/images/politicianReversed.png"],
     "name": "Político",
     "edition": "",
     "team": "outsider",
@@ -2240,8 +2240,8 @@
   {
     "id": "plaguedoctor_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctor.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/plaguedoctorReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/plaguedoctor.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/plaguedoctorReversed.png"],
     "name": "Médico da Peste",
     "edition": "",
     "team": "outsider",
@@ -2267,8 +2267,8 @@
   {
     "id": "hatter_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatter.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hatterReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/hatter.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/hatterReversed.png"],
     "name": "Chapeleiro",
     "edition": "",
     "team": "outsider",
@@ -2284,8 +2284,8 @@
   {
     "id": "ogre_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogre.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ogreReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/ogre.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/ogreReversed.png"],
     "name": "Ogro",
     "edition": "",
     "team": "outsider",
@@ -2304,8 +2304,8 @@
   {
     "id": "zealot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealot.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/zealotReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/zealot.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/zealotReversed.png"],
     "name": "Fanático",
     "edition": "",
     "team": "outsider",
@@ -2321,8 +2321,8 @@
   {
     "id": "widow_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widow.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/widowReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/widow.png",
+      "https://pedro9paulo.pythonanywhere.com/images/widowReversed.png"],
     "name": "Viúva",
     "edition": "",
     "team": "minion",
@@ -2345,8 +2345,8 @@
   {
     "id": "fearmonger_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmonger.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/fearmongerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fearmonger.png",
+      "https://pedro9paulo.pythonanywhere.com/images/fearmongerReversed.png"],
     "name": "Intimidador",
     "edition": "",
     "team": "minion",
@@ -2362,8 +2362,8 @@
   {
     "id": "psychopath_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopath.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/psychopathReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/psychopath.png",
+      "https://pedro9paulo.pythonanywhere.com/images/psychopathReversed.png"],
     "name": "Psicopata",
     "edition": "",
     "team": "minion",
@@ -2379,8 +2379,8 @@
   {
     "id": "goblin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblin.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/goblinReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/goblin.png",
+      "https://pedro9paulo.pythonanywhere.com/images/goblinReversed.png"],
     "name": "Goblin",
     "edition": "",
     "team": "minion",
@@ -2396,8 +2396,8 @@
   {
     "id": "mezepheles_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezepheles.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/mezephelesReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/mezepheles.png",
+      "https://pedro9paulo.pythonanywhere.com/images/mezephelesReversed.png"],
     "name": "Mezéfeles",
     "edition": "",
     "team": "minion",
@@ -2414,8 +2414,8 @@
   {
     "id": "marionette_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionette.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/marionetteReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/marionette.png",
+      "https://pedro9paulo.pythonanywhere.com/images/marionetteReversed.png"],
     "name": "Marionete",
     "edition": "",
     "team": "minion",
@@ -2440,8 +2440,8 @@
   {
     "id": "boomdandy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandy.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boomdandyReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/boomdandy.png",
+      "https://pedro9paulo.pythonanywhere.com/images/boomdandyReversed.png"],
     "name": "Homem-Bomba",
     "edition": "",
     "team": "minion",
@@ -2458,8 +2458,8 @@
   {
     "id": "organgrinder_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinder.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/organgrinderReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/organgrinder.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/organgrinderReversed.png"],
     "name": "Realejo",
     "edition": "",
     "team": "minion",
@@ -2476,8 +2476,8 @@
   {
     "id": "vizier_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizier.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/vizierReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/vizier.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/vizierReversed.png"],
     "name": "Vizir",
     "edition": "",
     "team": "minion",
@@ -2504,8 +2504,8 @@
   {
     "id": "harpy_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpy.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/harpyReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/harpy.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/harpyReversed.png"],
     "name": "Harpia",
     "edition": "",
     "team": "minion",
@@ -2521,8 +2521,8 @@
   {
     "id": "summoner_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summoner.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/summonerReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/summoner.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/summonerReversed.png"],
     "name": "Invocador",
     "edition": "",
     "team": "minion",
@@ -2554,8 +2554,8 @@
   {
     "id": "boffin_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffin.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/boffinReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/boffin.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/boffinReversed.png"],
     "name": "Sabichão",
     "edition": "",
     "team": "minion",
@@ -2581,8 +2581,8 @@
   {
     "id": "xaan_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/xaan.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/xaanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/xaan.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/xaanReversed.png"],
     "name": "Xaã",
     "edition": "",
     "team": "minion",
@@ -2598,8 +2598,8 @@
   {
     "id": "wizard_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/wizard.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/wizardReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/wizard.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/wizardReversed.png"],
     "name": "Feiticeiro",
     "edition": "",
     "team": "minion",
@@ -2615,8 +2615,8 @@
   {
     "id": "lilmonsta_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonsta.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lilmonstaReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/lilmonsta.png",
+      "https://pedro9paulo.pythonanywhere.com/images/lilmonstaReversed.png"],
     "name": "Monstrim",
     "edition": "",
     "team": "demon",
@@ -2640,8 +2640,8 @@
   {
     "id": "lleech_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleech.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lleechReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/lleech.png",
+      "https://pedro9paulo.pythonanywhere.com/images/lleechReversed.png"],
     "name": "Sanguesuga",
     "edition": "",
     "team": "demon",
@@ -2661,8 +2661,8 @@
   {
     "id": "alhadikhia_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhia.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/alhadikhiaReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/alhadikhia.png",
+      "https://pedro9paulo.pythonanywhere.com/images/alhadikhiaReversed.png"],
     "name": "Al-Hadikhia",
     "edition": "",
     "team": "demon",
@@ -2678,8 +2678,8 @@
   {
     "id": "legion_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legion.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legionReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/legion.png",
+      "https://pedro9paulo.pythonanywhere.com/images/legionReversed.png"],
     "name": "Legião",
     "edition": "",
     "team": "demon",
@@ -2703,8 +2703,8 @@
   {
     "id": "leviathan_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathan.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/leviathanReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/leviathan.png",
+      "https://pedro9paulo.pythonanywhere.com/images/leviathanReversed.png"],
     "name": "Leviatã",
     "edition": "",
     "team": "demon",
@@ -2735,8 +2735,8 @@
   {
     "id": "riot_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riot.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/riotReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/riot.png",
+      "https://pedro9paulo.pythonanywhere.com/images/riotReversed.png"],
     "name": "Pandemônio",
     "edition": "",
     "team": "demon",
@@ -2765,8 +2765,8 @@
   {
     "id": "ojo_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojo.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ojoReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/ojo.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/ojoReversed.png"],
     "name": "Ojo",
     "edition": "",
     "team": "demon",
@@ -2782,8 +2782,8 @@
   {
     "id": "kazali_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kazali.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/kazaliReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/kazali.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/kazaliReversed.png"],
     "name": "Kazali",
     "edition": "",
     "team": "demon",
@@ -2806,8 +2806,8 @@
   {
     "id": "yaggababble_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababble.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/yaggababbleReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/yaggababble.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/yaggababbleReversed.png"],
     "name": "Yagarela",
     "edition": "",
     "team": "demon",
@@ -2827,8 +2827,8 @@
   {
     "id": "lordoftyphon_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lordoftyphon.png", 
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/lordoftyphonReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/lordoftyphon.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/lordoftyphonReversed.png"],
     "name": "Lorde do Tifão",
     "edition": "",
     "team": "demon",
@@ -2844,9 +2844,9 @@
   {
     "id": "gangster_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangster.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gangsterEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gangster.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gangsterGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gangsterEvil.png"],
     "name": "Gângster",
     "edition": "",
     "team": "traveler",
@@ -2862,9 +2862,9 @@
   {
     "id": "gnome_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnome.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnomeGood.png",
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gnomeEvil.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gnome.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gnomeGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/gnomeEvil.png"],
     "name": "Gnomo",
     "edition": "",
     "team": "traveler",
@@ -3040,7 +3040,7 @@
   {
     "id": "hellslibrarian_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/hellslibrarian.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/hellslibrarian.png"],
     "name": "Bibliotecária Infernal",
     "edition": "",
     "team": "fabled",
@@ -3056,7 +3056,7 @@
   {
     "id": "revolutionary_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/revolutionary.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/revolutionary.png"],
     "name": "Revolucionário",
     "edition": "",
     "team": "fabled",
@@ -3089,7 +3089,7 @@
   {
     "id": "bootlegger_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/bootlegger.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bootlegger.png"],
     "name": "Pirata",
     "edition": "",
     "team": "fabled",
@@ -3105,7 +3105,7 @@
   {
     "id": "ferryman_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/ferryman.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/ferryman.png"],
     "name": "Barqueiro",
     "edition": "",
     "team": "fabled",
@@ -3122,7 +3122,7 @@
   {
     "id": "gardener_br",
     "image":[
-      "https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/gardener.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/gardener.png"],
     "name": "Jardineiro",
     "edition": "",
     "team": "fabled",

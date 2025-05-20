@@ -3,10 +3,10 @@ import json
 import requests
 app = Flask(__name__)
 
-# Função que traduz (mesmo que em tradutor.py, não chama o tradutor.py por questão de dependencias (possívelmente mudar no futuro))
 def traduz(script):
-    arquivo_all = requests.get("https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/refs/heads/main/ptbr/all.json").content
-    todosRaw = arquivo_all.decode("utf-8")
+
+    arquivo_all = open("/home/pedro9paulo/all.json", "r", encoding="utf8")
+    todosRaw = arquivo_all.read()
     todosList = todosRaw[2:-3].split(",\n  {")
     for i in range(1,len(todosList)):
         todosList[i] = "  {"+todosList[i]
@@ -19,37 +19,42 @@ def traduz(script):
         cenario = "[\n"
         for p in script:
             if type(p) == type({}):
+                # Copia o meta (nome, autor, etc...) do script sem mudar nada
                 if p["id"] == "_meta":
                     cenario += "{"
                     for item in p:
                         if type(p[item]) == type(True):
                             cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
                         else:
-                            cenario += '"' + item + '": "' + p[item] + '", ' 
+                            cenario += '"' + item + '": "' + p[item] + '", '
                     cenario = cenario[:-2] + "},\n"
                 else:
+                    # Pega o id do Json no formato antigo
                     pid = p["id"].replace("_", "")
                     pid = pid.replace("-", "")
                     cenario += todos[pid] +",\n"
             else:
+                # Pega o id fo Json no formato novo
                 pid = p.replace("_", "")
                 pid = pid.replace("-", "")
                 cenario += todos[pid] +",\n"
-        return cenario[:-2]+"\n]"
+        cenario = cenario[:-2]+"\n]"
+        return cenario
     except Exception as erro:
         return erro
 
-# Código HTML da página
+
+
 @app.route('/')
 def form():
     return """
         <html>
             <head>
                 <title> Tradutor BotC </title>
-                <link rel="icon" type="imp/png" href="https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/imp.png">
+                <link rel="icon" type="imp/png" href="https://pedro9paulo.pythonanywhere.com/images/imp.png">
             </head>
             <body style="background-color:#210062;color:white;text-align:center">
-                <h1> <img style="vertical-align:middle" src="https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png" width="90" height="100"> Tradutor de Cenários de Blood on the Clocktower <img style="vertical-align:middle" src="https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png" width="90" height="100"></h1>
+                <h1> <img style="vertical-align:middle" src="https://pedro9paulo.pythonanywhere.com/images/librarian.png" width="90" height="100"> Tradutor de Cenários de Blood on the Clocktower <img style="vertical-align:middle" src="https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/librarian.png" width="90" height="100"></h1>
                 <br>
                 <p> Envie o Json que deseja traduzir do seu computador: </p>
                 <br>
@@ -67,21 +72,18 @@ def form():
                 <br>
                 <br>
                 <br>
-                <p> Contribua para esse projeto também: </p> 
-                <p> <a href="https://github.com/Pedro9Paulo/TradutorDeScriptsBotC"> <img src="https://raw.githubusercontent.com/Pedro9Paulo/TradutorDeScriptsBotC/main/images/legion.png" width="90" height="100"> </a></p>
+                <p> Contribua para esse projeto também: </p>
+                <p> <a href="https://github.com/Pedro9Paulo/TradutorDeScriptsBotC"> <img src="https://pedro9paulo.pythonanywhere.com/images/legion.png" width="90" height="100"> </a></p>
             </body>
         </html>
     """
 
-# Função que traduz atráves de um upload do Json
 @app.route('/tradutor_upload', methods=["POST"])
 def tradutor_upload():
-    # adquire o arquivo
     request_file = request.files['data_file']
     if not request_file:
         return "Sem arquivo"
 
-    # Se for um Json transforma em dicionário
     try:
         script = json.load(request_file)
     except:
@@ -89,7 +91,6 @@ def tradutor_upload():
 
     result = traduz(script)
 
-    # Se possível salva o arquivo com o mesmo nome, caso contrário informa o erro
     if type(result) == type("string"):
 
         response = make_response(result)
@@ -98,28 +99,22 @@ def tradutor_upload():
     else:
         return str(result)
 
-# Função que traduz através de um link de Json
 @app.route('/tradutor_link', methods=["POST", "GET"])
 def tradutor_link():
-    # adquire o arquivo
     request_url = request.form.get("url")
     request_file = requests.get(request_url)
     if not request_file:
         return "Sem arquivo"
 
-    # Se for um Json transforma em dicionário
     try:
         script = request_file.json()
     except:
         return "ERRO: O Arquivo não é um Json válido"
-
     result = traduz(script)
 
-    # Se possível salva o arquivo, caso contrário informa o erro
     if type(result) == type("string"):
         response = make_response(result)
         filename = ""
-        # Se ho houver salva o arquivo com o nome no meta
         try:
             filename = script[0]["name"] + ".json"
         except:
