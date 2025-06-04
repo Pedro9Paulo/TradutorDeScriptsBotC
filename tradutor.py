@@ -28,6 +28,12 @@ def montaJson(f, todos):
 					for item in p:
 						if type(p[item]) == type(True):
 							cenario += '"' + item + '": ' + str(p[item]).lower() + ', '
+						elif type(p[item]) == type([]):
+							n = len(p[item])
+							cenario += '"' + item + '": ' + "["
+							for i in range(n):
+								cenario += '"' + p[item][i] + '", '
+							cenario = cenario[:-2] + "], "
 						else:
 							cenario += '"' + item + '": "' + p[item] + '", ' 
 					cenario = cenario[:-2] + "},\n"
