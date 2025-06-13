@@ -2319,6 +2319,23 @@
     "ability": "Se há 5 ou mais jogadores vivos, você deve votar em toda nomeação."
   },
   {
+    "id": "hermit_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/hermit.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/hermit.png"],
+    "name": "Hermitão",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["1", "2", "3"],
+    "remindersGlobal": [],
+    "setup": true,
+    "ability": "Você tem todas as habilidades de Forasteiros. [-0 ou -1 Forasteiros]"
+  },
+  {
     "id": "widow_br",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/widow.png",
