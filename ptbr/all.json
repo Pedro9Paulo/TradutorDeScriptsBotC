@@ -1426,7 +1426,7 @@
     "jinxes": [
       {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
       {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
-      {"id": "villageidiot", "reason": "Se houver fichas de Idiota da Cidade fora do jogo, A Bruxa do Fosso pode criar um Idiota da Cidade. Neste caso, o Narrador pode mudar qual Idiota da Cidade está bêbado."},
+      {"id": "villageidiot", "reason": "Se houver fichas de Idiota da Vila fora do jogo, A Bruxa do Fosso pode criar um Idiota da Vila. Neste caso, o Narrador pode mudar qual Idiota da Vila está bêbado."},
       {"id": "cultleader_br", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},        
       {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},
       {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."}
@@ -2054,7 +2054,7 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, escolha um jogador: aprenda o alinhamento dele. [+0 a +2 Idiotas da Cidade. 1 dos extras está bêbado]",
+    "ability": "A cada noite, escolha um jogador: aprenda o alinhamento dele. [+0 a +2 Idiotas da Vila. 1 dos extras está bêbado]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
