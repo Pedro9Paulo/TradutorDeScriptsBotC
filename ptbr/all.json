@@ -2110,7 +2110,7 @@
     "ability": "Em seu primeiro dia, se você nomear & executar um jogador, o Demônio não mata esta noite.",
     "jinxes": [
       {"id": "cannibal_br", "reason": "Se o Canibal nomear & executar a Princesa, o Demônio não mata esta noite."},
-      {"id": "alhadikhia_br", "reason": "Se a Princesa nomear & executar um jogador, nignuém morre pela habilidade da Al-Hadikhia"}]
+      {"id": "alhadikhia_br", "reason": "Se a Princesa nomear & executar um jogador no seu primeiro dia, nignuém morre pela habilidade da Al-Hadikhia"}]
   },
   {
     "id": "snitch_br",
