@@ -343,7 +343,6 @@
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
-      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório e o verdadeiro Espião não pode registrar falsamente."},
       {"id": "magician_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidos."},
       {"id": "poppygrower_br", "reason": "Se a Cultivadora está em jogo, o Espião não ve o Grimório até ela morrer."},
       {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
@@ -1860,7 +1859,15 @@
     "remindersGlobal": ["É o Alquimista"],
     "setup": false,
     "ability": "Você possui a habilidade de um Lacaio. Quando a usando, o Narrador pode solicitar que você faça uma escolha diferente.",
-    "special": [{ "name": "replace-character", "type": "reveal"}]
+    "special": [{ "name": "replace-character", "type": "reveal"}],
+    "jinxes": [
+      {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
+      {"id": "widow_br", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
+      {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
+      {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
+      {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
+      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"},
+    ]
   },
   {
     "id": "farmer_br",
@@ -2373,7 +2380,6 @@
     "ability": "Na primeira noite, veja o Grimório e escolha um jogador: ela está envenenado. 1 jogador do Bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
-      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Espião, ele não pode ver o Grimório."},
       {"id": "magician_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e o Mágico são removidos."},
       {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."},
       {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."}
@@ -2573,7 +2579,6 @@
     "ability": "Você começa sabendo 3 blefes. Na 3ª noite escolha um jogador: ele se torna um Demônio do mal a sua escolha. [Sem Demônio]",
     "jinxes": [
       {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Relojoeiro não recebe sua informação até o Demônio ser criado."},
-      {"id": "alchemist_br", "reason": "Se um Alquimista-Invocador está em jogo, o jogo começa com um Demônio, como de costume. Se o Alquimista-Invocador escolhe um jogador, ele transforma tal jogador num Demônio, mas não altera seu alinhamento."},
       {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando o Invocador age, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
       {"id": "marionette_br", "reason": "A Marionete é vizinha do Invocador. O Invocador sabe quem a Marionete é."},
       {"id": "pithag_br", "reason": "O Invocador não pode criar um Dêmonio que está em jogo. Se o Invocador criar um Dêmonio que não está em jogo, as mortes essa noite são arbitrárias."},
@@ -2611,7 +2616,6 @@
       {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
       {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
       {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Cidadão para ter essa habilidade no lugar."},
-      {"id": "alchemist_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
       {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
     ]
   },
