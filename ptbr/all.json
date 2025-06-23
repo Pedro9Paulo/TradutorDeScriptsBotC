@@ -2095,8 +2095,8 @@
    {
     "id": "princess_br",
     "image":[
-      "https://pedro9paulo.pythonanywhere.com/images/alsaahir.png",
-      "https://pedro9paulo.pythonanywhere.com/images/alsaahirReversed.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/princess.png",
+      "https://pedro9paulo.pythonanywhere.com/images/princessReversed.png"],
     "name": "Princesa",
     "edition": "",
     "team": "townsfolk",
@@ -3172,5 +3172,21 @@
     "setup": false,
     "ability": "O Narrador pode escolher o personagem de 1 ou mais jogadores.",
     "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
-  }
+  },
+  {
+    "id": "deusexfiasco_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
+    "name": "Deus ex Fiasco",
+    "edition": "",
+    "team": "fabled",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Oops"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "O Narrador pode escolher o personagem de 1 ou mais jogadores."
+  },
 ]
