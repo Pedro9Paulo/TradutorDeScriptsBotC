@@ -2092,6 +2092,26 @@
     "setup": false,
     "ability": "A cada dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o Bem vence."
   },
+   {
+    "id": "princess_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/alsaahir.png",
+      "https://pedro9paulo.pythonanywhere.com/images/alsaahirReversed.png"],
+    "name": "Princesa",
+    "edition": "",
+    "team": "townsfolk",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["não mata"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Em seu primeiro dia, se você nomear & executar um jogador, o Demônio não mata esta noite.",
+    "jinxes": [
+      {"id": "cannibal_br", "reason": "Se o Canibal nomear & executar a Princesa, o Demônio não mata esta noite."},
+      {"id": "alhadikhia_br", "reason": "Se a Princesa nomear & executar um jogador, nignuém morre pela habilidade da Al-Hadikhia"}]
+  },
   {
     "id": "snitch_br",
     "image":[
