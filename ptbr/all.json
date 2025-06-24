@@ -1866,7 +1866,7 @@
       {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
       {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
       {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
-      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"},
+      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"}
     ]
   },
   {
@@ -2099,7 +2099,7 @@
     "setup": false,
     "ability": "A cada dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o Bem vence."
   },
-   {
+  {
     "id": "princess_br",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/princess.png",
@@ -2110,7 +2110,7 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 34,
-    "otherNightReminder": "",
+    "otherNightReminder": "Se a Princesa nomeu o jogar que foi executado hoje, o Demônio acorda normalmente, mas ninguém morre para a habilidade do Demônio.",
     "reminders": ["não mata"],
     "remindersGlobal": [],
     "setup": false,
