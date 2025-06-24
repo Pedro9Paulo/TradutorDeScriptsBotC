@@ -2111,7 +2111,7 @@
     "firstNightReminder": "",
     "otherNight": 34,
     "otherNightReminder": "Se a Princesa nomeu o jogar que foi executado hoje, o Demônio acorda normalmente, mas ninguém morre para a habilidade do Demônio.",
-    "reminders": ["não mata"],
+    "reminders": ["Não Mata"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "Em seu primeiro dia, se você nomear & executar um jogador, o Demônio não mata esta noite.",
