@@ -2044,7 +2044,8 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se encontra no sentido horário ou anti-horário. Se equidistantes, essa informação é arbitrária."
+    "ability": "Você começa sabendo se o jogador do mal mais próximo de você se encontra no sentido horário ou anti-horário. Se equidistantes, essa informação é arbitrária.",
+    "special": [{ "name": "card", "type": "signal", "value": "horário"}, { "name": "card", "type": "signal", "value": "anti-horário"}]
   },
   {
     "id": "villageidiot_br",
