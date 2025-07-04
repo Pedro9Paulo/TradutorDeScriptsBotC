@@ -1863,6 +1863,7 @@
     "jinxes": [
       {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
       {"id": "widow_br", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
+      {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."},
       {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
       {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
       {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
@@ -2653,6 +2654,25 @@
     "remindersGlobal": ["?", "?", "?", "?"],
     "setup": false,
     "ability": "Uma vez por jogo, escolha realizar um desejo. Se concedido, pode ter um preço e deixar uma pista de sua natureza."
+  },
+  {
+    "id": "wraith_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/wraith.png", 
+      "https://pedro9paulo.pythonanywhere.com/images/wraithReversed.png"],
+    "name": "Espectro",
+    "edition": "",
+    "team": "minion",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Você pode escolher abrir os olhos a noite. Você acorda quando outros jogadores do mal acordam.",
+    "jinx": [
+      {"id": "marionette_br", "reason": "O Espectro não acorda com a Marionete"}]
   },
   {
     "id": "lilmonsta_br",
