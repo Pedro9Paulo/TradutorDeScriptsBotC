@@ -2671,7 +2671,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você pode escolher abrir os olhos a noite. Você acorda quando outros jogadores do mal acordam.",
-    "jinx": [
+    "jinxes": [
       {"id": "marionette_br", "reason": "O Espectro não acorda com a Marionete"}]
   },
   {
