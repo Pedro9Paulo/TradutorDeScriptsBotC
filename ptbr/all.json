@@ -122,7 +122,7 @@
     "reminders": ["Morreu Hoje"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba qual personagem morreu por execução hoje."
+    "ability": "A cada noite*, aprenda qual personagem morreu por execução hoje."
   },
   {
     "id": "monk_br",
@@ -157,7 +157,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você morrer à noite, você é acordado para escolher um jogador: saiba o personagem dele.",
+    "ability": "Se você morrer à noite, você é acordado para escolher um jogador: aprenda o personagem dele.",
     "flavor": "Meus pássaros me vingarão! Voem, Voem, meus doces e obedientes bichos! Para a vila, para o rio! Para os becos e para os salões. Voem!"
   },
   {
@@ -1106,7 +1106,7 @@
     "reminders": ["Anormal", "Anormal", "Anormal", "Anormal", "Anormal", "Anormal", "Anormal"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, saiba quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens.",
+    "ability": "A cada noite, aprenda quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens.",
     "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado.",
     "jinxes": [
       {"id": "chambermaid_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
@@ -1146,7 +1146,7 @@
     "reminders": ["Lacaios Não Nomearam", "Lacaios Nomearam"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba se um Lacaio nomeou hoje.",
+    "ability": "A cada noite*, aprenda se um Lacaio nomeou hoje.",
     "flavor": "Ouçam! Ouçam! Feitiçaria no labirinto! Gênio prodígio revela tudo! A cidade corre perigo! Ouçam!"
   },
   {
@@ -1164,7 +1164,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, saiba quantos jogadores mortos são do mal.",
+    "ability": "A cada noite*, aprenda quantos jogadores mortos são do mal.",
     "flavor": "Apenas os escolhidos podem ver além do véu. Os mortos estão inquietos e apontam em silêncio ao gélido norte."
   },
   {
@@ -1182,7 +1182,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada dia, você pode visitar o Narrador para saber 2 coisas em segredo: 1 é verdadeira e 1 é falsa.",
+    "ability": "A cada dia, você pode visitar o Narrador para aprender 2 coisas em segredo: 1 é verdadeira e 1 é falsa.",
     "flavor": "Setenta e dois palitos de fósforo no chão... o sol se põe cedo, mas a lua permanece inalterada... um pedaço de pano rasgado... o mal prevalece na mansão... três a três... aquele em quem confiamos não é o que parece... luz verde significa magnésio... resíduo, mas o padrão está errado... setenta e dois palitos de fósforo no chão..."
   },
   {
@@ -1200,7 +1200,7 @@
     "reminders": ["Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): saiba se eles têm o mesmo alinhamento.",
+    "ability": "Uma vez por jogo, à noite, você pode escolher 2 jogadores (exceto você): aprenda se eles têm o mesmo alinhamento.",
     "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas, sabe?"
   },
   {
@@ -1273,7 +1273,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Se você for morto pelo Demônio, saiba que ele é 1 dentre 2 jogadores.",
+    "ability": "Se você for morto pelo Demônio, aprenda que ele é 1 dentre 2 jogadores.",
     "flavor": "Esses volumosos tomos guardam o segredo, certeza! Entre palavra e palavra, a verdade à espreita. Preciso de mais velas! Mais tinta! Estas anotações podem parecer arcanas, mas esse infernal quebra-cabeça está prestes a ser revelado."
   },
   {
@@ -1671,7 +1671,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, saiba qual time o Narrador acredita que está vencendo: Bem, Mal ou nenhum."
+    "ability": "A cada noite, aprenda qual time o Narrador acredita que está vencendo: Bem, Mal ou nenhum."
   },
   {
     "id": "preacher_br",
@@ -1773,7 +1773,7 @@
     "reminders": ["?", "?", "?"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você não sabe qual é a sua habilidade. A cada dia, visite o Narrador para tentar adivinhar a sua habilidade: saiba o quão perto está da resposta.",
+    "ability": "Você não sabe qual é a sua habilidade. A cada dia, visite o Narrador para tentar adivinhar a sua habilidade: aprenda o quão perto está da resposta.",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
@@ -1790,7 +1790,7 @@
     "otherNightReminder": "O Vigia Noturno pode escolher um jogador :reminder: coloque o Vigia Noturno para dormir. Acorde o jogador escolhido, mostre as fichas *ESSE JOGADOR É* e do Vigia Noturno e aponte para o Vigia Noturno.",
     "reminders": ["Sem Habilidade"],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele descobre que você é o Vigia Noturno."
+    "ability": "Uma vez por jogo, à noite, escolha um jogador: ele aprende que você é o Vigia Noturno."
   },
   {
     "id": "engineer_br",
@@ -1919,7 +1919,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Se o Demônio matar o Rei, descubra qual jogador é o Demônio. [+Rei]"
+    "ability": "Se o Demônio matar o Rei, apenda qual jogador é o Demônio. [+Rei]"
   },
   {
     "id": "poppygrower_br",
@@ -2063,7 +2063,7 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, escolha um jogador: saiba seu alinhamento. [+0 a +2 Idiotas da Aldeia. 1 dos extras está bêbado]",
+    "ability": "A cada noite, escolha um jogador: aprenda seu alinhamento. [+0 a +2 Idiotas da Aldeia. 1 dos extras está bêbado]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
@@ -2187,7 +2187,7 @@
     "reminders": ["Bêbado", "Chance Usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Um jogador está bêbado, mesmo se você estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, saiba quem é o Demônio. Do contrário, você recebe informação falsa."
+    "ability": "Um jogador está bêbado, mesmo se você estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, aprenda quem é o Demônio. Do contrário, você recebe informação falsa."
   },
   {
     "id": "heretic_br",
