@@ -1863,7 +1863,7 @@
     "jinxes": [
       {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
       {"id": "widow_br", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
-      {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."},
+      {"id": "wraith_br", "reason": "Um Alquimista-Espectro não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."},
       {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
       {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
       {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
@@ -1902,7 +1902,10 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "O Demônio pensa que você é um Lacaio. Lacaios pensam que você é um Demônio."
+    "ability": "O Demônio pensa que você é um Lacaio. Lacaios pensam que você é um Demônio.",
+    "jinxes": [
+      {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
+    ]
   },
   {
     "id": "choirboy_br",
@@ -2938,6 +2941,24 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Todos os jogadores começam sabendo um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
+  },
+  {
+    "id": "Cacklejack_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/cacklejack.png",
+      "https://pedro9paulo.pythonanywhere.com/images/cacklejackGood.png",
+      "https://pedro9paulo.pythonanywhere.com/images/cacklejackEvil.png"],
+    "name": "Zé Comédia",
+    "edition": "",
+    "team": "traveler",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Não troca"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "A cada dia escolha um jogador: um jogador diferente troca de personagem hoje a noite"
   },
   {
     "id": "sentinel_br",
