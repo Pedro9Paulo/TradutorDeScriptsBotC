@@ -2866,7 +2866,7 @@
       {"id": "marionette_br", "reason": "Se o Kazali escolhe criar uma Marionete, ele deve escolher um de seus vizinhos."},
       {"id": "huntsman_br", "reason": "Se o Kazali escolhe a Donzela para ser um Lacaio, e um Caçador está em jogo, um jogador do bem vira a Donzela."},
       {"id": "choirboy_br", "reason": "Kazali não pode escolher o Rei para virar um Lacaio se o Coroinha está em jogo."},
-      {"id": "soldier_br", "reason": "O Kazali pode escolher o Soldado com um de dos jogadores que será um Lacaio do mal."}
+      {"id": "soldier_br", "reason": "O Kazali pode escolher o Soldado com um dos jogadores que será um Lacaio do mal."}
     ]
   },
   {
