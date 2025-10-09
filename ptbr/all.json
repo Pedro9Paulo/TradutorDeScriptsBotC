@@ -8,13 +8,13 @@
     "edition": "tb",
     "team": "townsfolk",
     "firstNight": 46,
-    "firstNightReminder": "Mostre o token de personagem Cidadão. Aponte para os jogadores *CIDADÃO* e *ERRADO*.",
+    "firstNightReminder": "Mostre o token de personagem Aldeão. Aponte para os jogadores *Aldeão* e *ERRADO*.",
     "otherNight":  0,
     "otherNightReminder": "",
-    "reminders": ["Cidadão", "Errado"],
+    "reminders": ["Aldeão", "Errado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Cidadão específico.",
+    "ability": "Você começa sabendo que 1 dentre 2 jogadores é um Aldeão específico.",
     "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido!"
   },
   {
@@ -175,7 +175,7 @@
     "reminders": ["Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na 1ª vez que você é nomeado, se o nomeador for um Cidadão, ele é executado imediatamente.",
+    "ability": "Na 1ª vez que você é nomeado, se o nomeador for um Aldeão, ele é executado imediatamente.",
     "flavor": "Eu sou pura. Aqueles que não tiverem pecado se jogam e sofram no meu lugar. Minha reputação não será machada com suas acusações venenosas."
   },
   {
@@ -268,7 +268,7 @@
     "reminders": [],
     "remindersGlobal": ["Bêbado"],
     "setup": true,
-    "ability": "Você não sabe que é o Bêbado. Você acha que é um Cidadão, mas não é.",
+    "ability": "Você não sabe que é o Bêbado. Você acha que é um Aldeão, mas não é.",
     "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
     "flavor": "Eu só *ic* bebo socialmente, xuxu. Mas, realmente, sou bem *arroto* sociável."
   },
@@ -339,7 +339,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse do bem e um Cidadão ou Forasteiro, mesmo morto.",
+    "ability": "A cada noite, você vê o Grimório. Você pode ser registrado como se fosse do bem e um Aldeão ou Forasteiro, mesmo morto.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
@@ -404,7 +404,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite*, escolha um jogador: ele morre. Se você se matar desta forma, um Lacaio se torna Capeta.",
-    "flavor": "Nós devemos manter nossa mente afiada e a espada ainda mais. O mau anda entre nós, e não parará por nada até nos destruir, os cidadãos de bem, levando nossa bela cidade à ruína. Não confie em ninguém. Mas se for confiar em alguém, confie em mim."
+    "flavor": "Nós devemos manter nossa mente afiada e a espada ainda mais. O mau anda entre nós, e não parará por nada até nos destruir, os Aldeões de bem, levando nossa bela cidade à ruína. Não confie em ninguém. Mas se for confiar em alguém, confie em mim."
   },
   {
     "id": "bureaucrat_br",
@@ -656,7 +656,7 @@
     "reminders": ["Vivo", "Sem Habilidade"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Uma vez por jogo, à noite*, escolha um jogador morto: se ele for um Cidadão, é revivido.",
+    "ability": "Uma vez por jogo, à noite*, escolha um jogador morto: se ele for um Aldeão, é revivido.",
     "flavor": "O processo é simples. Anexe o confabulador hidráulico ao amplificador de matriz de chi modificado, adicione 20cc de pseudodorafina, mantenha os níveis de Z acima de 20%, e seu marido ficará bem. Aogra tudo que precisamos é de um raio."
   },
   {
@@ -957,13 +957,13 @@
     "edition": "bmr",
     "team": "traveler",
     "firstNight":  4,
-    "firstNightReminder": "Mostre ao aprendiz token *VOCÊ É* e um token de personagem de um Cidadão ou Lacaio. No Grimório, substitua o token do Aprendiz pelo token de personagem mostrado a ele. Marque-o com  'É O APRENDIZ'. :reminder:",
+    "firstNightReminder": "Mostre ao aprendiz token *VOCÊ É* e um token de personagem de um Aldeão ou Lacaio. No Grimório, substitua o token do Aprendiz pelo token de personagem mostrado a ele. Marque-o com  'É O APRENDIZ'. :reminder:",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["É o Aprendiz"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Na sua 1ª noite, você ganha uma habilidade de Cidadão (se for do bem), ou de Lacaio (se for do mal)."
+    "ability": "Na sua 1ª noite, você ganha uma habilidade de Aldeão (se for do bem), ou de Lacaio (se for do mal)."
   },
   {
     "id": "matron_br",
@@ -1460,11 +1460,11 @@
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight": 45,
-    "otherNightReminder": "O Vigormortis escolhe um jogador. :reminder: Se for um Lacaio, envenene um vizinho Cidadão. :reminder: :reminder:",
+    "otherNightReminder": "O Vigormortis escolhe um jogador. :reminder: Se for um Lacaio, envenene um vizinho Aldeão. :reminder: :reminder:",
     "reminders": ["Morto", "Envenenado", "Envenenado", "Envenenado", "Envenenado", "Habilidade Ativa", "Habilidade Ativa", "Habilidade Ativa", "Habilidade Ativa"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho Cidadão. [-1 Forasteiro].",
+    "ability": "A cada noite*, você escolhe um jogador: ele morre. Lacaios que você mata mantêm suas habilidades e envenenam um vizinho Aldeão. [-1 Forasteiro].",
     "flavor": "Todas as portas são uma só porta. Todas as chaves, uma só chave. Todos os cálices, um só cálice. E aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna."
   },
   {
@@ -1482,7 +1482,7 @@
     "reminders": ["Morto", "Envenenado", "Envenenado"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: ele morre. Seus dois vizinhos Cidadãos estão envenenados.",
+    "ability": "A cada noite*, escolha um jogador: ele morre. Seus dois vizinhos Aldeões estão envenenados.",
     "flavor": "Pelos pecados de Arnóbio, sinto o teu fétido odor. Pelo maldito sol e sua vil legião de deuses sorridentes, eu te corrompo. Pela noite sagrada e as profundezas ocultas do horrendo e profano mar, eu encerro tua miserável vida neste plano."
   },
   {
@@ -1500,7 +1500,7 @@
     "reminders": ["Morto"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Cidadãos geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
+    "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Aldeões geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
     "flavor": "A explicação é a confusão. A confusão é o esclarecimento. O esclarecimento é a obscuridade. A obscuridade é o seu guia. Siga-me! As respostas te encontrarão.",
     "jinxes": [
       {"id": "banshee_br", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}
@@ -1633,10 +1633,10 @@
     "reminders": ["Alvo"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, aprenda outro jogador do mal esta noite. [1 Cidadão é do mal]",
+    "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, aprenda outro jogador do mal esta noite. [1 Aldeão é do mal]",
     "jinxes": [
-      {"id": "philosopher_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Cidadão pode tornar-se mau"},
-      {"id": "kazali_br", "reason": "Um Cidadão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"}
+      {"id": "philosopher_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Aldeão pode tornar-se mau"},
+      {"id": "kazali_br", "reason": "Um Aldeão do Mau só é criado se o Mercenário ainda está em jogo após o Kazali agir"}
     ]
   },
   {
@@ -1648,13 +1648,13 @@
     "edition": "",
     "team": "townsfolk",
     "firstNight": 42,
-    "firstNightReminder": "Mostre o token de personagem do Cidadão marcado com *ALUCINANDO*.",
+    "firstNightReminder": "Mostre o token de personagem do Aldeão marcado com *ALUCINANDO*.",
     "otherNight":  0,
     "otherNightReminder": "",
     "reminders": ["Alucinando", "Habilidade Adquirida"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Você começa sabendo 1 personagem Cidadão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
+    "ability": "Você começa sabendo 1 personagem Aldeão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
   },
   {
     "id": "general_br",
@@ -1841,7 +1841,7 @@
     "reminders": ["Sem Habilidade"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "Uma vez por jogo, à noite, você pode escolher um jogador vivo: a Donzela, se escolhida, se torna um Cidadão que não estava em jogo. [+Donzela]"
+    "ability": "Uma vez por jogo, à noite, você pode escolher um jogador vivo: a Donzela, se escolhida, se torna um Aldeão que não estava em jogo. [+Donzela]"
   },
   {
     "id": "alchemist_br",
@@ -2293,7 +2293,7 @@
       {"id": "scarletwoman_br", "reason": "Se o Médico da Peste morrer, um lacaio vivo ganha a habilidade da Mulher Escarlate em adição a sua própria habilidade, e é avisado disso."},
       {"id": "boomdandy_br", "reason": "Se o Médico da Peste for executado e o Narrador ganharia a habilidade do Homem-Bomba, a habilidade do Homem-Bomba ativa imediatamente."},
       {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."},
-      {"id": "marionette_br", "reason": "Se o Demônio tiver um vizinho que esteja vivo e seja um Cidadão ou Forasteiro quando o Médico da Peste morrer, esse jogador se torna uma Marionete do mal. Se já houver um jogador mau extra, isso não acontece."}
+      {"id": "marionette_br", "reason": "Se o Demônio tiver um vizinho que esteja vivo e seja um Aldeão ou Forasteiro quando o Médico da Peste morrer, esse jogador se torna uma Marionete do mal. Se já houver um jogador mau extra, isso não acontece."}
     ]
   },
   {
@@ -2620,7 +2620,7 @@
       {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
       {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
       {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
-      {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Cidadão para ter essa habilidade no lugar."},
+      {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Aldeão para ter essa habilidade no lugar."},
       {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
     ]
   },
@@ -2639,7 +2639,7 @@
     "reminders": [],
     "remindersGlobal": ["Noite 1", "Noite 2", "Noite 3", "X"],
     "setup": true,
-    "ability": "Na X-ésima noite todos os Cidadãos são envenenados até o anoitecer. [X Forasteiros]"
+    "ability": "Na X-ésima noite todos os Aldeões são envenenados até o anoitecer. [X Forasteiros]"
   },
   {
     "id": "wizard_br",
