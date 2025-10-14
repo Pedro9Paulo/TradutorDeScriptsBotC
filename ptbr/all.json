@@ -369,8 +369,8 @@
     "setup": false,
     "ability": "Se há 5 ou mais jogadores vivos e o Demônio morrer, você se torna o Demônio. (Viajantes não contam.)",
     "jinxes": [
-      {"id": "alhadikhia_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."}
-      {"id": "fanggu_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."},
+      {"id": "alhadikhia_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."},
+      {"id": "fanggu_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."}
     ]
   },
   {
@@ -1640,7 +1640,7 @@
     "setup": true,
     "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, aprenda outro jogador do mal esta noite. [1 Aldeão é do mal]",
     "jinxes": [
-      {"id": "kazali_br", "reason": "Se o Kazali transforma o Mercenário num Lacaio, um Aldeão do mal não é criado."}
+      {"id": "kazali_br", "reason": "Se o Kazali transforma o Mercenário num Lacaio, um Aldeão do mal não é criado."},
       {"id": "philosopher_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Aldeão pode tornar-se mau"}
     ]
   },
@@ -1867,11 +1867,11 @@
     "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
       {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
-      {"id": "marionette_br", "reason": "Um Alquimista-Marionete não tem a habilidade da Marionete & há uma Marionete em jogo."}
+      {"id": "marionette_br", "reason": "Um Alquimista-Marionete não tem a habilidade da Marionete & há uma Marionete em jogo."},
       {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
       {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
       {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
-      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"}
+      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"},
       {"id": "widow_br", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
       {"id": "wraith_br", "reason": "Um Alquimista-Espectro não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
@@ -1912,9 +1912,9 @@
     "jinxes": [
       {"id": "legion_br", "reason": "O Mágico acorda junto com a Legião e pode registrar como do mau. A Legião sabe que há um Mágico em jogo, mas não sabe que jogador ele é."},
       {"id": "marionette_br", "reason": "Se o Mágico está vivo o Demônio não sabe qual de seus vizinhos é a Marionete."},
-      {"id": "spy", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."}
-      {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."}
-      {"id": "Viúva", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."}
+      {"id": "spy", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
+      {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
+      {"id": "Viúva", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
       {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
   },
@@ -2217,9 +2217,9 @@
     "setup": false,
     "ability": "Quem venceria perde e quem perderia vence, mesmo que você esteja morto.",
     "jinxes": [
-      {"id": "baron_br", "reason": "Apenas 1 desses personagens pode estar em jogo."}
+      {"id": "baron_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
       {"id": "godfather_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
-      {"id": "lleech_br", "reason": "Apenas 1 desses personagens pode estar em jogo."}
+      {"id": "lleech_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
       {"id": "pithag_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
       {"id": "spy_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
       {"id": "widow_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}
@@ -2294,11 +2294,11 @@
     "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio.",
     "jinxes": [
       {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."},
-      {"id": "boomdandy_br", "reason": "Se o Narrador ganharia a habilidade do Homem-Bomba, um jogador se transforma no Homem-Bomba."}
+      {"id": "boomdandy_br", "reason": "Se o Narrador ganharia a habilidade do Homem-Bomba, um jogador se transforma no Homem-Bomba."},
       {"id": "eviltwin_br", "reason": "Se o Narrador ganharia a habilidade da Gêmea Má, um jogador se transforma na Gêmea Má."},
       {"id": "fearmonger_br", "reason": "Se o Narrador ganharia a habilidade do Intimidador, um Lacaio ganha essa habilidade e sabe disso"},
       {"id": "goblin_br", "reason": "Se o Narrador ganharia a habilidade do Goblin, um Lacaio ganha essa habilidade e sabe disso."},
-      {"id": "marionette_br", "reason": "Se o Narrador ganharia a habilidade da Marionete, um dos vizinhos do bem do Demônio vira a Marionete."}
+      {"id": "marionette_br", "reason": "Se o Narrador ganharia a habilidade da Marionete, um dos vizinhos do bem do Demônio vira a Marionete."},
       {"id": "scarletwoman_br", "reason": "Se o Narrador ganharia a habilidade da Mulher Escarlate, um Lacaio ganha essa habilidade e sabe disso"},
       {"id": "spy_br", "reason": "Se o Narrador ganharia a habilidade do Espião, um Lacaio ganha essa habilidade e sabe disso."},
       {"id": "wraith_br", "reason": "Se o Narrador ganharia a habilidade do Espectro, um Lacaio ganha essa habilidade e sabe disso."}
@@ -2483,7 +2483,7 @@
     "jinxes": [
       {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro pode ter sido adicionado."},
       {"id": "huntsman_br", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."},
-      {"id": "kazali_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."}
+      {"id": "kazali_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
       {"id": "lilmonsta_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
       {"id": "summoner_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."}     
     ]
@@ -2542,8 +2542,8 @@
     "ability": "Todos os jogadores sabem que você é o Vizir. Você não pode morrer durante o dia. Se jogadores do bem votaram você pode escolher executar imediatamente.",
     "jinxes": [
       {"id": "alsaahir_br", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
-      {"id": "courtier_br", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."}
-      {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."}
+      {"id": "courtier_br", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
+      {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},
       {"id": "investigator_br", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
       {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
       {"id": "preacher_br", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
@@ -2697,7 +2697,7 @@
       {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar."},
       {"id": "magician_br", "reason": "Se o Mágico está vivo o Narrador escolhe que Lacaio será a babá."},
       {"id": "poppygrower_br", "reason": "Se o Monstrim e a Cultivadora estão vivos, os Lacaios acordam um por um, até um deles escolher ser a babá do Monstrim"},
-      {"id": "psychopath_br", "reason": "O Psicopata morre por execução enquanto for a babá do Monstrim."}
+      {"id": "psychopath_br", "reason": "O Psicopata morre por execução enquanto for a babá do Monstrim."},
       {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete será a babá do Monstrim pro resto do jogo."},
       {"id": "vizier_br", "reason": "O Vizir morre por execução enquanto for a babá do Monstrim."}   
     ]
@@ -2765,7 +2765,7 @@
       {"id": "engineer_br", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Engenheiro começa sabendo disso, mas não tem habilidade."},
       {"id": "hatter_br", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Chapeleiro começa sabendo disso, mas não tem habilidade."},
       {"id": "minstrel_br", "reason": "Se uma Legião morreu por execução, a Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
-      {"id": "politician_br", "reason": "O Político pode registrar como mau para Legião."}
+      {"id": "politician_br", "reason": "O Político pode registrar como mau para Legião."},
       {"id": "preacher_br", "reason": "Se o Pregador escolhe uma Legião, ela mantém sua habilidade, mas o Pregador pode saber que ela é uma Legião."},
       {"id": "summoner_br", "reason": "Se a Legião é invocada, todos os jogadores do mau viram Legião."},
       {"id": "zealot_br", "reason": "O Fanático pode registrar como mau para Legião."}
