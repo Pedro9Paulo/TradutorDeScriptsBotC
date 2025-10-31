@@ -2963,7 +2963,7 @@
   {
     "id": "sentinel_br",
     "image":[ 
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/sentinel.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/sentinel.png"],
     "name": "Sentinela",
     "edition": "",
     "team": "fabled",
@@ -2979,7 +2979,7 @@
   {
     "id": "spiritofivory_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/spiritofivory.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/spiritofivory.png"],
     "name": "Aura de Marfim",
     "edition": "",
     "team": "fabled",
@@ -2995,7 +2995,7 @@
   {
     "id": "djinn_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/djinn.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/djinn.png"],
     "name": "Gênio",
     "edition": "",
     "team": "fabled",
@@ -3027,7 +3027,7 @@
   {
     "id": "doomsayer_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/doomsayer.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/doomsayer.png"],
     "name": "Apocalíptico",
     "edition": "",
     "team": "fabled",
@@ -3043,7 +3043,7 @@
   {
     "id": "angel_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/angel.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/angel.png"],
     "name": "Anjo",
     "edition": "",
     "team": "fabled",
@@ -3059,7 +3059,7 @@
   {
     "id": "buddhist_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/buddhist.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/buddhist.png"],
     "name": "Budista",
     "edition": "",
     "team": "fabled",
@@ -3075,7 +3075,7 @@
   {
     "id": "toymaker_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/toymaker.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/toymaker.png"],
     "name": "Brincalhão",
     "edition": "",
     "team": "fabled",
@@ -3091,7 +3091,7 @@
   {
     "id": "duchess_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/duchess.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/duchess.png"],
     "name": "Duquesa",
     "edition": "",
     "team": "fabled",
@@ -3107,7 +3107,7 @@
   {
     "id": "fibbin_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fibbin.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fibbin.png"],
     "name": "Bufão",
     "edition": "",
     "team": "fabled",
@@ -3155,7 +3155,7 @@
   {
     "id": "fiddler_br",
     "image":[
-      "https://github.com/bra1n/townsquare/raw/develop/src/assets/icons/fiddler.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/fiddler.png"],
     "name": "Violinista",
     "edition": "",
     "team": "fabled",
