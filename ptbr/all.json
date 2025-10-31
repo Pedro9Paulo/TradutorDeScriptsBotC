@@ -3014,7 +3014,7 @@
       "https://pedro9paulo.pythonanywhere.com/images/stormcatcher.png"],
     "name": "Apanhador de Chuvas",
     "edition": "",
-    "team": "fabled",
+    "team": "loric",
     "firstNight":  1,
     "firstNightReminder": "No começo da noite, anuncie o personagem protegido pelo Apanhador de Chuvas. Se em jogo, marque-o com *PROTEGIDO*, acorde cada jogador do mal e aponte para tal jogador e mostre o token de personagem dele. Caso contrário acorda cada jogador do mal e mostre o token *ESSES PERSONAGENS NÃO ESTÃO EM JOGO* e o token do personagem.",
     "otherNight":  0,
