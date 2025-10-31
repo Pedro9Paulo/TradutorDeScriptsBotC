@@ -3175,7 +3175,7 @@
       "https://pedro9paulo.pythonanywhere.com/images/bootlegger.png"],
     "name": "Pirata",
     "edition": "",
-    "team": "fabled",
+    "team": "loric",
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight":  0,
@@ -3208,7 +3208,7 @@
       "https://pedro9paulo.pythonanywhere.com/images/gardener.png"],
     "name": "Jardineiro",
     "edition": "",
-    "team": "fabled",
+    "team": "loric",
     "firstNight":  0,
     "firstNightReminder": "",
     "otherNight":  0,
@@ -3234,5 +3234,37 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Uma vez por jogo, o Narrador cometerá um erro, irá corrigí-lo e admitir publicamente."
+  },
+  {
+    "id": "bigwig_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
+    "name": "Perucão",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Cada nomeado escolhe um jogador: até a votação, apenas ele pode falar & ele deve alucinar que o nomeado é bom or poderá morrer."
+  },
+  {
+    "id": "tor_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
+    "name": "Tor",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Jogadores não sabem seu personagem ou alinhamento, eles aprendem-no quando morrem."
   }
 ]
