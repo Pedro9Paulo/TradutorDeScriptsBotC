@@ -3238,7 +3238,7 @@
   {
     "id": "bigwig_br",
     "image":[
-      "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/bigwig.png"],
     "name": "Perucão",
     "edition": "",
     "team": "loric",
@@ -3254,7 +3254,7 @@
   {
     "id": "tor_br",
     "image":[
-      "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/tor.png"],
     "name": "Tor",
     "edition": "",
     "team": "loric",
@@ -3266,5 +3266,6 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Jogadores não sabem seu personagem ou alinhamento, eles aprendem-no quando morrem."
-  }
+  },
+  {}
 ]
