@@ -1990,7 +1990,7 @@
       {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal descobre disso."},
       {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
       {"id": "princess_br", "reason": "Se o Canibal nomear & executar a Princesa, o Demônio não mata esta noite."},
-      {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal descobre disso."},
+      {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal descobre disso."}
     ]
   },
   {
