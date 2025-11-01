@@ -1115,7 +1115,7 @@
       {"id": "chambermaid_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
       {"id": "drunk_br", "reason": "O Matemático pode saber se a habilidade do Bêbado gerou informação falsa ou não funcionou corretamente."},
       {"id": "lunatic_br", "reason": "O Matemático pode saber se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."},
-      {"id": "drunk_br", "reason": "O Matemático pode saber se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
+      {"id": "marionette_br", "reason": "O Matemático pode saber se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
     ]
   },
   {
