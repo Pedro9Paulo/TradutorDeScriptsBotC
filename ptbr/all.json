@@ -3267,5 +3267,21 @@
     "setup": false,
     "ability": "Jogadores não sabem seu personagem ou alinhamento, eles aprendem-no quando morrem."
   },
+  {
+    "id": "zenomancer_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/zenomancer.png"],
+    "name": "Zenomante",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Um ou mais jogadores têm um objetivo. Quando alançado, esse jogador aprende uma informação verdadeira."
+  },
   {}
 ]
