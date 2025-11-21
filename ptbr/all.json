@@ -2943,7 +2943,7 @@
     "ability": "Todos os jogadores começam sabendo um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
   },
   {
-    "id": "Cacklejack_br",
+    "id": "cacklejack_br",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/cacklejack.png",
       "https://pedro9paulo.pythonanywhere.com/images/cacklejackGood.png",
@@ -3264,7 +3264,7 @@
     "otherNightReminder": "",
     "reminders": [],
     "remindersGlobal": [],
-    "setup": false,
+    "setup": true,
     "ability": "Jogadores não sabem seu personagem ou alinhamento, eles aprendem-no quando morrem."
   },
   {

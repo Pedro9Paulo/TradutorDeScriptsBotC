@@ -15,11 +15,12 @@ def getTodos(f):
 	return todos
 
 # Função que a partir de um Json em inglês "f" e do dicionário com todos os papéis traduzidos "todos" monta um Json traduzido
-def montaJson(f, todos):
+def montaJson(f, todos, travellers):
 	try:
 		script = json.load(f)
 		f.close()
 		cenario = "[\n"
+		viajantes = False
 		for p in script:
 			if type(p) == type({}):
 				# Copia o meta (nome, autor, etc...) do script sem mudar nada
@@ -43,11 +44,20 @@ def montaJson(f, todos):
 					pid = p["id"].replace("_", "")
 					pid = pid.replace("-", "")
 					cenario += todos[pid] +",\n"
+					# Cheque de se há viajantes no cenário
+					if pid in travellers:
+						viajantes = True
 			else:
-				# Pega o id fo Json no formato novo
+				# Pega o id do Json no formato novo
 				pid = p.replace("_", "")
 				pid = pid.replace("-", "")
 				cenario += todos[pid] +",\n"
+				# Cheque de se há viajantes no cenário
+				if pid in travellers:
+					viajantes = True
+		if not viajantes:
+			for vid in travellers:
+				cenario += todos[vid] +",\n"
 		cenario = cenario[:-2]+"\n]"
 		return cenario
 	except Exception as erro:
