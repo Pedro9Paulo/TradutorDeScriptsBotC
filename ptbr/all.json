@@ -1433,7 +1433,7 @@
       {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},        
       {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."},
       {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
-      {"id": "villageidiot", "reason": "Se houver fichas de Idiota da Vila fora do jogo, A Bruxa do Fosso pode criar um Idiota da Vila. Neste caso, o Narrador pode mudar qual Idiota da Vila está bêbado."}
+      {"id": "villageidiot_br", "reason": "Se houver fichas de Idiota da Vila fora do jogo, A Bruxa do Fosso pode criar um Idiota da Vila. Neste caso, o Narrador pode mudar qual Idiota da Vila está bêbado."}
     ]
   },
   {
