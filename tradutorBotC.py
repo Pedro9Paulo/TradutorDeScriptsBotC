@@ -23,11 +23,31 @@ def findFile(*args):
 def tradutorBotC(*args):
 	f = open(resource_path("ptbr/all.json"), "r", encoding="utf-8")
 	todos = tradutor.getTodos(f)
+	viajantes = [
+		"bureaucrat",
+		"thief",
+		"gunslinger",
+		"scapegoat",
+		"beggar",
+		"apprentice",
+		"matron",
+		"judge",
+		"bishop",
+		"voudon",
+		"barista",
+		"harlot",
+		"butcher",
+		"bonecollector",
+		"deviant",
+		"gangster",
+		"gnome",
+		"cacklejack"
+	]
 	try:
 		# Traduz
 		filename = cenario_ingles.get()
 		arquivo = open(filename, "r", encoding="utf-8")
-		cenario = tradutor.montaJson(arquivo, todos)
+		cenario = tradutor.montaJson(arquivo, todos, viajantes)
 		# checa se ocorreu um erro na tradução
 		if type(cenario) != type("String"):
 			raise cenario
