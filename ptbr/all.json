@@ -1866,7 +1866,7 @@
     "ability": "Você possui a habilidade de um Lacaio. Ao usá-la, o Narrador pode solicitar que você faça uma escolha diferente.",
     "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
-      {"id": "Boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
+      {"id": "boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
       {"id": "marionette_br", "reason": "Um Alquimista-Marionete não tem a habilidade da Marionete & há uma Marionete em jogo."},
       {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
       {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
@@ -1912,9 +1912,9 @@
     "jinxes": [
       {"id": "legion_br", "reason": "O Mágico acorda junto com a Legião e pode registrar como do mau. A Legião sabe que há um Mágico em jogo, mas não sabe que jogador ele é."},
       {"id": "marionette_br", "reason": "Se o Mágico está vivo o Demônio não sabe qual de seus vizinhos é a Marionete."},
-      {"id": "spy", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
+      {"id": "spy_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
       {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
-      {"id": "Viúva", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
+      {"id": "widow_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
       {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
   },
