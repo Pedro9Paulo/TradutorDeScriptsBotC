@@ -3283,5 +3283,21 @@
     "setup": false,
     "ability": "Um ou mais jogadores têm um objetivo. Quando alançado, esse jogador aprende uma informação verdadeira."
   },
+  {
+    "id": "hindu_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/zenomancer.png"],
+    "name": "Hindu",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Os primeiros 4 jogadores a morrer imediatamente reencarnam como viajantes do mesmo alinhamento."
+  },
   {}
 ]
