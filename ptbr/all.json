@@ -3286,7 +3286,7 @@
   {
     "id": "hindu_br",
     "image":[
-      "https://pedro9paulo.pythonanywhere.com/images/zenomancer.png"],
+      "https://pedro9paulo.pythonanywhere.com/images/buddhist.png"],
     "name": "Hindu",
     "edition": "",
     "team": "loric",
@@ -3297,7 +3297,7 @@
     "reminders": [],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Os primeiros 4 jogadores a morrer imediatamente reencarnam como viajantes do mesmo alinhamento."
+    "ability": "Os primeiros 4 jogadores a morrerem imediatamente reencarnam como viajantes mantendo o alinhamento."
   },
   {}
 ]
