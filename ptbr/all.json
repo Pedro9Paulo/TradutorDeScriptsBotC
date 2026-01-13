@@ -3299,5 +3299,22 @@
     "setup": false,
     "ability": "Os primeiros 4 jogadores a morrerem imediatamente reencarnam como viajantes mantendo o  alinhamento."
   },
+  {
+    "id": "pope_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/hindu.png"],
+    "name": "Papa",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": true,
+    "ability": "Há personagens bons duplicados em jogo. Eles também podem ser blefes.",
+    "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
+  },
   {}
 ]
