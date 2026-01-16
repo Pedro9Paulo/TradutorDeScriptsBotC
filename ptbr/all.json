@@ -1779,7 +1779,7 @@
     "remindersGlobal": [],
     "setup": false,
     "ability": "Você não sabe qual é a sua habilidade. A cada dia, visite o Narrador para tentar adivinhar a sua habilidade: aprenda o quão perto está da resposta.",
-    "special": [{ "name": "bag-duplicate", "type": "selection"}]
+    "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {
     "id": "nightwatchman_br",
@@ -1968,7 +1968,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "O Narrador pode quebrar as regras do jogo e, se executado, o Bem ganha, mesmo que você esteja morto. [Sem personagens do mal]",
-    "special": [{ "name": "bag-duplicate", "type": "selection"}]
+    "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {
     "id": "cannibal_br",
@@ -3314,7 +3314,7 @@
     "remindersGlobal": [],
     "setup": true,
     "ability": "Há personagens bons duplicados em jogo. Eles também podem ser blefes.",
-    "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
+    "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {}
 ]
