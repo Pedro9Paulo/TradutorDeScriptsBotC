@@ -3316,5 +3316,21 @@
     "ability": "Há personagens bons duplicados em jogo. Eles também podem ser blefes.",
     "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
+  {
+    "id": "ventriloquist_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/ventriloquist.png"],
+    "name": "Ventríloquo",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Se um jogador está alucinando ser um personagem novo em sua nomeação, ele pode não morrer ao ser executado hoje."
+  },
   {}
 ]
