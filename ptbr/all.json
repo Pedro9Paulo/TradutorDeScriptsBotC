@@ -2620,7 +2620,7 @@
       {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
       {"id": "heretic_br", "reason": "O Demônio não pode ter a habilidade do Herege"},
       {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
-      {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Polítco."},
+      {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Político."},
       {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
     ]
   },
