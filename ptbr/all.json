@@ -3362,7 +3362,7 @@
     "reminders": ["Chapéu"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Um Chapéu de Uga. Quando usa chapéu de Uga fala dois som por vez, mas vota duas vezes. Se falha, passa Chapéu de Uga.",
+    "ability": "Um Chapéu de Uga. Quando usa chapéu de Uga fala até dois som por vez, mas vota duas vezes. Se falha, passa Chapéu de Uga.",
     "special": [{ "name": "multiplier", "type": "vote", "value":2}],
   },
   {}
