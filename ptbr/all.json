@@ -3332,5 +3332,38 @@
     "setup": false,
     "ability": "Se um jogador está alucinando ser um personagem novo em sua nomeação, ele pode não morrer ao ser executado hoje."
   },
+  {
+    "id": "knaves_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/knaves.png"],
+    "name": "Jobs/Knaves/Valete",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Há 2 Narradores: 1 mente & outro fala a verdade. Uma vez por jogo ao anoitecer, eles podem trocar."
+  },
+  {
+    "id": "godofug_br",
+    "image":[
+      "https://pedro9paulo.pythonanywhere.com/images/godofug.png"],
+    "name": "Deus dos Ugas",
+    "edition": "",
+    "team": "loric",
+    "firstNight":  0,
+    "firstNightReminder": "",
+    "otherNight":  0,
+    "otherNightReminder": "",
+    "reminders": ["Chapéu"],
+    "remindersGlobal": [],
+    "setup": false,
+    "ability": "Um Chapéu de Uga. Quando usa chapéu de Uga fala dois som por vez, mas vota duas vezes. Se falha, passa Chapéu de Uga.",
+    "special": [{ "name": "multiplier", "type": "vote", "value":2}],
+  },
   {}
 ]
