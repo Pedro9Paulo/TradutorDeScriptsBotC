@@ -2240,7 +2240,7 @@
     "reminders": ["Chance Usada"],
     "remindersGlobal": [],
     "setup": false,
-    "ability": "Todos os Lacaios sabem que uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar quem é você. Se conseguir, seu time perde."
+    "ability": "Todos os Lacaios sabem que uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar publicamente quem é você. Se conseguir, seu time perde."
   },
   {
     "id": "golem_br",
