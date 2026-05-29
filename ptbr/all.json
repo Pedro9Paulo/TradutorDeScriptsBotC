@@ -1915,7 +1915,7 @@
       {"id": "spy_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
       {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
       {"id": "widow_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
-      {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
+      {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Mágico pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
   },
   {
