@@ -1113,9 +1113,9 @@
     "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado.",
     "jinxes": [
       {"id": "chambermaid_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
-      {"id": "drunk_br", "reason": "O Matemático pode saber se a habilidade do Bêbado gerou informação falsa ou não funcionou corretamente."},
-      {"id": "lunatic_br", "reason": "O Matemático pode saber se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."},
-      {"id": "marionette_br", "reason": "O Matemático pode saber se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
+      {"id": "drunk_br", "reason": "O Matemático sabe se a habilidade do Bêbado gerou informação falsa ou não funcionou corretamente."},
+      {"id": "lunatic_br", "reason": "O Matemático sabe se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."},
+      {"id": "marionette_br", "reason": "O Matemático sabe se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
     ]
   },
   {
@@ -1910,7 +1910,7 @@
     "setup": false,
     "ability": "O Demônio pensa que você é um Lacaio. Lacaios pensam que você é um Demônio.",
     "jinxes": [
-      {"id": "legion_br", "reason": "O Mágico acorda junto com a Legião e pode registrar como do mau. A Legião sabe que há um Mágico em jogo, mas não sabe que jogador ele é."},
+      {"id": "legion_br", "reason": "Se o Mágico está em jogo, a Legião acorda em grupos separados, cada grupo aprende que jogadores são do bem, com exceção do Mágico."},
       {"id": "marionette_br", "reason": "Se o Mágico está vivo o Demônio não sabe qual de seus vizinhos é a Marionete."},
       {"id": "spy_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
       {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
