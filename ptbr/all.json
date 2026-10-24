@@ -2077,7 +2077,7 @@
     "reminders": ["Bêbado"],
     "remindersGlobal": [],
     "setup": true,
-    "ability": "A cada noite, escolha um jogador: aprenda seu alinhamento. [+0 a +2 Idiotas da Aldeia. 1 dos extras está bêbado]",
+    "ability": "A cada noite, escolha um jogador: aprenda seu alinhamento. [+0 a +2 Idiotas da Vila. 1 dos extras está bêbado]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
@@ -2562,7 +2562,7 @@
     "firstNightReminder": "A Harpia escolhe 2 jogadores. :reminder: :reminder: Coloque-a para dormir. Acorde o 1º alvo e mostre os tokens da Harpia e *ESTE PERSONAGEM TE ESCOLHEU*, e então aponte para o 2º alvo.",
     "otherNight": 27,
     "otherNightReminder": "A Harpia escolhe 2 jogadores. :reminder: :reminder: Coloque-a para dormir. Acorde o 1º alvo e mostre os tokens da Harpia e *ESTE PERSONAGEM TE ESCOLHEU*, e então aponte para o 2º alvo.",
-    "reminders": ["Alucinado", "2º"],
+    "reminders": ["Alucinando", "2º"],
     "remindersGlobal": [],
     "setup": false,
     "ability": "A cada noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer."
