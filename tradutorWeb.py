@@ -12,7 +12,7 @@ def traduz(script):
         todosList[i] = "  {"+todosList[i]
     todos = {}
     for p in todosList:
-        idi = p.find("_br")
+        idi = p.find('br"')
         todos[p[15:idi]] = p
 
     try:

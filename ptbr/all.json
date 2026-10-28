@@ -1,6 +1,6 @@
 [
   {
-    "id": "washerwoman_br",
+    "id": "washerwomanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/washerwoman.png",
       "https://pedro9paulo.pythonanywhere.com/images/washerwomanReversed.png"],
@@ -18,7 +18,7 @@
     "flavor": "Manchas de sangue em um terno? Não, isto é vinagre. Que descuido!"
   },
   {
-    "id": "librarian_br",
+    "id": "librarianbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/librarian.png",
       "https://pedro9paulo.pythonanywhere.com/images/librarianReversed.png"],
@@ -36,7 +36,7 @@
     "flavor": "Certamente, madame. Em circunstâncias normais, você poderia retirar o Códice Malifacarium da biblioteca. No entanto, parece que a senhora não é uma associada."
   },
   {
-    "id": "investigator_br",
+    "id": "investigatorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/investigator.png",
       "https://pedro9paulo.pythonanywhere.com/images/investigatorReversed.png"],
@@ -54,7 +54,7 @@
     "flavor": "É uma noite excelente para um passeio, não, Senhor Morozov? Ou devo dizer... BARÃO Morozov?"
   },
   {
-    "id": "chef_br",
+    "id": "chefbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/chef.png",
       "https://pedro9paulo.pythonanywhere.com/images/chefReversed.png"],
@@ -72,7 +72,7 @@
     "flavor": "As reservas desta noite parecem estranhas. Nunca antes a senhorita Castelo fez companhia àquele patife da Alameda Santos. No entanto, esta noite, eles reservaram uma mesa para dois. Peculiar. "
   },
   {
-    "id": "empath_br",
+    "id": "empathbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/empath.png",
       "https://pedro9paulo.pythonanywhere.com/images/empathReversed.png"],
@@ -90,7 +90,7 @@
     "flavor": "Minha pele formiga. Algo não está certo. Eu posso sentir."
   },
   {
-    "id": "fortuneteller_br",
+    "id": "fortunetellerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fortuneteller.png",
       "https://pedro9paulo.pythonanywhere.com/images/fortunetellerReversed.png"],
@@ -108,7 +108,7 @@
     "flavor": "Eu percebo um grande mal na sua alma! Mas... pode ser apenas seu perfume. Eu sou alérgica a sabugueiro."
   },
   {
-    "id": "undertaker_br",
+    "id": "undertakerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/undertaker.png",
       "https://pedro9paulo.pythonanywhere.com/images/undertakerReversed.png"],
@@ -125,7 +125,7 @@
     "ability": "A cada noite*, aprenda qual personagem morreu por execução hoje."
   },
   {
-    "id": "monk_br",
+    "id": "monkbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/monk.png",
       "https://pedro9paulo.pythonanywhere.com/images/monkReversed.png"],
@@ -143,7 +143,7 @@
     "flavor": "Um vento doente e letal que sopra essa noite. Venha, irmão, abrigue-se na abadia até a tempestade passar. Dou a minha palavra e minha vida que você estará seguro."
   },
   {
-    "id": "ravenkeeper_br",
+    "id": "ravenkeeperbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/ravenkeeper.png",
       "https://pedro9paulo.pythonanywhere.com/images/ravenkeeperReversed.png"],
@@ -161,7 +161,7 @@
     "flavor": "Meus pássaros me vingarão! Voem, Voem, meus doces e obedientes bichos! Para a vila, para o rio! Para os becos e para os salões. Voem!"
   },
   {
-    "id": "virgin_br",
+    "id": "virginbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/virgin.png",
       "https://pedro9paulo.pythonanywhere.com/images/virginReversed.png"],
@@ -179,7 +179,7 @@
     "flavor": "Eu sou pura. Aqueles que não tiverem pecado se jogam e sofram no meu lugar. Minha reputação não será machada com suas acusações venenosas."
   },
   {
-    "id": "slayer_br",
+    "id": "slayerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/slayer.png",
       "https://pedro9paulo.pythonanywhere.com/images/slayerReversed.png"],
@@ -197,7 +197,7 @@
     "flavor": "Morra."
   },
   {
-    "id": "soldier_br",
+    "id": "soldierbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/soldier.png",
       "https://pedro9paulo.pythonanywhere.com/images/soldierReversed.png"],
@@ -215,7 +215,7 @@
     "flavor": "Como Davi disse a Goliás, como Teseu disse ao Minoutauro, como Arjuna disse a Bagavadeguitá... não."
   },
   {
-    "id": "mayor_br",
+    "id": "mayorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/mayor.png",
       "https://pedro9paulo.pythonanywhere.com/images/mayorReversed.png"],
@@ -233,7 +233,7 @@
     "flavor": "Nós devemos deixar nossas diferenças de lado e parar com esta chacina! Nós todos pagamos imposto, afinal. Bem, a maioria de nós."
   },
   {
-    "id": "butler_br",
+    "id": "butlerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/butler.png",
       "https://pedro9paulo.pythonanywhere.com/images/butlerReversed.png"],
@@ -250,11 +250,11 @@
     "ability": "A cada noite, escolha um jogador (exceto você): amanhã, você só poderá votar enquanto ele estiver votando também.",
     "flavor": "Sim, senhor...\n Não, senhor...\n Certamente, senhor.",
     "jinxes": [
-      {"id": "organgrinder_br", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."}
+      {"id": "organgrinderbr", "reason": "Se o Realejo está causando uma votação de olhos fechados, o Mordomo pode levantar a mão, mas seu voto só será contado se seu mestre votar."}
     ]
   },
   {
-    "id": "drunk_br",
+    "id": "drunkbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/drunk.png",
       "https://pedro9paulo.pythonanywhere.com/images/drunkReversed.png"],
@@ -273,7 +273,7 @@
     "flavor": "Eu só *ic* bebo socialmente, xuxu. Mas, realmente, sou bem *arroto* sociável."
   },
   {
-    "id": "recluse_br",
+    "id": "reclusebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/recluse.png",
       "https://pedro9paulo.pythonanywhere.com/images/recluseReversed.png"],
@@ -289,12 +289,12 @@
     "setup": false,
     "ability": "Você pode ser registrado como se fosse do mal e um Demônio ou Lacaio, mesmo quando morto.",
     "jinxes":[
-      {"id": "ogre_br", "reason": "Se o Recluso for registrado como mau para o Ogro, o Ogro descobre que se tornou mau."},
-      {"id": "sage_br", "reason": "O Recluso pode registrar como mau para o Sábio."}
+      {"id": "ogrebr", "reason": "Se o Recluso for registrado como mau para o Ogro, o Ogro descobre que se tornou mau."},
+      {"id": "sagebr", "reason": "O Recluso pode registrar como mau para o Sábio."}
     ]
   },
   {
-    "id": "saint_br",
+    "id": "saintbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/saint.png",
       "https://pedro9paulo.pythonanywhere.com/images/saintReversed.png"],
@@ -311,7 +311,7 @@
     "ability": "Se você morrer por execução, o seu time perde."
   },
   {
-    "id": "poisoner_br",
+    "id": "poisonerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/poisoner.png",
       "https://pedro9paulo.pythonanywhere.com/images/poisonerReversed.png"],
@@ -329,7 +329,7 @@
     "flavor": "Adicione o composto alfa no composto beta... NÃO, NÃO TUDO ISSO!"
   },
   {
-    "id": "spy_br",
+    "id": "spybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/spy.png",
       "https://pedro9paulo.pythonanywhere.com/images/spyReversed.png"],
@@ -347,13 +347,13 @@
     "special": [{ "name": "grimoire", "type": "signal", "time": "night"}],
     "flavor": "Qualquer mestre de poções que vale seu licor sabe que nenhuma mistura despeja encrenca mais rápido que aquela que espiões aparecem em dobro.",
     "jinxes": [
-      {"id": "damsel_br", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
-      {"id": "ogre_br", "reason": "O Espião é registrado como mau para o Ogro."},
-      {"id": "poppygrower_br", "reason": "Se a Cultivadora tem sua habilidade o Espião não vê o Grimório."}
+      {"id": "damselbr", "reason": "Se o Espião está (ou esteve) em jogo a Donzela está envenenada."},
+      {"id": "ogrebr", "reason": "O Espião é registrado como mau para o Ogro."},
+      {"id": "poppygrowerbr", "reason": "Se a Cultivadora tem sua habilidade o Espião não vê o Grimório."}
     ]
   },
   {
-    "id": "scarletwoman_br",
+    "id": "scarletwomanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/scarletwoman.png",
       "https://pedro9paulo.pythonanywhere.com/images/scarletwomanReversed.png"],
@@ -369,12 +369,12 @@
     "setup": false,
     "ability": "Se há 5 ou mais jogadores vivos e o Demônio morrer, você se torna o Demônio. (Viajantes não contam.)",
     "jinxes": [
-      {"id": "alhadikhia_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."},
-      {"id": "fanggu_br", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."}
+      {"id": "alhadikhiabr", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."},
+      {"id": "fanggubr", "reason": "Se há dois Demônios, e um deles era a Mulher Escarlate, ela volta a ser a Mulher Escarlate."}
     ]
   },
   {
-    "id": "baron_br",
+    "id": "baronbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/baron.png",
       "https://pedro9paulo.pythonanywhere.com/images/baronReversed.png"],
@@ -392,7 +392,7 @@
     "flavor": "Essa cidade está só o pó, oi? Mão de obra imigrante barata... esta é a solução. Eu digo, Joguem-nos nas minas. Um pouco de trabalho duro nunca fez mal a ninguém e uns cascudos em qualquer marginal que disser o contrário. No final é sobre renda, oi?"
   },
   {
-    "id": "imp_br",
+    "id": "impbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/imp.png",
       "https://pedro9paulo.pythonanywhere.com/images/impReversed.png"],
@@ -410,7 +410,7 @@
     "flavor": "Nós devemos manter nossa mente afiada e a espada ainda mais. O mau anda entre nós, e não parará por nada até nos destruir, os Aldeões de bem, levando nossa bela cidade à ruína. Não confie em ninguém. Mas se for confiar em alguém, confie em mim."
   },
   {
-    "id": "bureaucrat_br",
+    "id": "bureaucratbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bureaucrat.png",
       "https://pedro9paulo.pythonanywhere.com/images/bureaucratGood.png",
@@ -430,7 +430,7 @@
     "flavor": "Assine aqui por favor. E aqui. E aqui. Eeeee Aqui também. Isso deve ser classificado e contabilizado até o fim do dia, Supondo que todas as assinaturas são legíveis. Faz tempo que não temos um erro na papelada. Ontem ao meio-dia, se não me falha a memória..."
   },
   {
-    "id": "thief_br",
+    "id": "thiefbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/thief.png",
       "https://pedro9paulo.pythonanywhere.com/images/thiefGood.png",
@@ -449,7 +449,7 @@
     "special": [{ "name": "multiplier", "type": "vote", "value":-1}]
   },
   {
-    "id": "gunslinger_br",
+    "id": "gunslingerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gunslinger.png",
       "https://pedro9paulo.pythonanywhere.com/images/gunslingerGood.png",
@@ -468,7 +468,7 @@
     "flavor": "Já é hora de alguém fazer justiça com as próprias mãos. Esse alguém... sou eu."
   },
   {
-    "id": "scapegoat_br",
+    "id": "scapegoatbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/scapegoat.png",
       "https://pedro9paulo.pythonanywhere.com/images/scapegoatGood.png",
@@ -486,7 +486,7 @@
     "ability": "Se um jogador do seu alinhamento seria executado, você pode ser executado em vez disso."
   },
   {
-    "id": "beggar_br",
+    "id": "beggarbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/beggar.png",
       "https://pedro9paulo.pythonanywhere.com/images/beggarGood.png",
@@ -505,7 +505,7 @@
     "flavor": "Esmola para os pobres, bom senhor? Um trocado madame? Obrigado, Deus te abençoe! Você tem uma alma boa e não se engane! Vou comer um rango chique essa noite, a se vou!"
   },
   {
-    "id": "grandmother_br",
+    "id": "grandmotherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/grandmother.png",
       "https://pedro9paulo.pythonanywhere.com/images/grandmotherReversed.png"],
@@ -523,7 +523,7 @@
     "flavor": "Leve um casaquinho se for sair, querido. E uma água. E seu guarda-chuva. Sabe, meu coração é fraco. Ai, não sei o que faria se você pegar um resfriado... ou pior?"
   },
   {
-    "id": "sailor_br",
+    "id": "sailorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/sailor.png",
       "https://pedro9paulo.pythonanywhere.com/images/sailorReversed.png"],
@@ -540,7 +540,7 @@
     "ability": "A cada noite, escolha um jogador vivo: um de vocês fica bêbado até o anoitecer. Você não pode morrer."
   },
   {
-    "id": "chambermaid_br",
+    "id": "chambermaidbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/chambermaid.png",
       "https://pedro9paulo.pythonanywhere.com/images/chambermaidReversed.png"],
@@ -557,7 +557,7 @@
     "ability": "A cada noite, escolha 2 jogadores vivos (exceto você): aprenda quantos deles acordaram esta noite pelas próprias habilidades."
   },
   {
-    "id": "exorcist_br",
+    "id": "exorcistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/exorcist.png",
       "https://pedro9paulo.pythonanywhere.com/images/exorcistReversed.png"],
@@ -574,7 +574,7 @@
     "ability": "A cada noite*, escolha um jogador (exceto o da noite anterior): o Demônio, se escolhido, descobre quem você é e não age esta noite."
   },
   {
-    "id": "innkeeper_br",
+    "id": "innkeeperbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/innkeeper.png",
       "https://pedro9paulo.pythonanywhere.com/images/innkeeperReversed.png"],
@@ -591,7 +591,7 @@
     "ability": "A cada noite*, escolha 2 jogadores: eles não podem morrer esta noite, mas um deles fica bêbado até o anoitecer."
   },
   {
-    "id": "gambler_br",
+    "id": "gamblerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gambler.png",
       "https://pedro9paulo.pythonanywhere.com/images/gamblerReversed.png"],
@@ -609,7 +609,7 @@
     "flavor": "Cara eu venço. Coroa você perde."
   },
   {
-    "id": "gossip_br",
+    "id": "gossipbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gossip.png",
       "https://pedro9paulo.pythonanywhere.com/images/gossipReversed.png"],
@@ -627,7 +627,7 @@
     "flavor": "Blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá blá. Blá."
   },
   {
-    "id": "courtier_br",
+    "id": "courtierbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/courtier.png",
       "https://pedro9paulo.pythonanywhere.com/images/courtierReversed.png"],
@@ -645,7 +645,7 @@
     "flavor": "Tenho mais medo de um exército de cem ovelhas liderados por um leão do que um exército de cem leões liderados por uma ovelha."
   },
   {
-    "id": "professor_br",
+    "id": "professorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/professor.png",
       "https://pedro9paulo.pythonanywhere.com/images/professorReversed.png"],
@@ -663,7 +663,7 @@
     "flavor": "O processo é simples. Anexe o confabulador hidráulico ao amplificador de matriz de chi modificado, adicione 20cc de pseudodorafina, mantenha os níveis de Z acima de 20%, e seu marido ficará bem. Aogra tudo que precisamos é de um raio."
   },
   {
-    "id": "minstrel_br",
+    "id": "minstrelbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/minstrel.png",
       "https://pedro9paulo.pythonanywhere.com/images/minstrelReversed.png"],
@@ -680,7 +680,7 @@
     "ability": "Quando um Lacaio morre por execução, todos os outros jogadores (exceto Viajantes) ficam bêbados até o anoitecer de amanhã."
   },
   {
-    "id": "tealady_br",
+    "id": "tealadybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/tealady.png",
       "https://pedro9paulo.pythonanywhere.com/images/tealadyReversed.png"],
@@ -698,7 +698,7 @@
     "flavor": "Se você está com frio, o chá irá te aquecer. Se você está muito quente, o chá irá te refrescar. Se você está depressivo o chá irá te animar. Se você está nervoso, o chá irá te acalmar."
   },
   {
-    "id": "pacifist_br",
+    "id": "pacifistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/pacifist.png",
       "https://pedro9paulo.pythonanywhere.com/images/pacifistReversed.png"],
@@ -716,7 +716,7 @@
     "flavor": "Desconfie de todos os quais o impulso de punir é forte."
   },
   {
-    "id": "fool_br",
+    "id": "foolbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fool.png",
       "https://pedro9paulo.pythonanywhere.com/images/foolReversed.png"],
@@ -733,7 +733,7 @@
     "ability": "Na 1ª vez que você for morrer, você não morre."
   },
   {
-    "id": "tinker_br",
+    "id": "tinkerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/tinker.png",
       "https://pedro9paulo.pythonanywhere.com/images/tinkerReversed.png"],
@@ -751,7 +751,7 @@
     "flavor": "Acho que encontrei o problema. Por sorte, tenho uma ideia! Essa catapulta vai atirar duas vezes mais longe com esse pequeno ajuste."
   },
   {
-    "id": "moonchild_br",
+    "id": "moonchildbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/moonchild.png",
       "https://pedro9paulo.pythonanywhere.com/images/moonchildReversed.png"],
@@ -768,7 +768,7 @@
     "ability": "Quando você souber que morreu, escolha publicamente 1 jogador vivo. Esta noite, se o jogador escolhido era do bem, ele morre."
   },
   {
-    "id": "goon_br",
+    "id": "goonbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/goon.png",
       "https://pedro9paulo.pythonanywhere.com/images/goonReversed.png"],
@@ -785,7 +785,7 @@
     "ability": "A cada noite, o 1º jogador que escolher você com a própria habilidade fica bêbado até o anoitecer. Você passa a ter o mesmo alinhamento que ele."
   },
   {
-    "id": "lunatic_br",
+    "id": "lunaticbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/lunatic.png",
       "https://pedro9paulo.pythonanywhere.com/images/lunaticReversed.png"],
@@ -804,7 +804,7 @@
     "flavor": "Eu sou a noite... eu acho."
   },
   {
-    "id": "godfather_br",
+    "id": "godfatherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/godfather.png",
       "https://pedro9paulo.pythonanywhere.com/images/godfatherReversed.png"],
@@ -822,7 +822,7 @@
     "flavor": "Normalmente, são apenas negócios. Mas quando você insulta minha filha, você insulta a mim. E quando você me insulta, você insulta minha família. Você realmente deveria ter mais cuidado - seria uma pena se você sofresse um acidente infeliz."
   },
   {
-    "id": "devilsadvocate_br",
+    "id": "devilsadvocatebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/devilsadvocate.png",
       "https://pedro9paulo.pythonanywhere.com/images/devilsadvocateReversed.png"],
@@ -840,7 +840,7 @@
     "flavor": "Meu cliente, a objeção deve ser indeferida, pleite inocência pela natureza da inobservância da acusação do estatuto 27b - conjugação do verbo incorreta ou ludibriosa. O fato que nove membros do juri morreram ontem a noite é simplesmente a prima facie, ou seja, como Will vs Tina criou o precedente para, é apenas mais motivos para absolvê-lo."
   },
   {
-    "id": "assassin_br",
+    "id": "assassinbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/assassin.png",
       "https://pedro9paulo.pythonanywhere.com/images/assassinReversed.png"],
@@ -858,7 +858,7 @@
     "flavor": "..."
   },
   {
-    "id": "mastermind_br",
+    "id": "mastermindbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/mastermind.png",
       "https://pedro9paulo.pythonanywhere.com/images/mastermindReversed.png"],
@@ -875,11 +875,11 @@
     "ability": "Se o jogo terminaria com a morte por execução do Demônio, jogue por mais 1 dia. Se então um jogador for executado, o time dele perde.",
     "flavor": "Os tentáculos daquele monstro estão pregados na porta da igreja. Mães e crianças estão dançando nas ruas. Excelente. Tudo está indo de como planejei.",
     "jinxes": [
-      {"id": "vigormortis_br", "reason": "Um Mentor que ainda tem sua habilidade, mantem-na se o Vigormortis morrer."}
+      {"id": "vigormortisbr", "reason": "Um Mentor que ainda tem sua habilidade, mantem-na se o Vigormortis morrer."}
     ]
   },
   {
-    "id": "zombuul_br",
+    "id": "zombuulbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/zombuul.png",
       "https://pedro9paulo.pythonanywhere.com/images/zombuulReversed.png"],
@@ -897,7 +897,7 @@
     "flavor": "Eu não. Entendo. Seu jeito. Meu compatriota humano. Me mostre. A terra. Onde o sagrado. Encontrasse. Deitado. Eu também. Devo Dormir. Em breve."
   },
   {
-    "id": "pukka_br",
+    "id": "pukkabr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/pukka.png",
       "https://pedro9paulo.pythonanywhere.com/images/pukkaReversed.png"],
@@ -915,7 +915,7 @@
     "flavor": "Você tem sido muito gentil me recebendo na sua linda casa. Sinto muitíssimo por ter acidentalmente arranhado você. Coisa pouca. Não importa. Mas por favor, tome esse palito de dente dourado como uma humilde demonstração do meu arrependimento."
   },
   {
-    "id": "shabaloth_br",
+    "id": "shabalothbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/shabaloth.png",
       "https://pedro9paulo.pythonanywhere.com/images/shabalothReversed.png"],
@@ -933,7 +933,7 @@
     "flavor": "Blarg f'taag nm mataan! No sho gumtha m'sik na yuuu. Fluuuuuuuuurg h-sikkkh."
   },
   {
-    "id": "po_br",
+    "id": "pobr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/po.png",
       "https://pedro9paulo.pythonanywhere.com/images/poReversed.png"],
@@ -951,7 +951,7 @@
     "flavor": "Aceitas uma flor? estou tão sozinho."
   },
   {
-    "id": "apprentice_br",
+    "id": "apprenticebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/apprentice.png",
       "https://pedro9paulo.pythonanywhere.com/images/apprenticeGood.png",
@@ -969,7 +969,7 @@
     "ability": "Na sua 1ª noite, você ganha uma habilidade de Aldeão (se for do bem), ou de Lacaio (se for do mal)."
   },
   {
-    "id": "matron_br",
+    "id": "matronbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/matron.png",
       "https://pedro9paulo.pythonanywhere.com/images/matronGood.png",
@@ -987,7 +987,7 @@
     "ability": "A cada dia, você pode escolher até 3 duplas de 2 jogadores para trocarem de lugar. Jogadores não podem sair de seus lugares para falar em particular."
   },
   {
-    "id": "judge_br",
+    "id": "judgebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/judge.png",
       "https://pedro9paulo.pythonanywhere.com/images/judgeGood.png",
@@ -1005,7 +1005,7 @@
     "ability": "Uma vez por jogo, se outro jogador nomear, você pode forçar essa execução ou impedi-la."
   },
   {
-    "id": "bishop_br",
+    "id": "bishopbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bishop.png",
       "https://pedro9paulo.pythonanywhere.com/images/bishopGood.png",
@@ -1023,7 +1023,7 @@
     "ability": "Apenas o Narrador pode nomear. Pelo menos 1 jogador do alinhamento oposto ao seu será nomeado a cada dia."
   },
   {
-    "id": "voudon_br",
+    "id": "voudonbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/voudon.png",
       "https://pedro9paulo.pythonanywhere.com/images/voudonGood.png",
@@ -1041,7 +1041,7 @@
     "ability": "Apenas você e os mortos podem votar. Não é necessário ter fichas de voto para isso. Não é necessário um mínimo de 50% de votos."
   },
   {
-    "id": "clockmaker_br",
+    "id": "clockmakerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/clockmaker.png",
       "https://pedro9paulo.pythonanywhere.com/images/clockmakerReversed.png"],
@@ -1059,7 +1059,7 @@
     "flavor": "Não me perturbe! O tique precisa continuar, o círculo é um símbolo da vida e contém todas as coisas – todas as respostas – em sua maquinaria divina. Eu devo trabalhar."
   },
   {
-    "id": "dreamer_br",
+    "id": "dreamerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/dreamer.png",
       "https://pedro9paulo.pythonanywhere.com/images/dreamerReversed.png"],
@@ -1077,7 +1077,7 @@
     "flavor": "Eu lembro do Relojoeiro... o céu estava vermelho e chovia triângulos fractais. Havia um cheiro de violetas e um som borbulhante. Uma mulher de olhos brilhantes e barba desgrenhada sibilava para o céu. Então, eu acordei."
   },
   {
-    "id": "snakecharmer_br",
+    "id": "snakecharmerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/snakecharmer.png",
       "https://pedro9paulo.pythonanywhere.com/images/snakecharmerReversed.png"],
@@ -1095,7 +1095,7 @@
     "flavor": "Effendi... sou apenas um homem humilde, mas minha flauta é dourada, e uma única melodia domará o mais selvagem dos gênios, inshallah. Dizem que a ganância enforca mais homens do que a corda. Mas eu não, effendi... eu não."
   },
   {
-    "id": "mathematician_br",
+    "id": "mathematicianbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/mathematician.png",
       "https://pedro9paulo.pythonanywhere.com/images/mathematicianReversed.png"],
@@ -1112,14 +1112,14 @@
     "ability": "A cada noite, aprenda quantas habilidades de jogadores funcionaram de forma anormal (desde o amanhecer) devido a habilidades de outros personagens.",
     "flavor": "Qualquer sistema formal consistente x, no qual uma certa quantidade de aritmética elementar pode ser realizada, é incompleto; isto é, existem afirmações na linguagem de x que não podem ser provadas nem refutadas em x. Portanto, você deve estar bêbado.",
     "jinxes": [
-      {"id": "chambermaid_br", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
-      {"id": "drunk_br", "reason": "O Matemático sabe se a habilidade do Bêbado gerou informação falsa ou não funcionou corretamente."},
-      {"id": "lunatic_br", "reason": "O Matemático sabe se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."},
-      {"id": "marionette_br", "reason": "O Matemático sabe se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
+      {"id": "chambermaidbr", "reason": "A Camareira sabe se o Matemático acorda esta noite, mesmo acordando antes dele."},
+      {"id": "drunkbr", "reason": "O Matemático sabe se a habilidade do Bêbado gerou informação falsa ou não funcionou corretamente."},
+      {"id": "lunaticbr", "reason": "O Matemático sabe se o Lunático atacou jogador(es) diferente(s) do Demônio verdadeiro."},
+      {"id": "marionettebr", "reason": "O Matemático sabe se a habilidade da Marionete gerou informação falsa ou não funcionou corretamente."}
     ]
   },
   {
-    "id": "flowergirl_br",
+    "id": "flowergirlbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/flowergirl.png",
       "https://pedro9paulo.pythonanywhere.com/images/flowergirlReversed.png"],
@@ -1137,7 +1137,7 @@
     "flavor": "As violetas de ontem murcharam e morreram, mas hoje minhas rosas florescem."
   },
   {
-    "id": "towncrier_br",
+    "id": "towncrierbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/towncrier.png",
       "https://pedro9paulo.pythonanywhere.com/images/towncrierReversed.png"],
@@ -1155,7 +1155,7 @@
     "flavor": "Ouçam! Ouçam! Feitiçaria no labirinto! Gênio prodígio revela tudo! A cidade corre perigo! Ouçam!"
   },
   {
-    "id": "oracle_br",
+    "id": "oraclebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/oracle.png",
       "https://pedro9paulo.pythonanywhere.com/images/oracleReversed.png"],
@@ -1173,7 +1173,7 @@
     "flavor": "Apenas os escolhidos podem ver além do véu. Os mortos estão inquietos e apontam em silêncio ao gélido norte."
   },
   {
-    "id": "savant_br",
+    "id": "savantbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/savant.png",
       "https://pedro9paulo.pythonanywhere.com/images/savantReversed.png"],
@@ -1191,7 +1191,7 @@
     "flavor": "Setenta e dois palitos de fósforo no chão... o sol se põe cedo, mas a lua permanece inalterada... um pedaço de pano rasgado... o mal prevalece na mansão... três a três... aquele em quem confiamos não é o que parece... luz verde significa magnésio... resíduo, mas o padrão está errado... setenta e dois palitos de fósforo no chão..."
   },
   {
-    "id": "seamstress_br",
+    "id": "seamstressbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/seamstress.png",
       "https://pedro9paulo.pythonanywhere.com/images/seamstressReversed.png"],
@@ -1209,7 +1209,7 @@
     "flavor": "Você não está sabendo? A Maria Benedita está espalhando que aquele estranho de casaco de casimira ficou flertando com a jovem Sofia, e acredita que ela disse sim? É, mas isso não é nada comparado ao que o Cristiano e aquele malabarista aprontaram na feira, Angélica que me disse! Agora, por que comentar essas coisas, sabe?"
   },
   {
-    "id": "philosopher_br",
+    "id": "philosopherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/philosopher.png",
       "https://pedro9paulo.pythonanywhere.com/images/philosopherReversed.png"],
@@ -1228,7 +1228,7 @@
     "flavor": "Se alguma coisa existe de verdade, a cerveja é uma delas. Bebamos, porque amanhã morreremos!"
   },
   {
-    "id": "artist_br",
+    "id": "artistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/artist.png",
       "https://pedro9paulo.pythonanywhere.com/images/artistReversed.png"],
@@ -1246,7 +1246,7 @@
     "flavor": "Mon Dieu! C'est lumineux! Minha quadro, ela está... como se diz... magnifique! Dieu est révélé! Oui."
   },
   {
-    "id": "juggler_br",
+    "id": "jugglerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/juggler.png",
       "https://pedro9paulo.pythonanywhere.com/images/jugglerReversed.png"],
@@ -1264,7 +1264,7 @@
     "flavor": "Para meu próximo truque, como solicitado, vou precisar de uma flor, um saco de feijões, uma cobra de brinquedo, um pincel e uma lavadora de alta pressão. E reitero, este truque pode ser meu último. Ó, céus!"
   },
   {
-    "id": "sage_br",
+    "id": "sagebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/sage.png",
       "https://pedro9paulo.pythonanywhere.com/images/sageReversed.png"],
@@ -1282,7 +1282,7 @@
     "flavor": "Esses volumosos tomos guardam o segredo, certeza! Entre palavra e palavra, a verdade à espreita. Preciso de mais velas! Mais tinta! Estas anotações podem parecer arcanas, mas esse infernal quebra-cabeça está prestes a ser revelado."
   },
   {
-    "id": "mutant_br",
+    "id": "mutantbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/mutant.png",
       "https://pedro9paulo.pythonanywhere.com/images/mutantReversed.png"],
@@ -1300,7 +1300,7 @@
     "flavor": "Eu não sou um monstro! Eu sou um ser humano! Haja piedade!"
   },
   {
-    "id": "sweetheart_br",
+    "id": "sweetheartbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/sweetheart.png",
       "https://pedro9paulo.pythonanywhere.com/images/sweetheartReversed.png"],
@@ -1318,7 +1318,7 @@
     "flavor": "Eu nunca vou me esquecer dela. Nunca."
   },
   {
-    "id": "barber_br",
+    "id": "barberbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/barber.png",
       "https://pedro9paulo.pythonanywhere.com/images/barberReversed.png"],
@@ -1336,7 +1336,7 @@
     "flavor": "Sabia que barbeiros e cirurgiões já foram a mesma profissão? Não sabia? Pois agora sabe."
   },
   {
-    "id": "klutz_br",
+    "id": "klutzbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/klutz.png",
       "https://pedro9paulo.pythonanywhere.com/images/klutzReversed.png"],
@@ -1354,7 +1354,7 @@
     "flavor": "Ráá! Ié ié!"
   },
   {
-    "id": "eviltwin_br",
+    "id": "eviltwinbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/eviltwin.png",
       "https://pedro9paulo.pythonanywhere.com/images/eviltwinReversed.png"],
@@ -1372,7 +1372,7 @@
     "flavor": "Eu não sou a Sara! Eu sou a Clara! ELA é a Sara! Ela é a do mal! Não eu!"
   },
   {
-    "id": "witch_br",
+    "id": "witchbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/witch.png",
       "https://pedro9paulo.pythonanywhere.com/images/witchReversed.png"],
@@ -1390,7 +1390,7 @@
     "flavor": "Três gotas de sangue de cabra. Um cacho de cabelo, arrancado com raiva. O nome é dito, a sombra lançada. Entre naquela viela com o pé esquerdo primeiro... e jamais olhe para trás!"
   },
   {
-    "id": "cerenovus_br",
+    "id": "cerenovusbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/cerenovus.png",
       "https://pedro9paulo.pythonanywhere.com/images/cerenovusReversed.png"],
@@ -1407,11 +1407,11 @@
     "ability": "A cada noite, escolha um personagem do bem e um jogador: amanhã, o jogador deve alucinar que é esse personagem; do contrário, pode ser executado.",
     "flavor": "A realidade é apenas uma opinião. Especificamente, a minha opinião.",
     "jinxes": [
-      {"id": "goblin_br", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}
+      {"id": "goblinbr", "reason": "O Cerenovus pode escolher um jogador para alucinar que é o Goblin."}
     ]
   },
   {
-    "id": "pithag_br",
+    "id": "pithagbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/pithag.png",
       "https://pedro9paulo.pythonanywhere.com/images/pithagReversed.png"],
@@ -1428,16 +1428,16 @@
     "ability": "A cada noite*, escolha um jogador e um personagem para ele se tornar (se não estiver em jogo). Se um Demônio é criado, as mortes serão arbitrárias esta noite.",
     "flavor": "Ao redor do caldeirão vamos rodar;\n Entranhas envenenadas nele atirar;\n O sapo que sob pedra se escondia;\n Trinta e um dias e noites, dormia;\n Veneno a suar enquanto repousava;\n Ferve primeiro, na poção que encantava.",
     "jinxes": [
-      {"id": "cultleader_br", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},
-      {"id": "damsel_br", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
-      {"id": "goon_br", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},        
-      {"id": "ogre_br", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."},
-      {"id": "politician_br", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
-      {"id": "villageidiot_br", "reason": "Se houver fichas de Idiota da Vila fora do jogo, A Bruxa do Fosso pode criar um Idiota da Vila. Neste caso, o Narrador pode mudar qual Idiota da Vila está bêbado."}
+      {"id": "cultleaderbr", "reason": "Se a Bruxa do Fosso criar um Líder da Seita do mal, ele não pode se tornar do bem devido a própria habilidade."},
+      {"id": "damselbr", "reason": "Se a Bruxa do Fosso criar uma Donzela, o Narrador escolhe qual jogador será a Donzela."},
+      {"id": "goonbr", "reason": "Se a Bruxa do Fosso criar um Capanga do mal, ele não pode se tornar do bem devido a própria habilidade."},        
+      {"id": "ogrebr", "reason": "Se a Bruxa do Fosso criar um Ogro do mal, ele não pode se tornar do bem devido a própria habilidade."},
+      {"id": "politicianbr", "reason": "Se a Bruxa do Fosso criar um Político do mal, ele não pode se tornar do bem devido a própria habilidade."},
+      {"id": "villageidiotbr", "reason": "Se houver fichas de Idiota da Vila fora do jogo, A Bruxa do Fosso pode criar um Idiota da Vila. Neste caso, o Narrador pode mudar qual Idiota da Vila está bêbado."}
     ]
   },
   {
-    "id": "fanggu_br",
+    "id": "fanggubr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fanggu.png",
       "https://pedro9paulo.pythonanywhere.com/images/fangguReversed.png"],
@@ -1455,7 +1455,7 @@
     "flavor": "Suas muralhas e suas armas não passam de ilusões em suas fantasias."
   },
   {
-    "id": "vigormortis_br",
+    "id": "vigormortisbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/vigormortis.png",
       "https://pedro9paulo.pythonanywhere.com/images/vigormortisReversed.png"],
@@ -1473,7 +1473,7 @@
     "flavor": "Todas as portas são uma só porta. Todas as chaves, uma só chave. Todos os cálices, um só cálice. E aquele que beber da água que eu lhe der nunca terá sede, porque a água que eu lhe der se fará nele uma fonte de água que salte para a vida eterna."
   },
   {
-    "id": "nodashii_br",
+    "id": "nodashiibr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/nodashii.png",
       "https://pedro9paulo.pythonanywhere.com/images/nodashiiReversed.png"],
@@ -1491,7 +1491,7 @@
     "flavor": "Pelos pecados de Arnóbio, sinto o teu fétido odor. Pelo maldito sol e sua vil legião de deuses sorridentes, eu te corrompo. Pela noite sagrada e as profundezas ocultas do horrendo e profano mar, eu encerro tua miserável vida neste plano."
   },
   {
-    "id": "vortox_br",
+    "id": "vortoxbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/vortox.png",
       "https://pedro9paulo.pythonanywhere.com/images/vortoxReversed.png"],
@@ -1508,11 +1508,11 @@
     "ability": "A cada noite*, escolha um jogador: ele morre. Habilidades de Aldeões geram informações falsas. A cada dia, se ninguém for executado, o Mal vence.",
     "flavor": "A explicação é a confusão. A confusão é o esclarecimento. O esclarecimento é a obscuridade. A obscuridade é o seu guia. Siga-me! As respostas te encontrarão.",
     "jinxes": [
-      {"id": "banshee_br", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}
+      {"id": "bansheebr", "reason": "Se o Vortox está em jogo e o Demônio mata a Banshee, os jogadores ainda são informados que a Banshee morreu."}
     ]
   },
   {
-    "id": "barista_br",
+    "id": "baristabr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/barista.png",
       "https://pedro9paulo.pythonanywhere.com/images/baristaGood.png",
@@ -1531,7 +1531,7 @@
     "flavor": "Uma xícara de café sem creme, senhor? Infelizmente, estamos sem creme. Que tal sem leite?"
   },
   {
-    "id": "harlot_br",
+    "id": "harlotbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/harlot.png",
       "https://pedro9paulo.pythonanywhere.com/images/harlotGood.png",
@@ -1550,7 +1550,7 @@
     "flavor": "Encantador, senhor Marinho. Parece que você precisa de alguém para ouvir seus problemas de verdade. Eu sou ótima nisso. Muito, muito boa."
   },
   {
-    "id": "butcher_br",
+    "id": "butcherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/butcher.png",
       "https://pedro9paulo.pythonanywhere.com/images/butcherGood.png",
@@ -1569,7 +1569,7 @@
     "flavor": "Tem gosto de frango. Quero mais!"
   },
   {
-    "id": "bonecollector_br",
+    "id": "bonecollectorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bonecollector.png",
       "https://pedro9paulo.pythonanywhere.com/images/bonecollectorGood.png",
@@ -1588,7 +1588,7 @@
     "flavor": "Eu coleciono muitas coisas... cabelos, dentes, roupas, fragmentos de poemas e sonhos de amantes perdidos. Minhas artes secretas não foram feitas para os seus olhos curiosos, mas meu preço é irrisório. Traga-me o sangue de uma nobre que morreu de desgosto sob a lua cheia, e talvez encontre suas respostas."
   },
   {
-    "id": "deviant_br",
+    "id": "deviantbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/deviant.png",
       "https://pedro9paulo.pythonanywhere.com/images/deviantGood.png",
@@ -1607,7 +1607,7 @@
     "flavor": "Foi um gracejo da dama, ora pois."
   },
   {
-    "id": "noble_br",
+    "id": "noblebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/noble.png",
       "https://pedro9paulo.pythonanywhere.com/images/nobleReversed.png"],
@@ -1624,7 +1624,7 @@
     "ability": "Você começa sabendo 3 jogadores. 1 e apenas 1 deles é do mal."
   },
   {
-    "id": "bountyhunter_br",
+    "id": "bountyhunterbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bountyhunter.png",
       "https://pedro9paulo.pythonanywhere.com/images/bountyhunterReversed.png"],
@@ -1640,12 +1640,12 @@
     "setup": true,
     "ability": "Você começa sabendo 1 jogador do mal. Se esse jogador morrer, aprenda outro jogador do mal esta noite. [1 Aldeão é do mal]",
     "jinxes": [
-      {"id": "kazali_br", "reason": "Se o Kazali transforma o Mercenário num Lacaio, um Aldeão do mal não é criado."},
-      {"id": "philosopher_br", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Aldeão pode tornar-se mau"}
+      {"id": "kazalibr", "reason": "Se o Kazali transforma o Mercenário num Lacaio, um Aldeão do mal não é criado."},
+      {"id": "philosopherbr", "reason": "Se o Filósofo ganhar a habilidade do Mercenário, um Aldeão pode tornar-se mau"}
     ]
   },
   {
-    "id": "pixie_br",
+    "id": "pixiebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/pixie.png",
       "https://pedro9paulo.pythonanywhere.com/images/pixieReversed.png"],
@@ -1662,7 +1662,7 @@
     "ability": "Você começa sabendo 1 personagem Aldeão em jogo. Se você estava alucinando ser esse personagem, você ganha a habilidade dele quando ele morrer."
   },
   {
-    "id": "general_br",
+    "id": "generalbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/general.png",
       "https://pedro9paulo.pythonanywhere.com/images/generalReversed.png"],
@@ -1679,7 +1679,7 @@
     "ability": "A cada noite, aprenda qual time o Narrador acredita que está vencendo: Bem, Mal ou nenhum."
   },
   {
-    "id": "preacher_br",
+    "id": "preacherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/preacher.png",
       "https://pedro9paulo.pythonanywhere.com/images/preacherReversed.png"],
@@ -1696,7 +1696,7 @@
     "ability": "A cada noite, escolha um jogador: um Lacaio, se escolhido, saberá disso. Todos os Lacaios escolhidos não têm habilidade."
   },
   {
-    "id": "king_br",
+    "id": "kingbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/king.png",
       "https://pedro9paulo.pythonanywhere.com/images/kingReversed.png"],
@@ -1713,7 +1713,7 @@
     "ability": "A cada noite, se os vivos não são maioria, aprenda um personagem vivo. O Demônio sabe que você é o Rei."
   },
   {
-    "id": "balloonist_br",
+    "id": "balloonistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/balloonist.png",
       "https://pedro9paulo.pythonanywhere.com/images/balloonistReversed.png"],
@@ -1730,7 +1730,7 @@
     "ability": "A cada noite, aprenda um jogador de um tipo de personagem diferente do que você soube na noite anterior. [+0 ou +1 Forasteiro]"
   },
   {
-    "id": "cultleader_br",
+    "id": "cultleaderbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/cultleader.png",
       "https://pedro9paulo.pythonanywhere.com/images/cultleaderReversed.png"],
@@ -1747,7 +1747,7 @@
     "ability": "A cada noite o seu alinhamento será igual ao de um de seus vizinhos vivos. Se todos os jogadores do bem aderirem a sua seita, seu time vence."
   },
   {
-    "id": "lycanthrope_br",
+    "id": "lycanthropebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/lycanthrope.png",
       "https://pedro9paulo.pythonanywhere.com/images/lycanthropeReversed.png"],
@@ -1764,7 +1764,7 @@
     "ability": "A cada noite*, escolha um jogador vivo. Se o jogador escolhido for do bem, ele morre e o Demônio não mata esta noite. Um jogador do bem registra como do mal."
   },
   {
-    "id": "amnesiac_br",
+    "id": "amnesiacbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/amnesiac.png",
       "https://pedro9paulo.pythonanywhere.com/images/amnesiacReversed.png"],
@@ -1782,7 +1782,7 @@
     "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {
-    "id": "nightwatchman_br",
+    "id": "nightwatchmanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/nightwatchman.png",
       "https://pedro9paulo.pythonanywhere.com/images/nightwatchmanReversed.png"],
@@ -1798,7 +1798,7 @@
     "ability": "Uma vez por jogo, à noite, escolha um jogador: ele aprende que você é o Vigia Noturno."
   },
   {
-    "id": "engineer_br",
+    "id": "engineerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/engineer.png",
       "https://pedro9paulo.pythonanywhere.com/images/engineerReversed.png"],
@@ -1815,7 +1815,7 @@
     "ability": "Uma vez por jogo, à noite, você pode decidir qual Demônio ou quais Lacaios estão em jogo."
   },
   {
-    "id": "fisherman_br",
+    "id": "fishermanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fisherman.png",
       "https://pedro9paulo.pythonanywhere.com/images/fishermanReversed.png"],
@@ -1832,7 +1832,7 @@
     "ability": "Uma vez por jogo, durante o dia, visite o Narrador para obter conselhos de como vencer."
   },
   {
-    "id": "huntsman_br",
+    "id": "huntsmanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/huntsman.png",
       "https://pedro9paulo.pythonanywhere.com/images/huntsmanReversed.png"],
@@ -1849,7 +1849,7 @@
     "ability": "Uma vez por jogo, à noite, você pode escolher um jogador vivo: a Donzela, se escolhida, se torna um Aldeão que não estava em jogo. [+Donzela]"
   },
   {
-    "id": "alchemist_br",
+    "id": "alchemistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/alchemist.png",
       "https://pedro9paulo.pythonanywhere.com/images/alchemistReversed.png"],
@@ -1866,18 +1866,18 @@
     "ability": "Você possui a habilidade de um Lacaio. Ao usá-la, o Narrador pode solicitar que você faça uma escolha diferente.",
     "special": [{ "name": "replace-character", "type": "reveal"}],
     "jinxes": [
-      {"id": "boffin_br", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
-      {"id": "marionette_br", "reason": "Um Alquimista-Marionete não tem a habilidade da Marionete & há uma Marionete em jogo."},
-      {"id": "mastermind_br", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
-      {"id": "organgrinder_br", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
-      {"id": "spy_br", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
-      {"id": "summoner_br", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"},
-      {"id": "widow_br", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
-      {"id": "wraith_br", "reason": "Um Alquimista-Espectro não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
+      {"id": "boffinbr", "reason": "Se o Alquimista tem a habilidade do Sabichão, o Alquimista não sabe qual habilidade o Demônio ganhou."},
+      {"id": "marionettebr", "reason": "Um Alquimista-Marionete não tem a habilidade da Marionete & há uma Marionete em jogo."},
+      {"id": "mastermindbr", "reason": "Um Alquimista-Mentor não tem a habilidade do Mentor & o Mentor não está em jogo."},
+      {"id": "organgrinderbr", "reason": "Se o Alquimista tem a habilidade do Realejo, o Realejo está em jogo e se ambos estão sóbrios ambos estão bêbados."},
+      {"id": "spybr", "reason": "Um Alquimista-Espião não tem a habilidade do Espião & há um Espião em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espião, se correto, o Demônio deve escolher o Espião esta noite."},
+      {"id": "summonerbr", "reason": "O Alquemista-Invocador não ganha blefes e escolhe qual Demônio, mas não qual jogador. Se ele morrer antes disso acontecer o Mau vence [Sem Demônio]"},
+      {"id": "widowbr", "reason": "Um Alquimista-Viúva não tem a habilidade da Viúva & há uma Viúva em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é a Viúva, se correto, o Demônio deve escolher a Viúva esta noite."},
+      {"id": "wraithbr", "reason": "Um Alquimista-Espectro não tem a habilidade do Espectro & há um Espectro em jogo. A cada dia, após a fase de execuções, o Alquimista pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
   },
   {
-    "id": "farmer_br",
+    "id": "farmerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/farmer.png",
       "https://pedro9paulo.pythonanywhere.com/images/farmerReversed.png"],
@@ -1894,7 +1894,7 @@
     "ability": "Se você morrer à noite, um jogador do bem vivo se torna um Fazendeiro."
   },
   {
-    "id": "magician_br",
+    "id": "magicianbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/magician.png",
       "https://pedro9paulo.pythonanywhere.com/images/magicianReversed.png"],
@@ -1910,16 +1910,16 @@
     "setup": false,
     "ability": "O Demônio pensa que você é um Lacaio. Lacaios pensam que você é um Demônio.",
     "jinxes": [
-      {"id": "legion_br", "reason": "Se o Mágico está em jogo, a Legião acorda em grupos separados, cada grupo aprende que jogadores são do bem, com exceção do Mágico."},
-      {"id": "marionette_br", "reason": "Se o Mágico está vivo o Demônio não sabe qual de seus vizinhos é a Marionete."},
-      {"id": "spy_br", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
-      {"id": "vizier_br", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
-      {"id": "widow_br", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
-      {"id": "wraith_br", "reason": "A cada dia, após a fase de execuções, o Mágico pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
+      {"id": "legionbr", "reason": "Se o Mágico está em jogo, a Legião acorda em grupos separados, cada grupo aprende que jogadores são do bem, com exceção do Mágico."},
+      {"id": "marionettebr", "reason": "Se o Mágico está vivo o Demônio não sabe qual de seus vizinhos é a Marionete."},
+      {"id": "spybr", "reason": "Quando o Espião vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
+      {"id": "vizierbr", "reason": "Se o Vizir está em jogo, o Mágico não tem sua habilidade, mas está imune a habilidade do Vizir."},
+      {"id": "widowbr", "reason": "Quando a Viúva vê o Grimório, as fichas do Dêmonio e do Mágico são removidas."},
+      {"id": "wraithbr", "reason": "A cada dia, após a fase de execuções, o Mágico pode adivinhar publicamente que um jogador vivo é o Espectro, se correto, o Demônio deve escolher o Espectro esta noite."}
     ]
   },
   {
-    "id": "choirboy_br",
+    "id": "choirboybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/choirboy.png",
       "https://pedro9paulo.pythonanywhere.com/images/choirboyReversed.png"],
@@ -1936,7 +1936,7 @@
     "ability": "Se o Demônio matar o Rei, aprenda qual jogador é o Demônio. [+Rei]"
   },
   {
-    "id": "poppygrower_br",
+    "id": "poppygrowerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/poppygrower.png",
       "https://pedro9paulo.pythonanywhere.com/images/poppygrowerReversed.png"],
@@ -1953,7 +1953,7 @@
     "ability": "Lacaios e Demônios não se conhecem. Se você morrer, eles conhecem uns aos outros essa noite."
   },
   {
-    "id": "atheist_br",
+    "id": "atheistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/atheist.png",
       "https://pedro9paulo.pythonanywhere.com/images/atheistReversed.png"],
@@ -1971,7 +1971,7 @@
     "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {
-    "id": "cannibal_br",
+    "id": "cannibalbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/cannibal.png",
       "https://pedro9paulo.pythonanywhere.com/images/cannibalReversed.png"],
@@ -1987,14 +1987,14 @@
     "setup": false,
     "ability": "Você tem a habilidade do jogador morto por execução mais recente. Se ele for do mal, você fica envenenado até um jogador do bem ser executado.",
     "jinxes": [
-      {"id": "butler_br", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal descobre disso."},
-      {"id": "juggler_br", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
-      {"id": "princess_br", "reason": "Se o Canibal nomear & executar a Princesa, o Demônio não mata esta noite."},
-      {"id": "zealot_br", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal descobre disso."}
+      {"id": "butlerbr", "reason": "Se o Canibal ganhou a habilidade do Mordomo, o Canibal descobre disso."},
+      {"id": "jugglerbr", "reason": "Se o Malabarista tenta adivinhar no seu primeiro dia e morre por execução, a noite o Canibal vivo, sabe quantos estavam corretos."},
+      {"id": "princessbr", "reason": "Se o Canibal nomear & executar a Princesa, o Demônio não mata esta noite."},
+      {"id": "zealotbr", "reason": "Se o Canibal ganhou a habilidade do Fanático, o Canibal descobre disso."}
     ]
   },
   {
-    "id": "steward_br",
+    "id": "stewardbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/steward.png", 
       "https://pedro9paulo.pythonanywhere.com/images/stewardReversed.png"],
@@ -2011,7 +2011,7 @@
     "ability": "Você começa sabendo 1 jogador do bem."
   },
   {
-    "id": "knight_br",
+    "id": "knightbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/knight.png", 
       "https://pedro9paulo.pythonanywhere.com/images/knightReversed.png"],
@@ -2028,7 +2028,7 @@
     "ability": "Você começa sabendo 2 jogadores que não são o Demônio."
   },
   {
-    "id": "highpriestess_br",
+    "id": "highpriestessbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/highpriestess.png", 
       "https://pedro9paulo.pythonanywhere.com/images/highpriestessReversed.png"],
@@ -2045,7 +2045,7 @@
     "ability": "A cada noite, aprenda com qual jogador o Narrador acredita que você mais deveria conversar."
   },
   {
-    "id": "shugenja_br",
+    "id": "shugenjabr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/shugenja.png", 
       "https://pedro9paulo.pythonanywhere.com/images/shugenjaReversed.png"],
@@ -2063,7 +2063,7 @@
     "special": [{ "name": "card", "type": "signal", "value": "horário"}, { "name": "card", "type": "signal", "value": "anti-horário"}]
   },
   {
-    "id": "villageidiot_br",
+    "id": "villageidiotbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/villageidiot.png", 
       "https://pedro9paulo.pythonanywhere.com/images/villageidiotReversed.png"],
@@ -2081,7 +2081,7 @@
     "special": [{ "name": "bag-duplicate", "type": "selection"}]
   },
   {
-    "id": "banshee_br",
+    "id": "bansheebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/banshee.png",
       "https://pedro9paulo.pythonanywhere.com/images/bansheeReversed.png"],
@@ -2099,7 +2099,7 @@
     "special": [{ "name": "multiplier", "type": "vote", "value":2}]
   },
   {
-    "id": "alsaahir_br",
+    "id": "alsaahirbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/alsaahir.png",
       "https://pedro9paulo.pythonanywhere.com/images/alsaahirReversed.png"],
@@ -2116,7 +2116,7 @@
     "ability": "A cada dia, se você publicamente adivinhar quais jogadores são Lacaio(s) e quais são Demônio(s), o Bem vence."
   },
   {
-    "id": "princess_br",
+    "id": "princessbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/princess.png",
       "https://pedro9paulo.pythonanywhere.com/images/princessReversed.png"],
@@ -2133,7 +2133,7 @@
     "ability": "Em seu primeiro dia, se você nomear & executar um jogador, o Demônio não mata esta noite."
   },
   {
-    "id": "snitch_br",
+    "id": "snitchbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/snitch.png",
       "https://pedro9paulo.pythonanywhere.com/images/snitchReversed.png"],
@@ -2150,7 +2150,7 @@
     "ability": "Lacaios começam sabendo 3 personagens que não estão em jogo."
   },
   {
-    "id": "acrobat_br",
+    "id": "acrobatbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/acrobat.png",
       "https://pedro9paulo.pythonanywhere.com/images/acrobatReversed.png"],
@@ -2167,7 +2167,7 @@
     "ability": "A cada noite*, escolha um jogador: se ele está ou ficar bêbado ou envenenado essa noite, você morre."
   },
   {
-    "id": "acrobatold_br",
+    "id": "acrobatoldbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/acrobat.png",
       "https://pedro9paulo.pythonanywhere.com/images/acrobatReversed.png"],
@@ -2184,7 +2184,7 @@
     "ability": "A cada noite*, se um dos seus vizinhos do bem vivos estiver bêbado ou envenenado, você morre."
   },
   {
-    "id": "puzzlemaster_br",
+    "id": "puzzlemasterbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/puzzlemaster.png",
       "https://pedro9paulo.pythonanywhere.com/images/puzzlemasterReversed.png"],
@@ -2201,7 +2201,7 @@
     "ability": "Um jogador está bêbado, mesmo se você estiver morto. Você tem uma chance de adivinhar quem é. Se conseguir, aprenda quem é o Demônio. Do contrário, você recebe informação falsa."
   },
   {
-    "id": "heretic_br",
+    "id": "hereticbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/heretic.png",
       "https://pedro9paulo.pythonanywhere.com/images/hereticReversed.png"],
@@ -2217,16 +2217,16 @@
     "setup": false,
     "ability": "Quem venceria perde e quem perderia vence, mesmo que você esteja morto.",
     "jinxes": [
-      {"id": "baron_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
-      {"id": "godfather_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
-      {"id": "lleech_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
-      {"id": "pithag_br", "reason": "Apenas 1 desses personagens pode estar em jogo."},
-      {"id": "spy_br", "reason": "Apenas 1 desses personagens podem estar em jogo."},
-      {"id": "widow_br", "reason": "Apenas 1 desses personagens podem estar em jogo."}
+      {"id": "baronbr", "reason": "Apenas 1 desses personagens pode estar em jogo."},
+      {"id": "godfatherbr", "reason": "Apenas 1 desses personagens pode estar em jogo."},
+      {"id": "lleechbr", "reason": "Apenas 1 desses personagens pode estar em jogo."},
+      {"id": "pithagbr", "reason": "Apenas 1 desses personagens pode estar em jogo."},
+      {"id": "spybr", "reason": "Apenas 1 desses personagens podem estar em jogo."},
+      {"id": "widowbr", "reason": "Apenas 1 desses personagens podem estar em jogo."}
     ]
   },
   {
-    "id": "damsel_br",
+    "id": "damselbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/damsel.png",
       "https://pedro9paulo.pythonanywhere.com/images/damselReversed.png"],
@@ -2243,7 +2243,7 @@
     "ability": "Todos os Lacaios sabem que uma Donzela está em jogo. Uma vez no jogo, um deles pode adivinhar publicamente quem é você. Se conseguir, seu time perde."
   },
   {
-    "id": "golem_br",
+    "id": "golembr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/golem.png",
       "https://pedro9paulo.pythonanywhere.com/images/golemReversed.png"],
@@ -2260,7 +2260,7 @@
     "ability": "Você só pode nomear uma vez. Quando o fizer, o nomeado morre se não for o Demônio."
   },
   {
-    "id": "politician_br",
+    "id": "politicianbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/politician.png",
       "https://pedro9paulo.pythonanywhere.com/images/politicianReversed.png"],
@@ -2277,7 +2277,7 @@
     "ability": "Se você for o maior responsável pela derrota do seu time, o seu alinhamento muda e você vence, mesmo estando morto."
   },
   {
-    "id": "plaguedoctor_br",
+    "id": "plaguedoctorbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/plaguedoctor.png", 
       "https://pedro9paulo.pythonanywhere.com/images/plaguedoctorReversed.png"],
@@ -2293,19 +2293,19 @@
     "setup": false,
     "ability": "Se você morrer, o Narrador ganha a habilidade de um Lacaio.",
     "jinxes": [
-      {"id": "baron_br", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."},
-      {"id": "boomdandy_br", "reason": "Se o Narrador ganharia a habilidade do Homem-Bomba, um jogador se transforma no Homem-Bomba."},
-      {"id": "eviltwin_br", "reason": "Se o Narrador ganharia a habilidade da Gêmea Má, um jogador se transforma na Gêmea Má."},
-      {"id": "fearmonger_br", "reason": "Se o Narrador ganharia a habilidade do Intimidador, um Lacaio ganha essa habilidade e sabe disso"},
-      {"id": "goblin_br", "reason": "Se o Narrador ganharia a habilidade do Goblin, um Lacaio ganha essa habilidade e sabe disso."},
-      {"id": "marionette_br", "reason": "Se o Narrador ganharia a habilidade da Marionete, um dos vizinhos do bem do Demônio vira a Marionete."},
-      {"id": "scarletwoman_br", "reason": "Se o Narrador ganharia a habilidade da Mulher Escarlate, um Lacaio ganha essa habilidade e sabe disso"},
-      {"id": "spy_br", "reason": "Se o Narrador ganharia a habilidade do Espião, um Lacaio ganha essa habilidade e sabe disso."},
-      {"id": "wraith_br", "reason": "Se o Narrador ganharia a habilidade do Espectro, um Lacaio ganha essa habilidade e sabe disso."}
+      {"id": "baronbr", "reason": "Se o Narrador ganhar a habilidade do Barão, até 2 jogadores se tornam Forasteiros."},
+      {"id": "boomdandybr", "reason": "Se o Narrador ganharia a habilidade do Homem-Bomba, um jogador se transforma no Homem-Bomba."},
+      {"id": "eviltwinbr", "reason": "Se o Narrador ganharia a habilidade da Gêmea Má, um jogador se transforma na Gêmea Má."},
+      {"id": "fearmongerbr", "reason": "Se o Narrador ganharia a habilidade do Intimidador, um Lacaio ganha essa habilidade e sabe disso"},
+      {"id": "goblinbr", "reason": "Se o Narrador ganharia a habilidade do Goblin, um Lacaio ganha essa habilidade e sabe disso."},
+      {"id": "marionettebr", "reason": "Se o Narrador ganharia a habilidade da Marionete, um dos vizinhos do bem do Demônio vira a Marionete."},
+      {"id": "scarletwomanbr", "reason": "Se o Narrador ganharia a habilidade da Mulher Escarlate, um Lacaio ganha essa habilidade e sabe disso"},
+      {"id": "spybr", "reason": "Se o Narrador ganharia a habilidade do Espião, um Lacaio ganha essa habilidade e sabe disso."},
+      {"id": "wraithbr", "reason": "Se o Narrador ganharia a habilidade do Espectro, um Lacaio ganha essa habilidade e sabe disso."}
     ]
   },
   {
-    "id": "hatter_br",
+    "id": "hatterbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/hatter.png", 
       "https://pedro9paulo.pythonanywhere.com/images/hatterReversed.png"],
@@ -2322,7 +2322,7 @@
     "ability": "Se você morreu hoje, os Lacaio(s) e Demônio podem escolher novos personagens de Lacaio(s) e Demônio para serem."
   },
   {
-    "id": "ogre_br",
+    "id": "ogrebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/ogre.png", 
       "https://pedro9paulo.pythonanywhere.com/images/ogreReversed.png"],
@@ -2339,7 +2339,7 @@
     "ability": "Na sua primeira noite, escolha um jogador (exceto você): você se torna do alinhamento dele (você não sabe qual), mesmo se estiver bêbado ou envenenado."
   },
   {
-    "id": "zealot_br",
+    "id": "zealotbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/zealot.png", 
       "https://pedro9paulo.pythonanywhere.com/images/zealotReversed.png"],
@@ -2356,7 +2356,7 @@
     "ability": "Se há 5 ou mais jogadores vivos, você deve votar em toda nomeação."
   },
   {
-    "id": "hermit_br",
+    "id": "hermitbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/hermit.png", 
       "https://pedro9paulo.pythonanywhere.com/images/hermitReversed.png"],
@@ -2373,7 +2373,7 @@
     "ability": "Você tem todas as habilidades de Forasteiros. [-0 ou -1 Forasteiros]"
   },
   {
-    "id": "widow_br",
+    "id": "widowbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/widow.png",
       "https://pedro9paulo.pythonanywhere.com/images/widowReversed.png"],
@@ -2390,12 +2390,12 @@
     "ability": "Na sua primeira noite, veja o Grimório e escolha um jogador: ele fica envenenado. 1 jogador do bem sabe que a Viúva está em jogo.",
     "special": [{ "name": "grimoire", "type": "signal", "time": "firstNight"}],
     "jinxes": [
-      {"id": "damsel_br", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
-      {"id": "poppygrower_br", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."}
+      {"id": "damselbr", "reason": "Se a Viúva está (ou esteve) em jogo a Donzela está envenenada."},
+      {"id": "poppygrowerbr", "reason": "Se uma Cultivadora está em jogo a Viúva não ve o Grimório até ela morrer."}
     ]
   },
   {
-    "id": "fearmonger_br",
+    "id": "fearmongerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fearmonger.png",
       "https://pedro9paulo.pythonanywhere.com/images/fearmongerReversed.png"],
@@ -2412,7 +2412,7 @@
     "ability": "A cada noite, escolha um jogador. Se você nomeá-lo e executá-lo, o time dele perde. Todos os jogadores sabem quando você escolhe um novo alvo."
   },
   {
-    "id": "psychopath_br",
+    "id": "psychopathbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/psychopath.png",
       "https://pedro9paulo.pythonanywhere.com/images/psychopathReversed.png"],
@@ -2429,7 +2429,7 @@
     "ability": "Todo dia, antes das nomeações, você pode escolher um jogador publicamente: ele morre. Se executado, você só morre se perder em um jokenpô."
   },
   {
-    "id": "goblin_br",
+    "id": "goblinbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/goblin.png",
       "https://pedro9paulo.pythonanywhere.com/images/goblinReversed.png"],
@@ -2446,7 +2446,7 @@
     "ability": "Se você publicamente alegar ser o Goblin quando nomeado e for executado naquele dia, seu time vence."
   },
   {
-    "id": "mezepheles_br",
+    "id": "mezephelesbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/mezepheles.png",
       "https://pedro9paulo.pythonanywhere.com/images/mezephelesReversed.png"],
@@ -2464,7 +2464,7 @@
     "special": [{ "name": "card", "type": "signal", "value": "A palavra secreta é:"}]
   },
   {
-    "id": "marionette_br",
+    "id": "marionettebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/marionette.png",
       "https://pedro9paulo.pythonanywhere.com/images/marionetteReversed.png"],
@@ -2481,15 +2481,15 @@
     "ability": "Você acredita ser um personagem do bem. O Demônio sabe quem você é. [Você é vizinho do Demônio]",
     "special": [{ "name": "replace-character", "type": "reveal"},{"name": "bag-disabled", "type": "selection"}],
     "jinxes": [
-      {"id": "balloonist_br", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro pode ter sido adicionado."},
-      {"id": "huntsman_br", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."},
-      {"id": "kazali_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
-      {"id": "lilmonsta_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
-      {"id": "summoner_br", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."}     
+      {"id": "balloonistbr", "reason": "Se a Marionete acha que é o Balonista, +1 Forasteiro pode ter sido adicionado."},
+      {"id": "huntsmanbr", "reason": "Se a Marionete acha que é o Caçador, a Donzela foi adicionada."},
+      {"id": "kazalibr", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
+      {"id": "lilmonstabr", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."},
+      {"id": "summonerbr", "reason": "Se haveria uma Marionete em jogo ela entra após o Demônio e precisa ser sua vizinha."}     
     ]
   },
   {
-    "id": "boomdandy_br",
+    "id": "boomdandybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/boomdandy.png",
       "https://pedro9paulo.pythonanywhere.com/images/boomdandyReversed.png"],
@@ -2507,7 +2507,7 @@
     "special": [{ "name": "pointing", "type": "ability", "time": "day"}]
   },
   {
-    "id": "organgrinder_br",
+    "id": "organgrinderbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/organgrinder.png", 
       "https://pedro9paulo.pythonanywhere.com/images/organgrinderReversed.png"],
@@ -2525,7 +2525,7 @@
     "special": [{ "name": "hidden", "type": "vote"}]
   },
   {
-    "id": "vizier_br",
+    "id": "vizierbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/vizier.png", 
       "https://pedro9paulo.pythonanywhere.com/images/vizierReversed.png"],
@@ -2541,17 +2541,17 @@
     "setup": false,
     "ability": "Todos os jogadores sabem que você é o Vizir. Você não pode morrer durante o dia. Se jogadores do bem votaram você pode escolher executar imediatamente.",
     "jinxes": [
-      {"id": "alsaahir_br", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
-      {"id": "courtier_br", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
-      {"id": "fearmonger_br", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},
-      {"id": "investigator_br", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
-      {"id": "politician_br", "reason": "O Político pode registrar como do mau para o Vizir."},
-      {"id": "preacher_br", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
-      {"id": "zealot_br", "reason": "O Fanático pode registrar como do mau para o Vizir."}
+      {"id": "alsaahirbr", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
+      {"id": "courtierbr", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
+      {"id": "fearmongerbr", "reason": "O Vizir acorda junto com o Intimidador, sabe quem ele escolheu e não pode escolher executar esse jogador."},
+      {"id": "investigatorbr", "reason": "O Narrador não anuncia que o Vizir está em jogo."},
+      {"id": "politicianbr", "reason": "O Político pode registrar como do mau para o Vizir."},
+      {"id": "preacherbr", "reason": "Se o Vizir perder sua habilidade ele aprende isso e não pode morrer durante o dia."},
+      {"id": "zealotbr", "reason": "O Fanático pode registrar como do mau para o Vizir."}
     ]
   },
   {
-    "id": "harpy_br",
+    "id": "harpybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/harpy.png", 
       "https://pedro9paulo.pythonanywhere.com/images/harpyReversed.png"],
@@ -2568,7 +2568,7 @@
     "ability": "A cada noite, escolha 2 jogadores: amanhã o 1º alucina que o 2º é do mal, ou um ou ambos podem morrer."
   },
   {
-    "id": "summoner_br",
+    "id": "summonerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/summoner.png", 
       "https://pedro9paulo.pythonanywhere.com/images/summonerReversed.png"],
@@ -2584,21 +2584,21 @@
     "setup": true,
     "ability": "Você começa sabendo 3 blefes. Na 3ª noite escolha um jogador: ele se torna um Demônio do mal a sua escolha. [Sem Demônio]",
     "jinxes": [
-      {"id": "clockmaker_br", "reason": "Se o Invocador está em jogo, o Invocador registra como Demônio para o Relojoeiro."},
-      {"id": "courtier_br", "reason": "Se o Invocador não tem habilidade, o Narrador tem a habilidade do Invocador."},
-      {"id": "engineer_br", "reason": "Se o Invocador é removido do jogo, o Narrador tem a habilidade do Invocador."},
-      {"id": "hatter_br", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
-      {"id": "kazali_br", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
-      {"id": "lordoftyphon_br", "reason": "Se um Lorde do Tifão é invocado, ele precisa ser vizinho de um Lacaio e seu outro vizinho vira um Lacaio do mau."},
-      {"id": "pithag_br", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
-      {"id": "poppygrower_br", "reason": "Se a Cultivadora está viva quando na 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
-      {"id": "preacher_br", "reason": "Se o Invocador não tem habilidade, o Narrador tem a habilidade do Invocador."},
-      {"id": "pukka_br", "reason": "O Invocador pode escolher um jogador para se tornar a Púca na 2ª noite."},
-      {"id": "zombuul_br", "reason": "Se o Invocador escolhe um jogador morto para virar o Zumbuul, o Narrador deve tratá-lo, como um Zumbuul que morreu uma vez."}
+      {"id": "clockmakerbr", "reason": "Se o Invocador está em jogo, o Invocador registra como Demônio para o Relojoeiro."},
+      {"id": "courtierbr", "reason": "Se o Invocador não tem habilidade, o Narrador tem a habilidade do Invocador."},
+      {"id": "engineerbr", "reason": "Se o Invocador é removido do jogo, o Narrador tem a habilidade do Invocador."},
+      {"id": "hatterbr", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
+      {"id": "kazalibr", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
+      {"id": "lordoftyphonbr", "reason": "Se um Lorde do Tifão é invocado, ele precisa ser vizinho de um Lacaio e seu outro vizinho vira um Lacaio do mau."},
+      {"id": "pithagbr", "reason": "Se o Invocador cria um 2º Demônio vivo, as mortes são arbitrárias nessa noite."},
+      {"id": "poppygrowerbr", "reason": "Se a Cultivadora está viva quando na 3ª noite, o Invocador escolhe que Demônio, mas o Narrador escolhe qual jogador."},
+      {"id": "preacherbr", "reason": "Se o Invocador não tem habilidade, o Narrador tem a habilidade do Invocador."},
+      {"id": "pukkabr", "reason": "O Invocador pode escolher um jogador para se tornar a Púca na 2ª noite."},
+      {"id": "zombuulbr", "reason": "Se o Invocador escolhe um jogador morto para virar o Zumbuul, o Narrador deve tratá-lo, como um Zumbuul que morreu uma vez."}
     ]
   },
   {
-    "id": "boffin_br",
+    "id": "boffinbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/boffin.png", 
       "https://pedro9paulo.pythonanywhere.com/images/boffinReversed.png"],
@@ -2615,17 +2615,17 @@
     "ability": "O Demônio (mesmo se bêbado ou envenenado) possui a habilidade de um personagem do bem fora de jogo. O Demônio e você sabem qual personagem.",
     "special": [{"name": "replace-character", "type": "reveal"}],
     "jinxes": [
-      {"id": "cultleader_br", "reason": "Se o Demônio tem a habilidade do Líder da Seita, ele não pode se tornar do bem devido a esta habilidade."},
-      {"id": "drunk_br", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Aldeão para ter essa habilidade no lugar."},
-      {"id": "goon_br", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
-      {"id": "heretic_br", "reason": "O Demônio não pode ter a habilidade do Herege"},
-      {"id": "ogre_br", "reason": "O Demônio não pode ter a habilidade do Ogro."},
-      {"id": "politician_br", "reason": "O Demônio não pode ter a habilidade do Político."},
-      {"id": "villageidiot_br", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
+      {"id": "cultleaderbr", "reason": "Se o Demônio tem a habilidade do Líder da Seita, ele não pode se tornar do bem devido a esta habilidade."},
+      {"id": "drunkbr", "reason": "Se o Demônio teria a habilidade do Bêbado, o Sabichão escolhe um Aldeão para ter essa habilidade no lugar."},
+      {"id": "goonbr", "reason": "Se o Demônio tem a habilidade do Capanga, ele não pode se tornar do bem devido a esta habilidade."},
+      {"id": "hereticbr", "reason": "O Demônio não pode ter a habilidade do Herege"},
+      {"id": "ogrebr", "reason": "O Demônio não pode ter a habilidade do Ogro."},
+      {"id": "politicianbr", "reason": "O Demônio não pode ter a habilidade do Político."},
+      {"id": "villageidiotbr", "reason": "Se há fichas do Idiota da Vila sobrando, o Sabichão pode dar ao Demônio a habilidade do Idiota da Vila."}
     ]
   },
   {
-    "id": "xaan_br",
+    "id": "xaanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/xaan.png", 
       "https://pedro9paulo.pythonanywhere.com/images/xaanReversed.png"],
@@ -2642,7 +2642,7 @@
     "ability": "Na X-ésima noite todos os Aldeões são envenenados até o anoitecer. [X Forasteiros]"
   },
   {
-    "id": "wizard_br",
+    "id": "wizardbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/wizard.png", 
       "https://pedro9paulo.pythonanywhere.com/images/wizardReversed.png"],
@@ -2659,7 +2659,7 @@
     "ability": "Uma vez por jogo, escolha realizar um desejo. Se concedido, pode ter um preço e deixar uma pista de sua natureza."
   },
   {
-    "id": "wraith_br",
+    "id": "wraithbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/wraith.png", 
       "https://pedro9paulo.pythonanywhere.com/images/wraithReversed.png"],
@@ -2677,7 +2677,7 @@
     "special": [{"name": "open-eyes", "type": "player", "time": "night"}]
   },
   {
-    "id": "lilmonsta_br",
+    "id": "lilmonstabr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/lilmonsta.png",
       "https://pedro9paulo.pythonanywhere.com/images/lilmonstaReversed.png"],
@@ -2694,16 +2694,16 @@
     "ability": "A cada noite, os Lacaios escolhem quem cuidará do Monstrim e 'é o Demônio'. A cada noite*, um jogador pode morrer. [+1 Lacaio]",
     "special": [{ "name": "pointing", "type": "ability", "time": "night", "global":"minion"}, {"name": "bag-disabled", "type": "selection"}],
     "jinxes": [
-      {"id": "hatter_br", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar."},
-      {"id": "magician_br", "reason": "Se o Mágico está vivo o Narrador escolhe que Lacaio será a babá."},
-      {"id": "poppygrower_br", "reason": "Se o Monstrim e a Cultivadora estão vivos, os Lacaios acordam um por um, até um deles escolher ser a babá do Monstrim"},
-      {"id": "psychopath_br", "reason": "O Psicopata morre por execução enquanto for a babá do Monstrim."},
-      {"id": "scarletwoman_br", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete será a babá do Monstrim pro resto do jogo."},
-      {"id": "vizier_br", "reason": "O Vizir morre por execução enquanto for a babá do Monstrim."}   
+      {"id": "hatterbr", "reason": "Se o Demônio escolher o Monstrim, ele deve escolher também um Lacaio para virar."},
+      {"id": "magicianbr", "reason": "Se o Mágico está vivo o Narrador escolhe que Lacaio será a babá."},
+      {"id": "poppygrowerbr", "reason": "Se o Monstrim e a Cultivadora estão vivos, os Lacaios acordam um por um, até um deles escolher ser a babá do Monstrim"},
+      {"id": "psychopathbr", "reason": "O Psicopata morre por execução enquanto for a babá do Monstrim."},
+      {"id": "scarletwomanbr", "reason": "Se há 5 ou mais jogadores vivos e o jogador segurando o Monstrim morre, a Mulher Escarlete será a babá do Monstrim pro resto do jogo."},
+      {"id": "vizierbr", "reason": "O Vizir morre por execução enquanto for a babá do Monstrim."}   
     ]
   },
   {
-    "id": "lleech_br",
+    "id": "lleechbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/lleech.png",
       "https://pedro9paulo.pythonanywhere.com/images/lleechReversed.png"],
@@ -2719,12 +2719,12 @@
     "setup": false,
     "ability": "A cada noite*, escolha um jogador: ele morre. Você começa escolhendo um jogador vivo: ele fica envenenado - você morre se e somente se este jogador estiver morto.",
     "jinxes": [
-      {"id": "mastermind_br", "reason": "Se o Mentor está vivo e o hospedero da Sanguessuga morre por execução, a Sanguessuga vive, mas perde a habilidade."},
-      {"id": "slayer_br", "reason": "Se o Atirador atira no hospedero da Sanguessuga, o hospedero morre."}
+      {"id": "mastermindbr", "reason": "Se o Mentor está vivo e o hospedero da Sanguessuga morre por execução, a Sanguessuga vive, mas perde a habilidade."},
+      {"id": "slayerbr", "reason": "Se o Atirador atira no hospedero da Sanguessuga, o hospedero morre."}
     ]
   },
   {
-    "id": "alhadikhia_br",
+    "id": "alhadikhiabr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/alhadikhia.png",
       "https://pedro9paulo.pythonanywhere.com/images/alhadikhiaReversed.png"],
@@ -2740,12 +2740,12 @@
     "setup": false,
     "ability": "A cada noite*, você pode escolher 3 jogadores (todos sabem quais): cada um escolhe silenciosamente se vive ou morre, mas se todos viverem, todos morrem.",
     "jinxes": [
-      {"id": "mastermind_br", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."},
-      {"id": "princess_br", "reason": "Se a Princesa nomear & executar um jogador no seu primeiro dia, nignuém morre pela habilidade da Al-Hadikhia"}
+      {"id": "mastermindbr", "reason": "Se a Al-Hadikhia morre por execução e o Mentor está vivo, a Al-Hadikhia escolhe 3 jogadores do bem essa noite: se todos escolherem viver, o mau vence, caso contrário o bem vence."},
+      {"id": "princessbr", "reason": "Se a Princesa nomear & executar um jogador no seu primeiro dia, nignuém morre pela habilidade da Al-Hadikhia"}
     ]
   },
   {
-    "id": "legion_br",
+    "id": "legionbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/legion.png",
       "https://pedro9paulo.pythonanywhere.com/images/legionReversed.png"],
@@ -2762,17 +2762,17 @@
     "ability": "A cada noite*, um jogador pode morrer. Execuções irão falhar se apenas os jogadores maus votarem. Você também é registrado como um Lacaio. [Maioria dos jogadores é Legião]",
     "special": [{ "name": "bag-duplicate", "type": "selection"}],
     "jinxes": [
-      {"id": "engineer_br", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Engenheiro começa sabendo disso, mas não tem habilidade."},
-      {"id": "hatter_br", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Chapeleiro começa sabendo disso, mas não tem habilidade."},
-      {"id": "minstrel_br", "reason": "Se uma Legião morreu por execução, a Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
-      {"id": "politician_br", "reason": "O Político pode registrar como mau para Legião."},
-      {"id": "preacher_br", "reason": "Se o Pregador escolhe uma Legião, ela mantém sua habilidade, mas o Pregador pode saber que ela é uma Legião."},
-      {"id": "summoner_br", "reason": "Se a Legião é invocada, todos os jogadores do mau viram Legião."},
-      {"id": "zealot_br", "reason": "O Fanático pode registrar como mau para Legião."}
+      {"id": "engineerbr", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Engenheiro começa sabendo disso, mas não tem habilidade."},
+      {"id": "hatterbr", "reason": "Se a Legião é criada, todos os jogadores do mal viram Legião. Se Legião está em jogo o Chapeleiro começa sabendo disso, mas não tem habilidade."},
+      {"id": "minstrelbr", "reason": "Se uma Legião morreu por execução, a Legião mantém sua habilidade, mas o Bardo pode saber que ele é um Legião."},
+      {"id": "politicianbr", "reason": "O Político pode registrar como mau para Legião."},
+      {"id": "preacherbr", "reason": "Se o Pregador escolhe uma Legião, ela mantém sua habilidade, mas o Pregador pode saber que ela é uma Legião."},
+      {"id": "summonerbr", "reason": "Se a Legião é invocada, todos os jogadores do mau viram Legião."},
+      {"id": "zealotbr", "reason": "O Fanático pode registrar como mau para Legião."}
     ]
   },
   {
-    "id": "leviathan_br",
+    "id": "leviathanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/leviathan.png",
       "https://pedro9paulo.pythonanywhere.com/images/leviathanReversed.png"],
@@ -2788,23 +2788,23 @@
     "setup": false,
     "ability": "Todos os jogadores sabem que você está em jogo. Depois de 5 dias, o Mal vence. Se mais de 1 jogador do bem for executado, o Mal vence.",
     "jinxes": [
-      {"id": "banshee_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
-      {"id": "exorcist_br", "reason": "Se o Leviatã nomeia e executa o jogador escolhido pelo Exorcista o bem vence."},
-      {"id": "farmer_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
-      {"id": "grandmother_br", "reason": "Se o Leviatã está em jogo e o Neto morre por execução, o mau vence."},
-      {"id": "hatter_br", "reason": "O Leviatã não pode entrar no jogo após o dia 5."},
-      {"id": "innkeeper_br", "reason": "Se o Leviatã nomeia e executa o jogador protegido pelo Taverneiro o bem vence."},
-      {"id": "king_br", "reason": "Se o Leviatã está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada noite."},
-      {"id": "mayor_br", "reason": "Se o Leviatã e o Prefeito estão em vivos no dia 5 & nenhuma execução é feita o time do bem vence."},
-      {"id": "monk_br", "reason": "Se o Leviatã nomeia e executa o jogador protegido pelo Monge bem vence."},
-      {"id": "pithag_br", "reason": "O Leviatã não pode entrar no jogo após o dia 5."},
-      {"id": "ravenkeeper_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
-      {"id": "sage_br", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
-      {"id": "soldier_br", "reason": "Se o Leviatã nomeia e executa o Soldado o bem vence."}
+      {"id": "bansheebr", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
+      {"id": "exorcistbr", "reason": "Se o Leviatã nomeia e executa o jogador escolhido pelo Exorcista o bem vence."},
+      {"id": "farmerbr", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
+      {"id": "grandmotherbr", "reason": "Se o Leviatã está em jogo e o Neto morre por execução, o mau vence."},
+      {"id": "hatterbr", "reason": "O Leviatã não pode entrar no jogo após o dia 5."},
+      {"id": "innkeeperbr", "reason": "Se o Leviatã nomeia e executa o jogador protegido pelo Taverneiro o bem vence."},
+      {"id": "kingbr", "reason": "Se o Leviatã está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada noite."},
+      {"id": "mayorbr", "reason": "Se o Leviatã e o Prefeito estão em vivos no dia 5 & nenhuma execução é feita o time do bem vence."},
+      {"id": "monkbr", "reason": "Se o Leviatã nomeia e executa o jogador protegido pelo Monge bem vence."},
+      {"id": "pithagbr", "reason": "O Leviatã não pode entrar no jogo após o dia 5."},
+      {"id": "ravenkeeperbr", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
+      {"id": "sagebr", "reason": "A cada noite*, o Leviatã escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
+      {"id": "soldierbr", "reason": "Se o Leviatã nomeia e executa o Soldado o bem vence."}
     ]
   },
   {
-    "id": "riot_br",
+    "id": "riotbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/riot.png",
       "https://pedro9paulo.pythonanywhere.com/images/riotReversed.png"],
@@ -2820,22 +2820,22 @@
     "setup": false,
     "ability": "No 3º dia, Lacaios viram Pandemônios & nomeados morrem, mas imediatamente nomeiam um jogador vivo. Isso deve acontecer.",
     "jinxes": [
-      {"id": "atheist_br", "reason": "Durante um pandemônio, se o Narrador é nomeado, os jogador votam, se ele estiver no bloco o jogo acaba, senão eles podem nomear novamente."},
-      {"id": "banshee_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
-      {"id": "exorcist_br", "reason": "Se um Pandemônio nomeia e executa o jogador escolhido pelo Exorcista o bem vence."},
-      {"id": "farmer_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
-      {"id": "grandmother_br", "reason": "Se o Pandemônio está em jogo e o Neto morre por execução, o mau vence."},
-      {"id": "innkeeper_br", "reason": "Se um Pandemônio nomeia e executa o jogador protegido pelo Taverneiro o bem vence."},
-      {"id": "king_br", "reason": "Se um Pandemônio está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada noite."},
-      {"id": "mayor_br", "reason": "O Prefeito pode escolher interromper o pandemônio, se ele fizer isso quando apenas 1 Pandemônio vive, o bem vence, Caso contrário o mal vence."},
-      {"id": "monk_br", "reason": "Se um Pandemônio nomeia e executa o jogador protegido pelo Monge o bem vence."},
-      {"id": "ravenkeeper_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
-      {"id": "sage_br", "reason": "A cada noite*, o Pandemônio escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
-      {"id": "soldier_br", "reason": "Se um Pandemônio nomeia e executa o Soldado o bem vence."}
+      {"id": "atheistbr", "reason": "Durante um pandemônio, se o Narrador é nomeado, os jogador votam, se ele estiver no bloco o jogo acaba, senão eles podem nomear novamente."},
+      {"id": "bansheebr", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Uma Banshee escolhida morre & ganha sua habilidade."},
+      {"id": "exorcistbr", "reason": "Se um Pandemônio nomeia e executa o jogador escolhido pelo Exorcista o bem vence."},
+      {"id": "farmerbr", "reason": "A cada noite*, o Pandemônio escolhe um jogador vivo (diferente da noite anterior): Um Fazendeiro escolhido usa sua habilidade, mas não morre."},
+      {"id": "grandmotherbr", "reason": "Se o Pandemônio está em jogo e o Neto morre por execução, o mau vence."},
+      {"id": "innkeeperbr", "reason": "Se um Pandemônio nomeia e executa o jogador protegido pelo Taverneiro o bem vence."},
+      {"id": "kingbr", "reason": "Se um Pandemônio está em jogo e pelo menos 1 jogador está morto, o Rei sabe 1 personagem vivo a cada noite."},
+      {"id": "mayorbr", "reason": "O Prefeito pode escolher interromper o pandemônio, se ele fizer isso quando apenas 1 Pandemônio vive, o bem vence, Caso contrário o mal vence."},
+      {"id": "monkbr", "reason": "Se um Pandemônio nomeia e executa o jogador protegido pelo Monge o bem vence."},
+      {"id": "ravenkeeperbr", "reason": "A cada noite*, o Pandemônio escolhe um jogador bom vivo (diferente da noite anterior): Um Mestre dos Corvos escolhido usa sua habilidade, mas não morre."},
+      {"id": "sagebr", "reason": "A cada noite*, o Pandemônio escolhe um jogador bom vivo (diferente da noite anterior): Um Sábio escolhido usa sua habilidade, mas não morre."},
+      {"id": "soldierbr", "reason": "Se um Pandemônio nomeia e executa o Soldado o bem vence."}
     ]
   },
   {
-    "id": "ojo_br",
+    "id": "ojobr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/ojo.png", 
       "https://pedro9paulo.pythonanywhere.com/images/ojoReversed.png"],
@@ -2852,7 +2852,7 @@
     "ability": "A cada noite*, escolha um personagem: ele morre. Se ele não está em jogo, o Narrador escolhe quem morre."
   },
   {
-    "id": "kazali_br",
+    "id": "kazalibr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/kazali.png", 
       "https://pedro9paulo.pythonanywhere.com/images/kazaliReversed.png"],
@@ -2869,7 +2869,7 @@
     "ability": "A cada noite* escolha um jogador: ele morre. [Você escolhe quais jogadores são quais Lacaios. -? a +? Forasteiros]"
   },
   {
-    "id": "yaggababble_br",
+    "id": "yaggababblebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/yaggababble.png", 
       "https://pedro9paulo.pythonanywhere.com/images/yaggababbleReversed.png"],
@@ -2886,11 +2886,11 @@
     "ability": "Você começa sabendo uma frase secreta. Para cada vez que você a disser hoje publicamente, alguém pode morrer.",
     "special": [{ "name": "card", "type": "signal", "value": "A frase secreta é:"}],
     "jinxes": [
-      {"id": "exorcist_br", "reason": "Se o Exorcista escolher a Yagarela, a Yagarela não mata esta noite."}
+      {"id": "exorcistbr", "reason": "Se o Exorcista escolher a Yagarela, a Yagarela não mata esta noite."}
     ]
   },
   {
-    "id": "lordoftyphon_br",
+    "id": "lordoftyphonbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/lordoftyphon.png", 
       "https://pedro9paulo.pythonanywhere.com/images/lordoftyphonReversed.png"],
@@ -2907,7 +2907,7 @@
     "ability": "A cada noite* escolha um jogador: ele morre. [Jogadores do mal estão em linha. Você está no meio. +1 Lacaio. -? a +? Forasteiros]"
   },
   {
-    "id": "gangster_br",
+    "id": "gangsterbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gangster.png",
       "https://pedro9paulo.pythonanywhere.com/images/gangsterGood.png",
@@ -2925,7 +2925,7 @@
     "ability": "Uma vez por dia, você pode escolher matar um vizinho vivo, desde que o outro vizinho concorde."
   },
   {
-    "id": "gnome_br",
+    "id": "gnomebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gnome.png",
       "https://pedro9paulo.pythonanywhere.com/images/gnomeGood.png",
@@ -2943,7 +2943,7 @@
     "ability": "Todos os jogadores começam sabendo um jogador do seu alinhamento. Você pode escolher matar qualquer um que nomeie ele."
   },
   {
-    "id": "cacklejack_br",
+    "id": "cacklejackbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/cacklejack.png",
       "https://pedro9paulo.pythonanywhere.com/images/cacklejackGood.png",
@@ -2961,7 +2961,7 @@
     "ability": "A cada dia escolha um jogador: um jogador diferente troca de personagem hoje a noite"
   },
   {
-    "id": "sentinel_br",
+    "id": "sentinelbr",
     "image":[ 
       "https://pedro9paulo.pythonanywhere.com/images/sentinel.png"],
     "name": "Sentinela",
@@ -2977,7 +2977,7 @@
     "ability": "Pode haver 1 Forasteiro a menos ou a mais em jogo."
   },
   {
-    "id": "spiritofivory_br",
+    "id": "spiritofivorybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/spiritofivory.png"],
     "name": "Aura de Marfim",
@@ -2993,7 +2993,7 @@
     "ability": "Não pode haver mais do que 1 jogador do mal adicional."
   },
   {
-    "id": "djinn_br",
+    "id": "djinnbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/djinn.png"],
     "name": "Gênio",
@@ -3009,7 +3009,7 @@
     "ability": "Use a regra especial do Gênio. Todos sabem qual é."
   },
   {
-    "id": "stormcatcher_br",
+    "id": "stormcatcherbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/stormcatcher.png"],
     "name": "Apanhador de Chuvas",
@@ -3025,7 +3025,7 @@
     "ability": "Anuncie o nome de um personagem do bem. Se estiver em jogo, ele só pode morrer por execução, mas o time do mal sabe quem ele é."
   },
   {
-    "id": "doomsayer_br",
+    "id": "doomsayerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/doomsayer.png"],
     "name": "Apocalíptico",
@@ -3041,7 +3041,7 @@
     "ability": "Se há 4 ou mais jogadores vivos, cada jogador vivo pode pedir publicamente (uma vez por jogo) que um jogador do alinhamento dele morra."
   },
   {
-    "id": "angel_br",
+    "id": "angelbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/angel.png"],
     "name": "Anjo",
@@ -3057,7 +3057,7 @@
     "ability": "Algo ruim pode acontecer com quem for o maior responsável pela morte de um jogador novato."
   },
   {
-    "id": "buddhist_br",
+    "id": "buddhistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/buddhist.png"],
     "name": "Budista",
@@ -3073,7 +3073,7 @@
     "ability": "Pelos primeiros 2 minutos de cada dia, veteranos não podem falar."
   },
   {
-    "id": "toymaker_br",
+    "id": "toymakerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/toymaker.png"],
     "name": "Brincalhão",
@@ -3089,7 +3089,7 @@
     "ability": "O Demônio pode escolher não atacar e deve fazer isso ao menos uma vez por jogo. Jogadores do mal recebem informação inicial padrão."
   },
   {
-    "id": "duchess_br",
+    "id": "duchessbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/duchess.png"],
     "name": "Duquesa",
@@ -3105,7 +3105,7 @@
     "ability": "A cada dia 3 jogadores podem escolher visitar o Narrador. À noite*, cada visitante descobre quantos visitantes são do mal, mas 1 deles recebe informação falsa."
   },
   {
-    "id": "fibbin_br",
+    "id": "fibbinbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fibbin.png"],
     "name": "Bufão",
@@ -3121,7 +3121,7 @@
     "ability": "Uma vez por jogo, 1 jogador do bem pode receber informações falsas."
   },
   {
-    "id": "hellslibrarian_br",
+    "id": "hellslibrarianbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/hellslibrarian.png"],
     "name": "Bibliotecária Infernal",
@@ -3137,7 +3137,7 @@
     "ability": "Algo ruim pode acontecer com quem falar quando o Narrador pedir silêncio."
   },
   {
-    "id": "revolutionary_br",
+    "id": "revolutionarybr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/revolutionary.png"],
     "name": "Revolucionário",
@@ -3153,7 +3153,7 @@
     "ability": "2 jogadores vizinhos têm o mesmo alinhamento e todos sabem quem são. Uma vez por jogo, um deles pode ser registrado falsamente."
   },
   {
-    "id": "fiddler_br",
+    "id": "fiddlerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/fiddler.png"],
     "name": "Violinista",
@@ -3170,7 +3170,7 @@
     "special": [{ "name": "pointing", "type": "ability", "time": "day"}]
   },
   {
-    "id": "bootlegger_br",
+    "id": "bootleggerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bootlegger.png"],
     "name": "Pirata",
@@ -3186,7 +3186,7 @@
     "ability": "Personagens ou regras caseiras estão em jogo."
   },
   {
-    "id": "ferryman_br",
+    "id": "ferrymanbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/ferryman.png"],
     "name": "Barqueiro",
@@ -3203,7 +3203,7 @@
     "special": [{ "name": "ghost-votes", "type": "ability", "time": "otherDay"}]
   },
   {
-    "id": "gardener_br",
+    "id": "gardenerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/gardener.png"],
     "name": "Jardineiro",
@@ -3220,7 +3220,7 @@
     "special": [{ "name": "distribute-roles", "type": "ability", "time":"pregame"}]
   },
   {
-    "id": "deusexfiasco_br",
+    "id": "deusexfiascobr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/deusexfiasco.png"],
     "name": "Deus ex Fiasco",
@@ -3236,7 +3236,7 @@
     "ability": "Uma vez por jogo, o Narrador cometerá um erro, irá corrigí-lo e admitir publicamente."
   },
   {
-    "id": "bigwig_br",
+    "id": "bigwigbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/bigwig.png"],
     "name": "Perucão",
@@ -3252,7 +3252,7 @@
     "ability": "Cada nomeado escolhe um jogador: até a votação, apenas ele pode falar & ele deve alucinar que o nomeado é bom or poderá morrer."
   },
   {
-    "id": "tor_br",
+    "id": "torbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/tor.png"],
     "name": "Tor",
@@ -3268,7 +3268,7 @@
     "ability": "Jogadores não sabem seu personagem ou alinhamento, eles aprendem-no quando morrem."
   },
   {
-    "id": "zenomancer_br",
+    "id": "zenomancerbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/zenomancer.png"],
     "name": "Zenomante",
@@ -3284,7 +3284,7 @@
     "ability": "Um ou mais jogadores têm um objetivo. Quando alançado, esse jogador aprende uma informação verdadeira."
   },
   {
-    "id": "hindu_br",
+    "id": "hindubr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/hindu.png"],
     "name": "Hindu",
@@ -3300,7 +3300,7 @@
     "ability": "Os primeiros 4 jogadores a morrerem imediatamente reencarnam como viajantes mantendo o alinhamento."
   },
   {
-    "id": "pope_br",
+    "id": "popebr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/pope.png"],
     "name": "Papa",
@@ -3317,7 +3317,7 @@
     "special": [{ "name": "good-duplicate", "type": "selection"}]
   },
   {
-    "id": "ventriloquist_br",
+    "id": "ventriloquistbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/ventriloquist.png"],
     "name": "Ventríloquo",
@@ -3333,7 +3333,7 @@
     "ability": "Se um jogador está alucinando ser um personagem novo em sua nomeação, ele pode não morrer ao ser executado hoje."
   },
   {
-    "id": "knaves_br",
+    "id": "knavesbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/knaves.png"],
     "name": "Valetes",
@@ -3349,7 +3349,7 @@
     "ability": "Há 2 Narradores: 1 mente & outro fala a verdade. Uma vez por jogo ao anoitecer, eles podem trocar."
   },
   {
-    "id": "godofug_br",
+    "id": "godofugbr",
     "image":[
       "https://pedro9paulo.pythonanywhere.com/images/godofug.png"],
     "name": "Deus dos Ugas",
